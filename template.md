@@ -1,15 +1,16 @@
-# -offers
-Returns all available active offers.
+# -
+
 
 ## Usage
 ```
--offers {page}
+
 ```
 
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-page | The number of the page. | Number | No
+ |  |  | 
+ |  |  | 
 
 ## Examples
 ![image]()

@@ -1,15 +1,15 @@
-# -offers
-Returns all available active offers.
+# -clan
+Returns information about the given clan.
 
 ## Usage
 ```
--offers {page}
+-clan <name>
 ```
 
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-page | The number of the page. | Number | No
+name | The name of the clan. | String | Yes
 
 ## Examples
 ![image]()

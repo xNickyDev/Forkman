@@ -1,15 +1,15 @@
-# -offers
-Returns all available active offers.
+# -emojis
+Returns all existing emojis.
 
 ## Usage
 ```
--offers {page}
+-emojis {page}
 ```
 
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-page | The number of the page. | Number | No
+page |  | Number | No
 
 ## Examples
 ![image]()

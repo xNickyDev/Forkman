@@ -1,9 +1,14 @@
-# -offers
-Returns all available active offers.
+# -loadingscreens
+Returns all existing loading screens.
 
 ## Usage
 ```
--offers {page}
+-loadingscreens {page}
+```
+
+### Aliases
+```
+-ls
 ```
 
 ## Arguments
