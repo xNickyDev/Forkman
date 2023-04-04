@@ -9,7 +9,7 @@ Returns all existing emojis.
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-page |  | Number | No
+page | The number of the page. | Number | No
 
 ## Examples
 ![image]()

@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <div align="center">
 
-[![Forkman](https://cdn.discordapp.com/avatars/1037396167123816499/509d798aa96b5c031b40270127b76247.png?size=4096&quality=high)](https://discord.gg/DEEZY5cwpy)
+[![Forkman](https://cdn.discordapp.com/emojis/1092882485291003954.png?size=4096&quality=high)](https://discord.gg/DEEZY5cwpy)
 
 # Forkman
 Official GitHub documentation of Forkman Discord-Bot
