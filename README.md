@@ -18,4 +18,4 @@ This bot allows you to receive information about players, clans & items, interac
 - [Documentation](https://xnickydev.gitbook.io/forkman)
 - [Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499&scope=bot%20applications.commands&permissions=388161)
 - [Support Server](https://discord.gg/DEEZY5cwpy)
-- [Top.gg](https://top.gg/bot/790951045353963551/)
+- [Top.gg](https://top.gg/bot/1037396167123816499/)
