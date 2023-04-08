@@ -11,7 +11,7 @@ Name | Description | Type | Required
 :-- | :-- | :-- | :--
 rolename | The name or id of the role. | String | Yes
 
-> **Note** : You need to provide the **exact** role ***name*** or ***id***, both works. The argument `rolename` is not case sensitive.
+> **Note** : You need to provide the **exact** role name or id, both works. The argument `rolename` is not case sensitive.
 
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/230731957-823c0bfc-6f83-43b8-b8cd-5eab64a5f289.png)
