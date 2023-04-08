@@ -9,7 +9,7 @@ Returns information about a single role.
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-rolename | The name of the role. | String | Yes
+rolename | The name or id of the role. | String | Yes
 
 > **Note** : You need to provide the **exact** role ***name*** or ***id***, both works. The argument `rolename` is not case sensitive.
 
