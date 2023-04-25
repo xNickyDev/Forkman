@@ -1,17 +1,23 @@
+---
+description: Returns a command help page of Forkman.
+---
+
 # -help
-Returns a command help page of Forkman.
 
 ## Usage
+
 ```
 -help {page}
 ```
 
 ## Arguments
-Name | Description | Type | Required
-:-- | :-- | :-- | :--
-page | The number of the page. | Number | No
+
+| Name | Description             | Type   | Required |
+| ---- | ----------------------- | ------ | -------- |
+| page | The number of the page. | Number | No       |
 
 ## Prefixes
+
 ```
 -
 @Forkman
@@ -20,5 +26,5 @@ page | The number of the page. | Number | No
 > **Note** : The prefix cannot be changed with any command. Only the 2 stated prefixes above are working for Forkman.
 
 ## Examples
-![image]()
-![image]()
+
+![image]() ![image]()
