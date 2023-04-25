@@ -6,7 +6,7 @@
 
 - [Resources]()
     - [Changelog](CHANGELOG.md)
-- [Commands]()
+- Commands
     - [-backgrounds](commands/backgrounds.md)
     - [-challenges](commands/challenges.md)
     - [-clan](commands/clan.md)
