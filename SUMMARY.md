@@ -4,6 +4,7 @@
 
 ## Resources
 
+* [Support Server](https://discord.gg/DEEZY5cwpy)
 * [Changelog](CHANGELOG.md)
 
 ## Commands
