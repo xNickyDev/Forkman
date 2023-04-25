@@ -1,21 +1,8 @@
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<div align="center">
+# Changelog
+# 2023
 
-[![Forkman](https://cdn.discordapp.com/emojis/1092882485291003954.png?size=4096&quality=high)](https://discord.gg/DEEZY5cwpy)
-
-# Forkman
-Official GitHub documentation of Forkman Discord-Bot
-
-</div>
-
----
-## Who is Forkman?
-Forkman; the best role of the game Wolvesville!
-
-This bot allows you to receive information about players, clans & items, interact with clans, play games and much more!
-
-### Links
-- [Documentation](https://xnickydev.gitbook.io/forkman)
-- [Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499&scope=bot%20applications.commands&permissions=388161)
-- [Support Server](https://discord.gg/DEEZY5cwpy)
-- [Top.gg](https://top.gg/bot/1037396167123816499/)
+## April
+- Fixed `-challenges` next page button sometimes not working, causing the interaction to fail
+- Added `-roles` and `/roles`
+- Added `-roleinfo` and `/roleinfo`
+- Added `-backgrounds` and `/backgrounds`
