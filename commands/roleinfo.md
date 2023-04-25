@@ -16,7 +16,9 @@ description: Returns information about a single role.
 | -------- | --------------------------- | ------ | -------- |
 | rolename | The name or id of the role. | String | Yes      |
 
-> **Note** : You need to provide the **exact** role name or id, both works. The argument `rolename` is not case sensitive.
+{% hint style="info" %}
+You need to provide the **exact** role <mark style="color:purple;">name</mark> or <mark style="color:purple;">id</mark>, both works. The argument `rolename` is not case sensitive.
+{% endhint %}
 
 ## Examples
 

@@ -16,7 +16,9 @@ description: Returns profile information about the given player.
 | -------- | ----------------------------------------------------------- | ------ | -------- |
 | username | The username of the player whose profile is to be returned. | String | Yes      |
 
-> **Note** : You need to provide the **exact** username of the player. The argument `username` is case sensitive!
+{% hint style="info" %}
+You need to provide the **exact** username of the player. The argument `username` is case sensitive!
+{% endhint %}
 
 ## Examples
 

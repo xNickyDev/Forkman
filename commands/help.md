@@ -23,7 +23,9 @@ description: Returns a command help page of Forkman.
 @Forkman
 ```
 
-> **Note** : The prefix cannot be changed with any command. Only the 2 stated prefixes above are working for Forkman.
+{% hint style="info" %}
+The prefix cannot be changed with any command. Only the 2 stated prefixes above are working for Forkman.
+{% endhint %}
 
 ## Examples
 
