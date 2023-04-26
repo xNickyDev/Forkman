@@ -24,3 +24,9 @@
 * [-roleicons](commands/roleicons.md)
 * [-roleinfo](commands/roleinfo.md)
 * [-roles](commands/roles.md)
+
+## Team
+
+* [Staff]()
+  * [Developers](team/staff/developers.md)
+* [Contributors](team/contributors.md)
