@@ -4,6 +4,7 @@
 
 ## Resources
 
+* [Invite Forkman](https://discord.com/oauth2/authorize?client\_id=1037396167123816499\&scope=bot%20applications.commands\&permissions=388161)
 * [Support Server](https://discord.gg/DEEZY5cwpy)
 * [Changelog](CHANGELOG.md)
 
