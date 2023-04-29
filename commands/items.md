@@ -1,5 +1,5 @@
 ---
-description: Returns all existing items.
+description: Returns all existing avatar items.
 ---
 
 # -items
