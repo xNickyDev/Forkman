@@ -13,6 +13,7 @@
 * [-backgrounds](commands/backgrounds.md)
 * [-challenges](commands/challenges.md)
 * [-clan](commands/clan.md)
+* [-commandinfo](commands/commandinfo.md)
 * [-emojis](commands/emojis.md)
 * [-help](commands/help.md)
 * [-items](commands/items.md)
