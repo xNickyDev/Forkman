@@ -8,3 +8,4 @@
 * Added `-roles` and `/roles`
 * Added `-roleinfo` and `/roleinfo`
 * Added `-backgrounds` and `/backgrounds`
+* Added `-commandinfo` (Aliases: `-command`, `-help`)
