@@ -10,6 +10,11 @@ description: Returns all available backgrounds.
 -backgrounds {page}
 ```
 
+### Aliases
+```
+-bg
+```
+
 ## Arguments
 
 | Name | Description             | Type   | Required |
