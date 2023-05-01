@@ -10,6 +10,11 @@ description: Returns a command help page of Forkman.
 -help {page/command}
 ```
 
+### Aliases
+```
+-h
+```
+
 ## Arguments
 
 | Name | Description             | Type   | Required |
