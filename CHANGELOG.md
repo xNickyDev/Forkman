@@ -2,6 +2,10 @@
 
 ## 2023
 
+### May
+
+* Added `-changelog`
+
 ### April
 
 * Fixed `-challenges` next page button sometimes not working, causing the interaction to fail
@@ -9,4 +13,3 @@
 * Added `-roleinfo` and `/roleinfo`
 * Added `-backgrounds` and `/backgrounds`
 * Added `-commandinfo` (Aliases: `-command`, `-cmdinfo`, `-help`)
-* Added `-changelog`
