@@ -9,3 +9,4 @@
 * Added `-roleinfo` and `/roleinfo`
 * Added `-backgrounds` and `/backgrounds`
 * Added `-commandinfo` (Aliases: `-command`, `-cmdinfo`, `-help`)
+* Added `-changelog`
