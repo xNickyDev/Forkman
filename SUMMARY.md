@@ -12,8 +12,8 @@
 
 * [-backgrounds](commands/backgrounds.md)
 * [-botinfo](commands/botinfo.md)
-* [-changelog](commands/changelog.md)
 * [-challenges](commands/challenges.md)
+* [-changelog](commands/changelog.md)
 * [-clan](commands/clan.md)
 * [-commandinfo](commands/commandinfo.md)
 * [-emojis](commands/emojis.md)
