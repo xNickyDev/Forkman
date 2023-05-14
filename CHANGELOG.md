@@ -5,6 +5,7 @@
 ### May
 
 * Added `-changelog`
+* Added `-botinfo` (Aliases: `-stats`, `-botstats`)
 
 ### April
 
