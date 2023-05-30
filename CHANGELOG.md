@@ -6,6 +6,8 @@
 
 * Added `-changelog`
 * Added `-botinfo` (Aliases: `-stats`, `-botstats`)
+* Added aliases `player` and `playerinfo` to `-profile`
+* Hidden parts of the player's profile are now flagged as hidden by the bot
 
 ### April
 
