@@ -10,6 +10,12 @@ description: Returns profile information about the given player.
 -profile <username>
 ```
 
+### Aliases
+```
+-player
+-playerinfo
+```
+
 ## Arguments
 
 | Name     | Description                                                 | Type   | Required |
