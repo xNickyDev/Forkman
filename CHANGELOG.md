@@ -2,6 +2,9 @@
 
 ## 2023
 
+### June
+* Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
+
 ### May
 
 * Added `-changelog`
