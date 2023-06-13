@@ -15,6 +15,7 @@
 * [-challenges](commands/challenges.md)
 * [-changelog](commands/changelog.md)
 * [-clan](commands/clan.md)
+* [-collections](commands/collections.md)
 * [-commandinfo](commands/commandinfo.md)
 * [-emojis](commands/emojis.md)
 * [-help](commands/help.md)
