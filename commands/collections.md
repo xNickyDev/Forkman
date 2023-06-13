@@ -22,8 +22,8 @@ Name | Description | Type | Required
 page | The number of the page. | Number | No
 
 ### Possibilities for <mark style="color:purple;">`type`</mark>
-- `emojis` - Returns the emoji collections.
-- `items` - Returns the item collections.
+- `emojis` / `emoji` - Returns the emoji collections.
+- `items` / `item` - Returns the item collections.
 
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/245515549-5b0dc79f-09c0-4000-8ec7-96f673c56aec.png)
