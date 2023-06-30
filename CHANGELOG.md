@@ -4,6 +4,7 @@
 
 ### June
 * Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
+* Fixed `/profile` not working
 
 ### May
 
