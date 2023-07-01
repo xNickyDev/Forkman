@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](src/README.md)
+* [Welcome](README.md)
 
 ## Resources
 
