@@ -5,6 +5,7 @@
 ### July
 * Added **Format** field to `-backgrounds`
 * Added `/botinfo`
+* Fixed role 45 (Cupid) causing errors at `-roles`
 
 ### June
 * Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
