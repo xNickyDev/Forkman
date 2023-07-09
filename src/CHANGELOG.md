@@ -4,6 +4,7 @@
 
 ### July
 * Added **Format** field to `-backgrounds`
+* Added `/botinfo`
 
 ### June
 * Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
