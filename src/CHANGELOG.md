@@ -2,6 +2,9 @@
 
 ## 2023
 
+### July
+* Added **Format** field to `-backgrounds`
+
 ### June
 * Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
 * Fixed `/profile` not working
