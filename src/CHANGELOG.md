@@ -6,6 +6,7 @@
 * Added **Format** field to `-backgrounds`
 * Added `/botinfo`
 * Fixed role 45 (Cupid) causing errors at `-roles`
+* Fixed background name sometimes not displayed if selecting the format at `-backgrounds`
 
 ### June
 * Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
