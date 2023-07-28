@@ -31,6 +31,6 @@
 
 ## Team
 
-* [Staff](src/team/staff/README.md)
-  * [Developers](src/team/staff/developers.md)
-* [Contributors](src/team/contributors.md)
+* [Staff](team/staff/README.md)
+  * [Developers](team/staff/developers.md)
+* [Contributors](team/contributors.md)
