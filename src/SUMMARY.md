@@ -18,6 +18,7 @@
 * [-collections](commands/collections.md)
 * [-commandinfo](commands/commandinfo.md)
 * [-emojis](commands/emojis.md)
+* [-hangman](commands/hangman.md)
 * [-help](commands/help.md)
 * [-items](commands/items.md)
 * [-loadingscreens](commands/loadingscreens.md)
