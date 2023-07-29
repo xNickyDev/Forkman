@@ -7,6 +7,7 @@
 * Added `/botinfo`
 * Fixed role 45 (Cupid) causing errors at `-roles`
 * Fixed background name sometimes not displayed if selecting the format at `-backgrounds`
+* Officially added `-hangman` and `/hangman`
 
 ### June
 * Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
