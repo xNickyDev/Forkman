@@ -9,6 +9,7 @@
 * Fixed background name sometimes not displayed if selecting the format at `-backgrounds`
 * Officially added `-hangman` and `/hangman`
 * Added `/changelog`
+* Fixed `-clan`'s first clan result not showing clans default color
 
 ### June
 * Added `-collections` (Aliases: `-col`, `-collection`) and `/collections`
