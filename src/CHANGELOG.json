@@ -1,5 +1,8 @@
 {
     "2023": {
+        "august": [
+            "Added `-id` and `/id`"
+        ],
         "july": [
             "Added **Format** field to `-backgrounds`",
             "Added `/botinfo`",
