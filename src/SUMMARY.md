@@ -20,6 +20,7 @@
 * [-emojis](commands/emojis.md)
 * [-hangman](commands/hangman.md)
 * [-help](commands/help.md)
+* [-id](commands/id.md)
 * [-items](commands/items.md)
 * [-loadingscreens](commands/loadingscreens.md)
 * [-offers](commands/offers.md)
