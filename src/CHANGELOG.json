@@ -1,7 +1,8 @@
 {
     "2023": {
         "august": [
-            "Added `-id` and `/id`"
+            "Added `-id` and `/id`",
+            "Fixed `-changelog` not working"
         ],
         "july": [
             "Added **Format** field to `-backgrounds`",
