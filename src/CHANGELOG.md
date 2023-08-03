@@ -2,6 +2,10 @@
 
 ## 2023
 
+### August
+* Added `-id` and `/id`
+* Fixed `-changelog` not working
+
 ### July
 * Added **Format** field to `-backgrounds`
 * Added `/botinfo`
