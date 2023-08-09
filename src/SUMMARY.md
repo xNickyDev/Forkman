@@ -8,6 +8,10 @@
 * [Support Server](https://discord.gg/DEEZY5cwpy)
 * [Changelog](CHANGELOG.md)
 
+## Guides
+
+* [Arguments](guides/arguments.md)
+
 ## Commands
 
 * [-backgrounds](commands/backgrounds.md)
