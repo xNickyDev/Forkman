@@ -13,7 +13,7 @@ description: Gets the ID of a player or clan.
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
 <mark style="color:purple">type</mark> | The type of which to get its ID. | Enum | Yes
-name | The name of the selected type. | String | Yes
+name | The **exact** name of the selected type. | String | Yes
 
 ### Possibilities for <mark style="color:purple">`type`</mark>
 - `player` - Gets the ID of a player.
