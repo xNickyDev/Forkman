@@ -19,6 +19,9 @@ name | The name of the selected type. | String | Yes
 - `player` - Gets the ID of a player.
 - `clan` - Gets the ID of a clan.
 
+> This argument is not case sensitive.
+
+
 {% hint style="info" %}
 You need to provide the **exact** name of the player or clan. The argument `name` is case sensitive!
 {% endhint %}
