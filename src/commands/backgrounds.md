@@ -1,5 +1,5 @@
 ---
-description: Returns all available backgrounds.
+description: Returns all existing backgrounds.
 ---
 
 # -backgrounds
