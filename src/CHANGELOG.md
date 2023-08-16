@@ -5,6 +5,8 @@
 ### August
 * Added `-id` and `/id`
 * Fixed `-changelog` not working
+* Added all missing commands to `-help`
+* Added working pages to `-help`
 
 ### July
 * Added **Format** field to `-backgrounds`
