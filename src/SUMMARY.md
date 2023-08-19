@@ -14,6 +14,7 @@
 
 ## Commands
 
+* [-ask](commands/ask.md)
 * [-backgrounds](commands/backgrounds.md)
 * [-botinfo](commands/botinfo.md)
 * [-challenges](commands/challenges.md)
