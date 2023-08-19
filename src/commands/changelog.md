@@ -1,5 +1,5 @@
 ---
-description: Returns the newest changelog.
+description: Returns the newest changelog entries.
 ---
 
 # -changelog
