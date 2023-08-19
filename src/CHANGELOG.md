@@ -7,6 +7,7 @@
 * Fixed `-changelog` not working
 * Added all missing commands to `-help`
 * Added working pages to `-help`
+* Fixed `/help` not working with pages
 
 ### July
 * Added **Format** field to `-backgrounds`
