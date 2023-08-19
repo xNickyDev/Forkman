@@ -4,7 +4,8 @@
             "Added `-id` and `/id`",
             "Fixed `-changelog` not working",
             "Added all missing commands to `-help`",
-            "Added working pages to `-help`"
+            "Added working pages to `-help`",
+            "Fixed `/help` not working with pages"
         ],
         "july": [
             "Added **Format** field to `-backgrounds`",
