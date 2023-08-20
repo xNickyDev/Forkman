@@ -9,6 +9,7 @@
 * Added working pages to `-help`
 * Fixed `/help` not working with pages
 * **[Beta]** Added `-ask` and `/ask`
+* Fixed ephemeral message not showing up at `-hangman`  when clicking another user's button
 
 ### July
 * Added **Format** field to `-backgrounds`
