@@ -16,7 +16,7 @@ This is a **Beta** command. Results may return incorrect or misleading informati
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-question | The question to ask. | String | Yes
+question | The question or search query to ask. | String | Yes
 
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/261823721-1783c675-4f4a-4577-bb34-b69209aa7d37.png)
