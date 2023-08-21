@@ -9,8 +9,8 @@
 * Added working pages to `-help`
 * Fixed `/help` not working with pages
 * **[Beta]** Added `-ask` and `/ask`
-* Fixed `-hangman`'s ephemeral message when clicking another user's button
-* Fixed `-profile`'s ephemeral message when using another user's select menu
+* Fixed `-hangman`'s ephemeral message not showing up when clicking another user's button
+* Fixed `-profile`'s ephemeral message not showing up when using another user's select menu
 ### July
 * Added **Format** field to `-backgrounds`
 * Added `/botinfo`
