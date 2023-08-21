@@ -10,6 +10,7 @@
 * Fixed `/help` not working with pages
 * **[Beta]** Added `-ask` and `/ask`
 * Fixed ephemeral message not showing up at `-hangman` when clicking another user's button
+* Fixed ephemeral message not showing up at `-profile` when using another user's select menu
 
 ### July
 * Added **Format** field to `-backgrounds`
