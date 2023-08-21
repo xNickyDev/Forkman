@@ -1,6 +1,5 @@
 ---
 description: Returns all existing roles.
-usage: -roles {page}
 ---
 
 # -roles
