@@ -12,6 +12,7 @@
 * Fixed `-hangman`'s ephemeral message not showing up when clicking another user's button
 * Fixed `-profile`'s ephemeral message not showing up when using another user's select menu
 * Made it possible to use clan IDs at `-clan`
+* Added `-vote` and `/vote`
 
 ### July
 * Added **Format** field to `-backgrounds`
