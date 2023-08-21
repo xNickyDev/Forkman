@@ -16,6 +16,10 @@ description: Returns information about the given clan.
 | ---- | --------------------------- | ------ | -------- |
 | name | The name or ID of the clan. | String | Yes      |
 
+{% hint style="info" %}
+You can use the [`-id`](./id.md) command to get the ID of any clan.
+{% endhint %}
+
 ## Examples
 
 ![](https://user-images.githubusercontent.com/111157596/229905324-206236fb-84bf-4c59-80d8-d6c61dccb0e7.png)
