@@ -13,6 +13,7 @@
 * Fixed `-profile`'s ephemeral message not showing up when using another user's select menu
 * Made it possible to use clan IDs at `-clan`
 * Added `-vote` and `/vote`
+* Added `/review`
 
 ### July
 * Added **Format** field to `-backgrounds`
