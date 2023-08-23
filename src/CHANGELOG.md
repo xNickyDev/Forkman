@@ -14,6 +14,7 @@
 * Made it possible to use clan IDs at `-clan`
 * Added `-vote` and `/vote`
 * Added `/review`
+* Decreased the mistakes amount of `-hangman` from 10 to **6**
 
 ### July
 * Added **Format** field to `-backgrounds`
