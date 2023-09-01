@@ -2,6 +2,9 @@
 
 ## 2023
 
+### September
+* Fixed `-challenges` returning wrong error message when no BP Challenges are available
+
 ### August
 * Added `-id` and `/id`
 * Fixed `-changelog` not working
