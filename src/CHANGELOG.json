@@ -1,7 +1,8 @@
 {
     "2023": {
         "september": [
-            "Fixed `-challenges` returning wrong error message when no BP Challenges are available"
+            "Fixed `-challenges` returning wrong error message when no BP Challenges are available",
+            "Added optional `month` argument to `-changelog`"
         ],
         "august": [
             "Added `-id` and `/id`",
