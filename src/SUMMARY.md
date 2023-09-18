@@ -35,6 +35,7 @@
 * [-roleicons](commands/roleicons.md)
 * [-roleinfo](commands/roleinfo.md)
 * [-roles](commands/roles.md)
+* [-uptime](commands/uptime.md)
 * [-vote](commands/vote.md)
 
 ## Team
