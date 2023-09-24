@@ -5,7 +5,7 @@
 ### September
 * Fixed `-challenges` returning wrong error message when no BP Challenges are available
 * Added optional `month` argument to `-changelog`
-* Added `-uptime`
+* Added `-uptime` and `/uptime`
 * Added alias `vt` to `-vote`
 
 ### August
