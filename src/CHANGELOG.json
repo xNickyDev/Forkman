@@ -4,7 +4,8 @@
             "Fixed `-challenges` returning wrong error message when no BP Challenges are available",
             "Added optional `month` argument to `-changelog`",
             "Added `-uptime` and `/uptime`",
-            "Added alias `vt` to `-vote`"
+            "Added alias `vt` to `-vote`",
+            "Added **Code** field to \"Avatars\" option of `-profile`"
         ],
         "august": [
             "Added `-id` and `/id`",
