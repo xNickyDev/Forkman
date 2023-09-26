@@ -7,8 +7,8 @@
 * Added optional `month` argument to `-changelog`
 * Added `-uptime` and `/uptime`
 * Added alias `vt` to `-vote`
-* Added **Code** field to \"Avatars\" option of `-profile`
-* Added **Flair** field to \"Clan\" option of `-profile`
+* Added **Code** field to "Avatars" option of `-profile`
+* Added **Flair** field to "Clan" option of `-profile`
 
 ### August
 * Added `-id` and `/id`
