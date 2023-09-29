@@ -9,6 +9,7 @@
 * Added alias `vt` to `-vote`
 * Added **Code** field to "Avatars" option of `-profile`
 * Added **Flair** field to "Clan" option of `-profile`
+* Updated `-hangman`
 
 ### August
 * Added `-id` and `/id`
