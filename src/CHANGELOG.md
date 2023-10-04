@@ -2,6 +2,9 @@
 
 ## 2023
 
+### October
+* Added "Last Updated" timestamp to `-changelog`
+
 ### September
 * Fixed `-challenges` returning wrong error message when no BP Challenges are available
 * Added optional `month` argument to `-changelog`
