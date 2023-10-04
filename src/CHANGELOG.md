@@ -4,6 +4,7 @@
 
 ### October
 * Added "Last Updated" timestamp to `-changelog`
+* Added page buttons to `-help`
 
 ### September
 * Fixed `-challenges` returning wrong error message when no BP Challenges are available
