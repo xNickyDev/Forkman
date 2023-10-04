@@ -1,5 +1,8 @@
 {
     "2023": {
+        "october": [
+            "Added \"Last Updated\" timestamp to `-changelog`"
+        ],
         "september": [
             "Fixed `-challenges` returning wrong error message when no BP Challenges are available",
             "Added optional `month` argument to `-changelog`",
