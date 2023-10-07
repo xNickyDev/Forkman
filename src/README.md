@@ -19,3 +19,10 @@ This bot allows you to receive information about players, clans & items, interac
 - [Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499&scope=bot%20applications.commands&permissions=388161)
 - [Support Server](https://discord.gg/DEEZY5cwpy)
 - [Top.gg](https://top.gg/bot/1037396167123816499/)
+
+---
+<div align="center">
+<footer>
+  <p>This is an unofficial bot, which is not afflicted with <a href="https://www.wolvesville.com">Wolvesville GmbH & Co. KG</a> in any way.<br>By using this bot, you hereby consent to its <a href="">Privacy Policy</a> and the <a href="https://api-docs.wolvesville.com/#/tos">Wolvesville Terms of Service</a>.<br>Player and Clan data is fetched on demand from the <a href="https://api-docs.wolvesville.com">Official Public Wolvesville API</a>.</p>
+</footer>
+</div>
