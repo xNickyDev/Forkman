@@ -6,8 +6,20 @@ Over the last month we've been working hard and long to completely revamp Forkma
 
 In this announcement, we're introducing exactly **3 newly added features** to Forkman. Stay tuned!
 
-## 1.  Hangman Game Stats
+## 1. Hangman Game Stats
 The Hangman game has received an update! You can now see various statistics of your Hangman gameplay. Additionally, we have added two leaderboards: **Wins Leaderboard** and **Best Time Leaderboard**. They show the 3 best players in each category.
 
 Guess Wolvesville roles correctly and climb to the top of the 3 best Hangman players!
-> ![preview1](https://github.com/xNickyDev/Forkman/assets/111157596/96ab795d-e288-4618-8c11-6f62a0667f0d)
+> #### Preview
+> ![](https://github.com/xNickyDev/Forkman/assets/111157596/96ab795d-e288-4618-8c11-6f62a0667f0d)
+
+## 2. Question Game Update [Beta]
+The Question game has also received an update! You can now purchase **+5 Seconds** to increase the countdown timer by 5 seconds each and you can purchase **Gold Multipliers** to earn a higher amount of gold for each question answered correctly. We have also added personal statistics to this game: **Highest Streak** and **Questions Count**.
+
+> **Highest Streak**: Displays your highest question streak ever.\
+> **Questions Count**: Displays the total number of questions you answered correctly.
+
+For each of these new stats, there are 2 separate leaderboards to honor the top 3 players in this game 🥇
+
+> #### Preview
+> ![](https://github.com/xNickyDev/Forkman/assets/111157596/62e164de-b8a5-4153-bafa-ee9913da1d9c)
