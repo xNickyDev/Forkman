@@ -14,7 +14,7 @@ Guess Wolvesville roles correctly and climb to the top of the 3 best Hangman pla
 > ![](https://github.com/xNickyDev/Forkman/assets/111157596/96ab795d-e288-4618-8c11-6f62a0667f0d)
 
 ## 2. Question Game Update [Beta]
-The Question game has also received an update! You can now purchase **+5 Seconds** to increase the countdown timer by 5 seconds each and you can purchase **Gold Multipliers** to earn a higher amount of gold for each question answered correctly. We have also added personal statistics to this game: **Highest Streak** and **Questions Count**.
+The Question game has also received an update! You can now purchase **+5 Seconds** to increase the countdown timer by 5 seconds and you can purchase **Gold Multipliers** to earn a higher amount of gold for each question answered correctly. We have also added personal statistics to this game: **Highest Streak** and **Questions Count**.
 
 > **Highest Streak**: Displays your highest question streak ever.\
 > **Questions Count**: Displays the total number of questions you answered correctly.
