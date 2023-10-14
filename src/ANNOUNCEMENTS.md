@@ -26,5 +26,5 @@ For each of these new stats, there are 2 separate leaderboards to honor the top 
 
 ### Known Bugs & Problems
 - Colors of `-profile` and `-clan` are not 100% working correctly and may cause the bot to crash if an invalid hex is returned by the API. A required function to prevent this is currently missing.
-- `-help` cannot return info regarding commands. Only the `page` parameter is working.
+- `-help` cannot return info regarding commands. Only the `page` parameter is working for now.
 > Found an unknown bug? Join our [Support Server](https://discord.gg/DEEZY5cwpy) to report it to us!
