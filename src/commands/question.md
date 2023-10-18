@@ -1,5 +1,5 @@
 ---
-description: Play the "Question Game".
+description: Play the "Question" game.
 ---
 
 # -question
