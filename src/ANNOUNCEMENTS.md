@@ -32,7 +32,7 @@ In order to allow the use of upcoming commands in the future, you will need to g
 > *more information will be added soon*
 
 ### Verification of Clans
-In order to allow the use of clan related commands in the future, you will need to get your Wolvesville account **and** clan verified on Discord. **This step is voluntary and only required if you have Forkman added as bot to your clan!**
+In order to allow the use of clan related commands in the future, you will need to get your Wolvesville account **and** clan verified on Discord. **This step is voluntary and only required if Forkman is added as bot to your clan!**
 > *more information will be added soon*
 
 ---
