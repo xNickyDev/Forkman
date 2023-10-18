@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Announcements](ANNOUNCEMENTS.md)
 
 ## Resources
 
