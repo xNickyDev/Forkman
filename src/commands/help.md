@@ -13,6 +13,7 @@ description: Returns a command help page of Forkman.
 ### Aliases
 ```
 -h
+-commands
 ```
 
 ## Arguments
