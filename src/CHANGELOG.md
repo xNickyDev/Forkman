@@ -7,6 +7,7 @@
 * Added page buttons to `-help`
 * Added `command` option to `/help`
 * Added alias `commands` to `-help`
+* Added "Achievements" option to `-profile`
 
 ### September
 * Fixed `-challenges` returning wrong error message when no BP Challenges are available
