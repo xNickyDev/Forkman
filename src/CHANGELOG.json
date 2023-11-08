@@ -1,5 +1,8 @@
 {
     "2023": {
+        "november": [
+            "Added `-quests`"
+        ],
         "october": [
             "Added \"Last Updated\" timestamp to `-changelog`",
             "Added page buttons to `-help`",
