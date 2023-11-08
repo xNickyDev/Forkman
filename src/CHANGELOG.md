@@ -2,6 +2,9 @@
 
 ## 2023
 
+### November
+* Added `-quests`
+
 ### October
 * Added "Last Updated" timestamp to `-changelog`
 * Added page buttons to `-help`
