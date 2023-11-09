@@ -37,7 +37,6 @@ In order to allow the use of clan related commands in the future, you will need 
 
 ---
 ### Known Bugs & Problems
-- Colors of `-profile` and `-clan` are not 100% working correctly and may cause the bot to crash if an invalid hex is returned by the API. A required function to prevent this is currently missing. (may be fixed)
 - The **Language** field of `-clan` displays the country code instead of the actual language. This is a temporary solution until the issue is resolved.
 - Clicking trough pages can sometimes cause the bot to crash. At this point we don't know what the problem is nor how we can fix it. If you encounter this issue, please contact us **immediately**!
 > Found an unknown bug? Join our [Support Server](https://discord.gg/DEEZY5cwpy) to report it to us!
