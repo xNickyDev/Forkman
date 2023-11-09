@@ -34,6 +34,7 @@
 * [-ping](commands/ping.md)
 * [-profile](commands/profile.md)
 * [-question](commands/question.md)
+* [-quests](commands/quests.md)
 * [-roleicons](commands/roleicons.md)
 * [-roleinfo](commands/roleinfo.md)
 * [-roles](commands/roles.md)
