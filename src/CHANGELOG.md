@@ -4,6 +4,7 @@
 
 ### November
 * Added `-quests`
+* Added alias `role` to `-roleinfo`
 
 ### October
 * Added "Last Updated" timestamp to `-changelog`
