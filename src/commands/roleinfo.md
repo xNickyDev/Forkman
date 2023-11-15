@@ -10,6 +10,12 @@ description: Returns information about a single role.
 -roleinfo <rolename>
 ```
 
+### Aliases
+
+```
+-role
+```
+
 ## Arguments
 
 | Name     | Description                 | Type   | Required |
