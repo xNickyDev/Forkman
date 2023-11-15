@@ -1,7 +1,8 @@
 {
     "2023": {
         "november": [
-            "Added `-quests`"
+            "Added `-quests`",
+            "Added alias `role` to `-roleinfo`"
         ],
         "october": [
             "Added \"Last Updated\" timestamp to `-changelog`",
