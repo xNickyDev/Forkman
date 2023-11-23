@@ -5,6 +5,7 @@
 ### November
 * Added `-quests`
 * Added alias `role` to `-roleinfo`
+* Added filter search options to `/clan`
 
 ### October
 * Added "Last Updated" timestamp to `-changelog`
