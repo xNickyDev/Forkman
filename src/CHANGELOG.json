@@ -2,7 +2,8 @@
     "2023": {
         "november": [
             "Added `-quests`",
-            "Added alias `role` to `-roleinfo`"
+            "Added alias `role` to `-roleinfo`",
+            "Added filter search options to `/clan`"
         ],
         "october": [
             "Added \"Last Updated\" timestamp to `-changelog`",
