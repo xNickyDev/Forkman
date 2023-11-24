@@ -1,8 +1,6 @@
----
-description: Returns information about the given clan.
----
-
 # -clan
+
+Returns information about the given clan.
 
 ## Usage
 
@@ -16,9 +14,7 @@ description: Returns information about the given clan.
 | ---- | --------------------------- | ------ | -------- |
 | name | The name or ID of the clan. | String | Yes      |
 
-{% hint style="info" %}
-You can use the [`-id`](./id.md) command to get the ID of any clan.
-{% endhint %}
+> You can use the [`-id`](./id.md) command to get the ID of any clan.
 
 ## Examples
 

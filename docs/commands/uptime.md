@@ -1,10 +1,9 @@
----
-description: Returns the uptime of the bot.
----
-
 # -uptime
 
+Returns the uptime of the bot.
+
 ## Usage
+
 ```
 -uptime
 ```

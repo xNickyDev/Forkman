@@ -1,29 +1,28 @@
----
-description: Gets the ID of a player or clan.
----
-
 # -id
 
+Gets the ID of a player or clan.
+
 ## Usage
+
 ```
 -id <type (player/clan)> <name>
 ```
 
 ## Arguments
-Name | Description | Type | Required
-:-- | :-- | :-- | :--
-<mark style="color:purple">type</mark> | The type of which to get its ID. | Enum | Yes
-name | The name of the selected type. | String | Yes
 
-### Possibilities for <mark style="color:purple">`type`</mark>
+| Name       | Description                      | Type   | Required |
+| ---------- | -------------------------------- | ------ | -------- |
+| **`type`** | The type of which to get its ID. | Enum   | Yes      |
+| name       | The name of the selected type.   | String | Yes      |
+
+### Possibilities for **`type`**
+
 - `player` - Gets the ID of a player.
 - `clan` - Gets the ID of a clan.
 
-This argument is not case sensitive.
+> The argument `type` is not case sensitive.
 
-{% hint style="info" %}
-You need to provide the **exact** name of the player or clan. The argument `name` is case sensitive!
-{% endhint %}
+> You need to provide the **exact** name of the player or clan. The argument `name` is case sensitive!
 
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/258177993-69b27ae6-25ab-44fa-b95b-500e9f62abc0.png)

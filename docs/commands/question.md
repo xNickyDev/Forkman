@@ -1,10 +1,9 @@
----
-description: Play the "Question" game.
----
-
 # -question
 
+Play the "Question" game.
+
 ## Usage
+
 ```
 -question
 ```

@@ -1,8 +1,6 @@
----
-description: Returns all existing clan quests.
----
-
 # -quests
+
+Returns all existing clan quests.
 
 ## Usage
 

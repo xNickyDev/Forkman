@@ -1,11 +1,6 @@
----
-description: >-
-  This section will explain the various bracket and argument types used for
-  command arguments. Command arguments are anything that goes in the brackets <>
-  and {} of a command.
----
-
 # Arguments
+
+This section will explain the various bracket and argument types used for command arguments. Command arguments are anything that goes in the brackets `<>` and `{}` of a command.
 
 ## Bracket Types
 
@@ -15,9 +10,7 @@ The bracket around an argument indicates whether the argument is required (must 
 * `{}` - This argument is optional, it **can** be included but not required.
 * `()` - This holds enum values for the argument, **one** option must be picked and specified.
 
-{% hint style="warning" %}
-**Do not include** the brackets (`<>`, `{}` and `()`) when using a command.
-{% endhint %}
+> **Do not include** the brackets (`<>`, `{}` and `()`) when using a command.
 
 ## Argument Types
 
