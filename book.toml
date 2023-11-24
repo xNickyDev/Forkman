@@ -1,7 +1,0 @@
-[book]
-authors = ["Nicky"]
-language = "en"
-multilingual = false
-src = "docs"
-title = "Forkman Documentation"
-description = "The Official Documenation of Forkman Discord-Bot!"
