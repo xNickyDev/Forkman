@@ -1,3 +1,5 @@
+<div align="center">
+
 # Welcome
 
 [![Forkman](https://cdn.discordapp.com/emojis/1092882485291003954.png?size=4096\&quality=high)](https://discord.gg/DEEZY5cwpy)
@@ -5,6 +7,8 @@
 ## Forkman
 
 Official documentation of Forkman Discord-Bot
+
+</div>
 
 ***
 
