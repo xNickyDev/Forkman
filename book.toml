@@ -2,6 +2,6 @@
 authors = ["Nicky"]
 language = "en"
 multilingual = false
-src = "src"
+src = "docs"
 title = "Forkman Documentation"
 description = "The Official Documenation of Forkman Discord-Bot!"
