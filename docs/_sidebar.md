@@ -1,5 +1,5 @@
-* [Welcome](README.md)
-* [Announcements](ANNOUNCEMENTS.md)
+- [Welcome](README.md)
+- [Announcements](ANNOUNCEMENTS.md)
 
 - **RESOURCES**
 
@@ -7,11 +7,11 @@
   - [Support Server](https://discord.gg/DEEZY5cwpy)
   - [Changelog](CHANGELOG.md)
 
-- GUIDES
+- **GUIDES**
 
   - [Arguments](guides/arguments.md)
 
-- COMMANDS
+- **COMMANDS**
 
   - [-ask](commands/ask.md)
   - [-backgrounds](commands/backgrounds.md)
@@ -39,7 +39,7 @@
   - [-uptime](commands/uptime.md)
   - [-vote](commands/vote.md)
 
-- TEAM
+- **TEAM**
 
   - [Staff](team/staff/README.md)
     - [Developers](team/staff/developers.md)
