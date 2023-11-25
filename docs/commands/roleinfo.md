@@ -20,6 +20,7 @@ Returns information about a single role.
 | -------- | --------------------------- | ------ | -------- |
 | rolename | The name or id of the role. | String | Yes      |
 
+> [!NOTE]
 > You need to provide the **exact** role _name_ or _id_, both works. The argument `rolename` is not case sensitive.
 
 ## Examples
