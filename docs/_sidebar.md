@@ -40,7 +40,7 @@
   - [-vote](commands/vote.md)
 
 - Team
-    <details>
-    <summary>[Staff](team/staff/README.md)</summary>
-      - [Developers](team/staff/developers.md) </details>
-    - [Contributors](team/contributors.md)
+
+  - [Staff](team/staff/README.md)
+    - [Developers](team/staff/developers.md)
+  - [Contributors](team/contributors.md)
