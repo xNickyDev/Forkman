@@ -20,8 +20,10 @@ Gets the ID of a player or clan.
 - `player` - Gets the ID of a player.
 - `clan` - Gets the ID of a clan.
 
+> [!NOTE]
 > The argument `type` is not case sensitive.
 
+> [!NOTE]
 > You need to provide the **exact** name of the player or clan. The argument `name` is case sensitive!
 
 ## Examples
