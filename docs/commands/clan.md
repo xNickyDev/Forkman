@@ -14,7 +14,8 @@ Returns information about the given clan.
 | ---- | --------------------------- | ------ | -------- |
 | name | The name or ID of the clan. | String | Yes      |
 
-> You can use the [`-id`](./id.md) command to get the ID of any clan.
+> [!TIP]
+> You can use the [`-id`](commands/id.md) command to get the ID of any clan.
 
 ## Examples
 
