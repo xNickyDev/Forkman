@@ -22,6 +22,7 @@ Returns information about the specified command.
 | ------- | ---------------------------- | ------- | -------- |
 | command | The command name of Forkman. | Command | Yes      |
 
+> [!NOTE]
 > You need to provide the **exact** command name of Forkman. The argument `command` is not case sensitive.
 
 ## Examples
