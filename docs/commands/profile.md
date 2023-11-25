@@ -21,6 +21,7 @@ Returns profile information about the given player.
 | -------- | ----------------------------------------------------------- | ------ | -------- |
 | username | The username of the player whose profile is to be returned. | String | Yes      |
 
+> [!NOTE]
 > You need to provide the **exact** username of the player. The argument `username` is case sensitive!
 
 ## Examples
