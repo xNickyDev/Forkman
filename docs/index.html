@@ -26,8 +26,8 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: '<b>Forkman</b>',
-        nameLink: './#/README.md',
+        name: "<b>Forkman</b>",
+        nameLink: "./#/README.md",
         auto2top: true,
         loadSidebar: true,
         loadNavbar: true,
@@ -51,6 +51,11 @@
           terms: "",
           onBody: true
         },
+        copyCode: {
+          buttonText: "Copy to clipboard",
+          errorText: "Error!",
+          successText: "Copied!"
+        },
         themeColor: "#FA9405",
         darkMode: {
           dark: {
@@ -67,8 +72,9 @@
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//unpkg.com/docsify-copy-code@2"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   </body>
 </html>
