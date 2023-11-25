@@ -1,5 +1,4 @@
-- [Welcome](README.md)
-- [Announcements](ANNOUNCEMENTS.md)
+- [Welcome](home.md)
 
 - Resources
 
