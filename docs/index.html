@@ -7,6 +7,7 @@
     <link rel="shortcut icon" type="image/png" href="https://cdn.discordapp.com/emojis/1092882485291003954.png">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css" />
   </head>
   <body>
     <div id="app"></div>
@@ -22,11 +23,15 @@
         alias: {
           '/.*/_sidebar.md': '/_sidebar.md'
         },
+        topBanner: {
+          content: "👋 Welcome to our new website!"
+        },
         themeColor: "#FA9405",
         darkMode: {
           dark: {
             background: "#1c2022",
             toggleBtnBg: "#52555e",
+            textColor: "#b4b4b4"
           },
           light: {
             background: "white",
@@ -38,5 +43,6 @@
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
   </body>
 </html>
