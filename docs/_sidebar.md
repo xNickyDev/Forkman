@@ -36,6 +36,6 @@
   - [-vote](commands/vote.md)
 
 - **Team**
-  - [Staff](team/staff/README.md)
+  - [Staff](team/staff/introduction.md)
     - [Developers](team/staff/developers.md)
   - [Contributors](team/contributors.md)
