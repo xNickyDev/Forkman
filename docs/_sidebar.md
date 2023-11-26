@@ -41,7 +41,7 @@
 - Team
 
   - [Staff](team/staff/README.md)
-    \__ [Developers](team/staff/developers.md)
+    - [Developers](team/staff/developers.md)
   - [Contributors](team/contributors.md)
 
 <footer id="mb-footer"></footer>
