@@ -1,16 +1,16 @@
 - [Welcome](home.md)
 
-- Resources
+- **Resources**
 
   - [Invite Forkman](https://discord.com/oauth2/authorize?client\_id=1037396167123816499\&scope=bot%20applications.commands\&permissions=388161)
   - [Support Server](https://discord.gg/DEEZY5cwpy)
   - [Changelog](CHANGELOG.md)
 
-- Guides
+- **Guides**
 
   - [Arguments](guides/arguments.md)
 
-- Commands
+- **Commands**
 
   - [-ask](commands/ask.md)
   - [-backgrounds](commands/backgrounds.md)
@@ -38,7 +38,7 @@
   - [-uptime](commands/uptime.md)
   - [-vote](commands/vote.md)
 
-- Team
+- **Team**
 
   - [Staff](team/staff/README.md)
     - [Developers](team/staff/developers.md)
