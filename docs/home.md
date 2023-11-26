@@ -25,7 +25,9 @@ This bot allows you to receive information about players, clans & items, interac
 
 ---
 <div align="center">
-
+  
 This is an unofficial bot, which is not affiliated with [Wolvesville GmbH & Co. KG](https://www.wolvesville.com) in any way.
 
 </div>
+
+<footer id="mb-footer"></footer>
