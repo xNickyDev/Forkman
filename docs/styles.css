@@ -1,6 +1,6 @@
 img.rounded-corners {
   border-radius: 0.5px;
-},
+}
 
 img[src*="#round"] {
   border-radius: 0.4px;
