@@ -30,5 +30,5 @@ Returns all existing collections of the specified type.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/245515549-5b0dc79f-09c0-4000-8ec7-96f673c56aec.png)
-![](https://user-images.githubusercontent.com/111157596/245515652-362ace77-7069-448a-a91c-5b51fc4ce43b.png)
+<img src="https://user-images.githubusercontent.com/111157596/245515549-5b0dc79f-09c0-4000-8ec7-96f673c56aec.png" class="rounded-corners">\
+<img src="https://user-images.githubusercontent.com/111157596/245515652-362ace77-7069-448a-a91c-5b51fc4ce43b.png" class="rounded-corners">
