@@ -22,5 +22,4 @@ Returns all existing backgrounds.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/234331363-6663a575-c110-42a1-96e9-6450492df32e.png" alt="" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/234331462-55468451-3dcd-4daa-9bd4-9b229f68b3dc.png" class="rounded-corners">
+
