@@ -1,5 +1,5 @@
-a:link {
-  color: var(--theme-color);
+:root {
+  --link-color: var(--theme-color);
 }
 
 img.rounded-corners {
