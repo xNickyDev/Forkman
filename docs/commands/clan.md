@@ -19,5 +19,5 @@ Returns information about the given clan.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/229905324-206236fb-84bf-4c59-80d8-d6c61dccb0e7.png)
-![](https://user-images.githubusercontent.com/111157596/262069321-6a01b945-bb17-47c0-bbf8-ff9dea2e9582.png)
+<img src="https://user-images.githubusercontent.com/111157596/229905324-206236fb-84bf-4c59-80d8-d6c61dccb0e7.png" class="rounded-corners">\
+<img src="https://user-images.githubusercontent.com/111157596/262069321-6a01b945-bb17-47c0-bbf8-ff9dea2e9582.png" class="rounded-corners">
