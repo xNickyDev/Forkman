@@ -3,7 +3,7 @@
         "december": [
             "Added `year` option to `/changelog`",
             "Made it possible to retrieve command information using aliases"
-        ].
+        ],
         "november": [
             "Added `-quests`",
             "Added alias `role` to `-roleinfo`",
