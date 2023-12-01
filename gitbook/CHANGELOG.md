@@ -2,6 +2,10 @@
 
 ## 2023
 
+### December
+* Added `year` option to `/changelog`
+* Made it possible to retrieve command information using aliases
+
 ### November
 * Added `-quests`
 * Added alias `role` to `-roleinfo`
