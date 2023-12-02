@@ -5,14 +5,10 @@
   --link-text-decoration-color--hover: var(--theme-color);
 }
 
-.icon {
-  float: left;
-  height: 50px;
-  width: 50px;
-  font-family: Veranda;
-}
 .heading {
-  float: right;
+  display: flex;
+  align-items: center;
+  justify-content: center
 }
 
 img.rounded-corners {
