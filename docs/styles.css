@@ -5,6 +5,15 @@
   --link-text-decoration-color--hover: var(--theme-color);
 }
 
+.icon {
+  float: left;
+  height: 50px;
+  width: 50px;
+}
+.heading {
+  float: right;
+}
+
 img.rounded-corners {
   border-radius: 0.4px;
 }
