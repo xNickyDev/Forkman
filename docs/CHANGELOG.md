@@ -5,7 +5,7 @@
 ### December
 * Added `year` option to `/changelog`
 * Made it possible to retrieve command information using aliases
-* Fixed country code display in "Language" field of `-clan`
+* Fixed country code displayed in "Language" field of `-clan`
 * Fixed some country flags not displayed at `-clan`
 * Optimized `-clan`
 
