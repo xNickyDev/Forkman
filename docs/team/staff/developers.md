@@ -2,7 +2,7 @@
 
 The official Developers of Forkman.
 
-## <div class="heading"><img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" width="30" height="30"> itsnicky.</div>
+## <div class="heading"><img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" width="30" height="30"> <p>itsnicky.</p></div>
 
 Founder, Developer
 
