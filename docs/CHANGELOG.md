@@ -8,6 +8,7 @@
 * Fixed country codes displayed in "Language" field of `-clan`
 * Fixed some country flags not displayed at `-clan`
 * Optimized `-clan`
+* Added `-balance` and `/balance`
 
 ### November
 * Added `-quests`
