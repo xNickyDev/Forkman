@@ -5,7 +5,8 @@
             "Made it possible to retrieve command information using aliases",
             "Fixed country codes displayed in \"Language\" field of `-clan`",
             "Fixed some country flags not displayed at `-clan`",
-            "Optimized `-clan`"
+            "Optimized `-clan`",
+            "Added `-balance` and `/balance`"
         ],
         "november": [
             "Added `-quests`",
