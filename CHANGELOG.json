@@ -6,7 +6,8 @@
             "Fixed country codes displayed in \"Language\" field of `-clan`",
             "Fixed some country flags not displayed at `-clan`",
             "Optimized `-clan`",
-            "Added `-balance` and `/balance`"
+            "Added `-balance` and `/balance`",
+            "**[Beta]** Added `-bomber` and `/bomber`"
         ],
         "november": [
             "Added `-quests`",
