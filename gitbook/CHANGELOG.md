@@ -9,6 +9,7 @@
 * Fixed some country flags not displayed at `-clan`
 * Optimized `-clan`
 * Added `-balance` and `/balance`
+* **[Beta]** Added `-bomber` and `/bomber`
 
 ### November
 * Added `-quests`
