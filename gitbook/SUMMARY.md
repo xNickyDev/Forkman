@@ -17,6 +17,7 @@
 * [-ask](commands/ask.md)
 * [-backgrounds](commands/backgrounds.md)
 * [-balance](commands/balance.md)
+* [-bomber](commands/bomber.md)
 * [-botinfo](commands/botinfo.md)
 * [-challenges](commands/challenges.md)
 * [-changelog](commands/changelog.md)
