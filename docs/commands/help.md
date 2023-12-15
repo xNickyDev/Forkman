@@ -21,16 +21,6 @@ Returns a command help page of Forkman.
 | ---------------- | ---------------------------------------------------- | ------------------ | -------- |
 | page <br>command | The number of the page. <br>The name of the command. | Number <br>Command | No       |
 
-## Prefixes
-
-```
--
-@Forkman
-```
-
-> [!NOTE]
-> The prefix cannot be changed with any command. Only the 2 stated prefixes above are working for Forkman.
-
 ## Examples
 
 ![](https://user-images.githubusercontent.com/111157596/235347639-969b58a5-6ece-4af9-a4b1-10120f211775.png)
