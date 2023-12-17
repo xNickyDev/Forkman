@@ -10,6 +10,7 @@
 * Optimized `-clan`
 * Added `-balance` and `/balance`
 * **[Beta]** Added `-bomber` and `/bomber`
+* Added suggested clan names search to `/clan`
 
 ### November
 * Added `-quests`
