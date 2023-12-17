@@ -7,7 +7,8 @@
             "Fixed some country flags not displayed at `-clan`",
             "Optimized `-clan`",
             "Added `-balance` and `/balance`",
-            "**[Beta]** Added `-bomber` and `/bomber`"
+            "**[Beta]** Added `-bomber` and `/bomber`",
+            "Added suggested clan names search to `/clan`"
         ],
         "november": [
             "Added `-quests`",
