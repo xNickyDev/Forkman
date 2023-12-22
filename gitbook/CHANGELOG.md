@@ -11,6 +11,7 @@
 * Added `-balance` and `/balance`
 * **[Beta]** Added `-bomber` and `/bomber`
 * Added suggested clan names search to `/clan`
+* Added "Balance" user context menu
 
 ### November
 * Added `-quests`
