@@ -8,7 +8,8 @@
             "Optimized `-clan`",
             "Added `-balance` and `/balance`",
             "**[Beta]** Added `-bomber` and `/bomber`",
-            "Added suggested clan names search to `/clan`"
+            "Added suggested clan names search to `/clan`",
+            "Added \"Balance\" user context menu"
         ],
         "november": [
             "Added `-quests`",
