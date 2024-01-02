@@ -1,4 +1,9 @@
 {
+    "2024": {
+        "january": [
+            "Adapted `-challenges` to the new update"
+        ]
+    },
     "2023": {
         "december": [
             "Added `year` option to `/changelog`",
