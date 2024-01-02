@@ -1,5 +1,10 @@
 # Changelog
 
+## 2024
+
+### January
+* Adapted `-challenges` to the new update
+
 ## 2023
 
 ### December
