@@ -4,6 +4,7 @@
 
 ### January
 * Adapted `-challenges` to the new update
+* Added `-battlepass` (Aliases: `-bp`, `-season`) and `/battlepass`
 
 ## 2023
 
