@@ -5,6 +5,7 @@
 ### January
 * Adapted `-challenges` to the new update
 * Added `-battlepass` (Aliases: `-bp`, `-season`) and `/battlepass`
+* Fixed **Code** field of `-profile`'s \"Avatars\" option not working
 
 ## 2023
 
