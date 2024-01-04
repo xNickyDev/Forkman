@@ -6,6 +6,7 @@
 * Adapted `-challenges` to the new update
 * Added `-battlepass` (Aliases: `-bp`, `-season`) and `/battlepass`
 * Fixed **Code** field of `-profile`'s \"Avatars\" option not working
+* Added suggested role names search to `/roleinfo`
 
 ## 2023
 
