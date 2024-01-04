@@ -7,6 +7,7 @@
 * Added `-battlepass` (Aliases: `-bp`, `-season`) and `/battlepass`
 * Fixed **Code** field of `-profile`'s \"Avatars\" option not working
 * Added suggested role names search to `/roleinfo`
+* Fixed `-changelog` and `/changelog` not working
 
 ## 2023
 
