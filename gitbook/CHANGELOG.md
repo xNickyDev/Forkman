@@ -8,6 +8,8 @@
 * Fixed **Code** field of `-profile`'s \"Avatars\" option not working
 * Added suggested role names search to `/roleinfo`
 * Fixed `-changelog` and `/changelog` not working
+* Added filter search options to `/items`
+* Added a global cooldown to `/items` when using filters
 
 ## 2023
 
