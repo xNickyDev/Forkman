@@ -11,6 +11,7 @@
 * Added filter search options to `/items`
 * Added a global cooldown to `/items` when using filters
 * Officially added the Top.gg vote tracker
+* Added `-leaderboard` (Aliases: `-lb`, `-top`) and `/leaderboard`
 
 ## 2023
 
