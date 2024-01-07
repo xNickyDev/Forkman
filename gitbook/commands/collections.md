@@ -19,10 +19,10 @@ description: Returns all existing collections of the specified type.
 
 ## Arguments
 
-| Name                                    | Description                 | Type   | Required |
-| :-------------------------------------: | :-------------------------: | :----: | :------: |
+| Name                                     | Description                 | Type   | Required |
+| :--------------------------------------: | :-------------------------: | :----: | :------: |
 | <mark style="color:#FA9405;">type</mark> | The type of the collection. | Enum   | Yes      |
-| page                                    | The number of the page.     | Number | No       |
+| page                                     | The number of the page.     | Number | No       |
 
 ### Possibilities for <mark style="color:#FA9405;">`type`</mark>
 
