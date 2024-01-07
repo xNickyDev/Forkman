@@ -30,6 +30,7 @@
 * [-help](commands/help.md)
 * [-id](commands/id.md)
 * [-items](commands/items.md)
+* [-leaderboard](commands/leaderboard.md)
 * [-loadingscreens](commands/loadingscreens.md)
 * [-offers](commands/offers.md)
 * [-outfits](commands/outfits.md)
