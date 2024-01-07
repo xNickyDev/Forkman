@@ -19,7 +19,7 @@ Returns information about the specified command.
 ## Arguments
 
 | Name    | Description                  | Type    | Required |
-| ------- | ---------------------------- | ------- | -------- |
+| :-----: | :--------------------------: | :-----: | :------: |
 | command | The command name of Forkman. | Command | Yes      |
 
 > [!NOTE]

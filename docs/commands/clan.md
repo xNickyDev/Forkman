@@ -11,7 +11,7 @@ Returns information about the given clan.
 ## Arguments
 
 | Name | Description                 | Type   | Required |
-| ---- | --------------------------- | ------ | -------- |
+| :--: | :-------------------------: | :----: | :------: |
 | name | The name or ID of the clan. | String | Yes      |
 
 > [!TIP]

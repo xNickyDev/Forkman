@@ -11,7 +11,7 @@ Returns the newest changelog entries.
 ## Arguments
 
 | Name  | Description                           | Type   | Required |
-| ----- | ------------------------------------- | ------ | -------- |
+| :---: | :-----------------------------------: | :----: | :------: |
 | month | The month of the changelog to return. | String | No       |
 
 ## Examples

@@ -19,7 +19,7 @@ description: Returns information about a single role.
 ## Arguments
 
 | Name     | Description                 | Type   | Required |
-| -------- | --------------------------- | ------ | -------- |
+| :------: | :-------------------------: | :----: | :------: |
 | rolename | The name or id of the role. | String | Yes      |
 
 {% hint style="info" %}
@@ -28,4 +28,6 @@ You need to provide the **exact** role <mark style="color:purple;">name</mark> o
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/230731957-823c0bfc-6f83-43b8-b8cd-5eab64a5f289.png) ![](https://user-images.githubusercontent.com/111157596/230731960-29904b68-0a78-4cf4-9445-452a6f60335b.png) ![](https://user-images.githubusercontent.com/111157596/230731964-c3625587-6e41-4d9b-92e5-0e14ec717caf.png)
+![](https://user-images.githubusercontent.com/111157596/230731957-823c0bfc-6f83-43b8-b8cd-5eab64a5f289.png)
+![](https://user-images.githubusercontent.com/111157596/230731960-29904b68-0a78-4cf4-9445-452a6f60335b.png)
+![](https://user-images.githubusercontent.com/111157596/230731964-c3625587-6e41-4d9b-92e5-0e14ec717caf.png)

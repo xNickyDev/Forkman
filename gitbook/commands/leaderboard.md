@@ -19,10 +19,15 @@ description: Returns a leaderboard of the specified type.
 
 ## Arguments
 
-| Name | Description                  | Type   | Required |
-| :--: | :--------------------------: | :----: | :------: |
-| type | The type of the leaderboard. | Enum   | Yes      |
-| page | The number of the page.      | Number | No       |
+| Name                                     | Description                  | Type     | Required |
+| :--------------------------------------: | :--------------------------: | :------: | :------: |
+| <mark style="color:#FA9405;">type</mark> | The type of the leaderboard. | Enum     | Yes      |
+| page                                     | The number of the page.      | Number   | No       |
+
+### Possibilities for <mark style="color:#FA9405;">`type`</mark>
+
+- `gold` - Returns the gold leaderboard.
+- `votes` - Returns the votes leaderboard.
 
 ## Examples
 

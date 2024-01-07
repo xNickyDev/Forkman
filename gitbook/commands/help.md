@@ -11,6 +11,7 @@ description: Returns a command help page of Forkman.
 ```
 
 ### Aliases
+
 ```
 -h
 -commands
@@ -18,8 +19,8 @@ description: Returns a command help page of Forkman.
 
 ## Arguments
 
-| Name | Description             | Type   | Required |
-| :---- | :----------------------- | :------ | :-------- |
+| Name             | Description                                          | Type               | Required |
+| :--------------: | :--------------------------------------------------: | :----------------: | :------: |
 | page <br>command | The number of the page. <br>The name of the command. | Number <br>Command | No       |
 
 ## Prefixes

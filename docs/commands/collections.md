@@ -17,13 +17,13 @@ Returns all existing collections of the specified type.
 
 ## Arguments
 
-| Name     | Description                 | Type   | Required |
-| -------- | --------------------------- | ------ | -------- |
-| **`type`** | The type of the collection. | Enum   | Yes      |
-| page     | The number of the page.     | Number | No       |
+| Name                                     | Description                 | Type   | Required |
+| :--------------------------------------: | :-------------------------: | :----: | :------: |
+| <mark style="color:#FA9405;">type</mark> | The type of the collection. | Enum   | Yes      |
+| page                                     | The number of the page.     | Number | No       |
 
 
-### Possibilities for **`type`**
+### Possibilities for <mark style="color:#FA9405;">`type`</mark>
 
 - `emojis` / `emoji` - Returns the emoji collections.
 - `items` / `item` - Returns the item collections.

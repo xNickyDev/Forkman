@@ -10,18 +10,15 @@ Gets the ID of a player or clan.
 
 ## Arguments
 
-| Name       | Description                      | Type   | Required |
-| ---------- | -------------------------------- | ------ | -------- |
-| **`type`** | The type of which to get its ID. | Enum   | Yes      |
-| name       | The name of the selected type.   | String | Yes      |
+| Name                                    | Description                      | Type   | Required |
+| :-------------------------------------: | :------------------------------: | :----: | :------: |
+| <mark style="color:#FA9405">type</mark> | The type of which to get its ID. | Enum   | Yes      |
+| name                                    | The name of the selected type.   | String | Yes      |
 
-### Possibilities for **`type`**
+### Possibilities for <mark style="color:#FA9405">`type`</mark>
 
 - `player` - Gets the ID of a player.
 - `clan` - Gets the ID of a clan.
-
-> [!NOTE]
-> The argument `type` is not case sensitive.
 
 > [!NOTE]
 > You need to provide the **exact** name of the player or clan. The argument `name` is case sensitive!

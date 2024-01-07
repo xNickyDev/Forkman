@@ -11,7 +11,7 @@ Returns all existing emojis.
 ## Arguments
 
 | Name | Description             | Type   | Required |
-| ---- | ----------------------- | ------ | -------- |
+| :--: | :---------------------: | :----: | :------: |
 | page | The number of the page. | Number | No       |
 
 ## Examples

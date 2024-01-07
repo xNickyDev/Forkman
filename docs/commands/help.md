@@ -18,7 +18,7 @@ Returns a command help page of Forkman.
 ## Arguments
 
 | Name             | Description                                          | Type               | Required |
-| ---------------- | ---------------------------------------------------- | ------------------ | -------- |
+| :--------------: | :--------------------------------------------------: | :----------------: | :------: |
 | page <br>command | The number of the page. <br>The name of the command. | Number <br>Command | No       |
 
 ## Examples

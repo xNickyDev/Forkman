@@ -14,7 +14,7 @@ Ask a question regarding Forkman.
 ## Arguments
 
 | Name     | Description                          | Type   | Required |
-| -------- | ------------------------------------ | ------ | -------- |
+| :------: | :----------------------------------: | :----: | :------: |
 | question | The question or search query to ask. | String | Yes      |
 
 ## Examples

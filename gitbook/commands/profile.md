@@ -11,6 +11,7 @@ description: Returns profile information about the given player.
 ```
 
 ### Aliases
+
 ```
 -player
 -playerinfo
@@ -19,7 +20,7 @@ description: Returns profile information about the given player.
 ## Arguments
 
 | Name     | Description                                                 | Type   | Required |
-| -------- | ----------------------------------------------------------- | ------ | -------- |
+| :------: | :---------------------------------------------------------: | :----: | :------: |
 | username | The username of the player whose profile is to be returned. | String | Yes      |
 
 {% hint style="info" %}

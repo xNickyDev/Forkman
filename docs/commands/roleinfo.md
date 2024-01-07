@@ -17,7 +17,7 @@ Returns information about a single role.
 ## Arguments
 
 | Name     | Description                 | Type   | Required |
-| -------- | --------------------------- | ------ | -------- |
+| :------: | :-------------------------: | :----: | :------: |
 | rolename | The name or id of the role. | String | Yes      |
 
 > [!NOTE]

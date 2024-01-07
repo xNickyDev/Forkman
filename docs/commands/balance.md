@@ -16,7 +16,7 @@ Returns the balance of a user.
 ## Arguments
 
 | Name | Description                               | Type | Required |
-| ---- | ----------------------------------------- | ---- | -------- |
+| :--: | :---------------------------------------: | :--: | :------: |
 | user | The user whose balance is to be returned. | User | No       |
 
 ## Examples
