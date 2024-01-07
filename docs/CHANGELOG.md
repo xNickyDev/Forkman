@@ -12,6 +12,7 @@
 * Added a global cooldown to `/items` when using filters
 * Officially added the Top.gg vote tracker
 * Added `-leaderboard` (Aliases: `-lb`, `-top`) and `/leaderboard`
+* Added **Format** field to `-loadingscreens`
 
 ## 2023
 
