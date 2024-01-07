@@ -12,10 +12,10 @@ Gets the ID of a player or clan.
 
 | Name                                    | Description                      | Type   | Required |
 | :-------------------------------------: | :------------------------------: | :----: | :------: |
-| <mark style="color:#FA9405">type</mark> | The type of which to get its ID. | Enum   | Yes      |
+| <span style="color:#FA9405">type</span> | The type of which to get its ID. | Enum   | Yes      |
 | name                                    | The name of the selected type.   | String | Yes      |
 
-### Possibilities for <mark style="color:#FA9405">`type`</mark>
+### Possibilities for <span style="color:#FA9405">type</span>
 
 - `player` - Gets the ID of a player.
 - `clan` - Gets the ID of a clan.

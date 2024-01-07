@@ -21,10 +21,10 @@ description: Returns all existing collections of the specified type.
 
 | Name                                     | Description                 | Type   | Required |
 | :--------------------------------------: | :-------------------------: | :----: | :------: |
-| <mark style="color:#FA9405;">type</mark> | The type of the collection. | Enum   | Yes      |
+| <span style="color:#FA9405">type</span>  | The type of the collection. | Enum   | Yes      |
 | page                                     | The number of the page.     | Number | No       |
 
-### Possibilities for <mark style="color:#FA9405;">`type`</mark>
+### Possibilities for <span style="color:#FA9405">type</span>
 
 - `emojis` / `emoji` - Returns the emoji collections.
 - `items` / `item` - Returns the item collections.
