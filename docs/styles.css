@@ -1,8 +1,15 @@
 :root {
+  /* LINKS
   --link-color: var(--theme-color);
   --link-color--hover: var(--theme-color);
   --link-text-decoration-color: var(--theme-color);
   --link-text-decoration-color--hover: var(--theme-color);
+
+  /* SIDEBAR
+  --sidebar-nav-strong-color: var(--heading-color);
+  --sidebar-nav-strong-font-weight: var(--strong-font-weight);
+  --sidebar-nav-strong-margin: 1.5em 0 0.5em;
+  --sidebar-nav-strong-padding: 0.25em 0;
 }
 
 .heading {
