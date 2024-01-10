@@ -43,3 +43,6 @@
   - [Staff](team/staff/introduction.md)
     - [Developers](team/staff/developers.md)
   - [Contributors](team/contributors.md)
+
+- **Legal**
+  - [Privacy Policy](legal/privacy.md)
