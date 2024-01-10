@@ -22,5 +22,5 @@ Returns all existing loading screens.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/234333536-1f1da54e-edd2-4e01-94b7-ac274ca3c48b.png)
-![](https://user-images.githubusercontent.com/111157596/234333584-db818979-12b0-41e3-90c8-453c4ec86e73.png)
+<img src="https://user-images.githubusercontent.com/111157596/234333536-1f1da54e-edd2-4e01-94b7-ac274ca3c48b.png" class="rounded-corners">\
+<img src="https://user-images.githubusercontent.com/111157596/234333584-db818979-12b0-41e3-90c8-453c4ec86e73.png" class="rounded-corners">
