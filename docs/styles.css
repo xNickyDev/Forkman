@@ -1,16 +1,16 @@
-:root {
-  --link-color: var(--theme-color);
-  --link-color--hover: var(--theme-color);
-  --link-text-decoration-color: var(--theme-color);
-  --link-text-decoration-color--hover: var(--theme-color);
-}
-
 img.rounded-corners {
-  border-radius: 1px;
+  border-radius: 5px;
 }
 
 .heading {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+:root {
+  --link-color: var(--theme-color);
+  --link-color--hover: var(--theme-color);
+  --link-text-decoration-color: var(--theme-color);
+  --link-text-decoration-color--hover: var(--theme-color);
 }
