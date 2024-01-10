@@ -45,7 +45,7 @@ We will retain and use your Personal Information for the period necessary (usual
 We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Once the retention period expires, Personal Information shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification, and the right to data portability cannot be enforced after the expiration of the retention period.
 
 ## Social media features
-Our Application and Services may include social media features, such as the Discord and Website buttons features (collectively, “Social Media Features”). These Social Media Features may collect your IP address, what page you are visiting via our Application and Services, and may set a cookie to enable Social Media Features to function properly. Social Media Features are hosted either by their respective providers or directly on our Application and Services. Your interactions with these Social Media Features are governed by the privacy policy of their respective providers.
+Our Application and Services may include social media features, such as the Discord and Website button features (collectively, “Social Media Features”). These Social Media Features may collect your IP address, what page you are visiting via our Application and Services, and may set a cookie to enable Social Media Features to function properly. Social Media Features are hosted either by their respective providers or directly on our Application and Services. Your interactions with these Social Media Features are governed by the privacy policy of their respective providers.
 
 ## Links to other resources
 Our Application and Services contain links to other resources that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other resources or third parties. We encourage you to be aware when you leave using our Application and Services and to read the privacy statements of each and every resource that may collect Personal Information.
@@ -71,7 +71,7 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 ## Contacting us
 If you have any questions, concerns, or complaints regarding this Policy, the information we hold about you, or if you wish to exercise your rights, we encourage you to contact us using the details below:
 
-ocavy.contact@gmail.com
+[ocavy.contact@gmail.com](mailto:ocavy.contact@gmail.com)
 
 We will attempt to resolve complaints and disputes and make every reasonable effort to honor your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws.
 
