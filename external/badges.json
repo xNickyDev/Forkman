@@ -1,47 +1,163 @@
 [
     {
         "id": "hdi",
-        "rarity": "Epic",
+        "rarity": "EPIC",
         "name": "Epic Bug Hunter",
-        "description": "",
-        "image": {
-            "url": "https://cdn.wolvesville.com/avatarItems/badge-bug-hunter-epic.store@3x.png"
-        }
+        "description": "This player is an epic bug hunter. Epic bug hunters have found a lot of bugs and have helped getting them solved.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-bug-hunter-epic.store@3x.png"
     },
     {
         "id": "ZLv",
-        "rarity": "Epic",
+        "rarity": "EPIC",
         "name": "Bug Hunter",
-        "description": "",
-        "image": {
-            "url": "https://cdn.wolvesville.com/avatarItems/badge-bug-hunter.store@3x.png"
-        }
-    }
+        "description": "This player is a bug hunter. Bug hunters are active in the Discord Wolvesville Tester Club and/or help developers with tracking down hard to find bugs.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-bug-hunter.store@3x.png"
+    },
     {
         "id": "x1G",
-        "rarity": "Epic",
+        "rarity": "EPIC",
         "name": "Epic Designer",
-        "description": "",
-        "image": {
-            "url": "https://cdn.wolvesville.com/avatarItems/badge-designer-epic.store@3x.png"
-        }
+        "description": "This player is an epic designer who has created a lot of different outfits for Wolvesville.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-designer-epic.store@3x.png"
     },
     {
         "id": "t2G",
-        "rarity": "Epic",
+        "rarity": "EPIC",
         "name": "Designer",
-        "description": "",
-        "image": {
-            "url": "https://cdn.wolvesville.com/avatarItems/badge-designer.store@3x.png"
-        }
+        "description": "This player is a designer for Wolvesville who has created outfits which are available in the app.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-designer.store@3x.png"
     },
     {
-        "id": "",
-        "rarity": "Epic",
-        "name": "",
-        "description": "",
-        "image": {
-            "url": ""
-        }
+        "id": "Ewq",
+        "rarity": "EPIC",
+        "name": "Epic Guardian",
+        "description": "This player is an epic guardian. Epic guardians have helped the community for a long time by guarding against abusive players.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-epic-guardians.store@3x.png"
     },
+    {
+        "id": "0E7",
+        "rarity": "EPIC",
+        "name": "Guardian",
+        "description": "This player is a guardian. Guardians read reports submitted by other players and remove abusive players from the game.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-guardian.store@3x.png"
+    },
+    {
+        "id": "r3W",
+        "rarity": "EPIC",
+        "name": "Mentor",
+        "description": "This player is a mentor. Mentors answer questions and help players via the help chat.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-mentor.store@3x.png"
+    },
+    {
+        "id": "_Xf",
+        "rarity": "EPIC",
+        "name": "Moderator",
+        "description": "This player is a Discord moderator who helps manage the Discord community.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-mod.store@3x.png"
+    },
+    {
+        "id": "h0r",
+        "rarity": "EPIC",
+        "name": "Epic Translator",
+        "description": "This player is an epic translator of Wolvesville. Epic translators have translated a very large amount of the app.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-translator-epic.store@3x.png"
+    },
+    {
+        "id": "5vS",
+        "rarity": "EPIC",
+        "name": "Translator",
+        "description": "This player is a translator of Wolvesville.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-translator.store@3x.png"
+    },
+    {
+        "id": "zZG",
+        "rarity": "EPIC",
+        "name": "Wiki editor",
+        "description": "This player has contributed to the Wolvesville wiki.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-wiki.store@3x.png"
+    },
+    {
+        "id": "sFj",
+        "rarity": "LEGENDARY",
+        "name": "Early Bird",
+        "description": "{unknown}",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-early-bird.store@3x.png"
+    },
+    {
+        "id": "2gW",
+        "rarity": "LEGENDARY",
+        "name": "Loyalty",
+        "description": "{unknown}",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-loyalty.store@3x.png"
+    },
+    {
+        "id": "4pY",
+        "rarity": "LEGENDARY",
+        "name": "Epic Mentor",
+        "description": "This player is an epic mentor. Epic mentors have helped the community for a long time and have answered hundreds of questions.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-mentor-epic.store@3x.png"
+    },
+    {
+        "id": "7yZ",
+        "rarity": "LEGENDARY",
+        "name": "Social Media Manager",
+        "description": "This player is part of the official Wolvesville social media team (Facebook, Twitter, Reddit, Instagram).",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-social-media-manager.store@3x.png"
+    },
+    {
+        "id": "2SP",
+        "rarity": "LEGENDARY",
+        "name": "Sound effects",
+        "description": "This player either created music for the game or contributed by creating or suggesting an awesome sound effect in the Discord #sound-ideas channel, which was then added to the game.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-sound.store@3x.png"
+    },
+    {
+        "id": "osR",
+        "rarity": "LEGENDARY",
+        "name": "Tags",
+        "description": "{unknown}",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-tags.store@3x.png"
+    },
+    {
+        "id": "-J2",
+        "rarity": "LEGENDARY",
+        "name": "Famous on Facebook",
+        "description": "This player posted about Wolvesville on Facebook and received 1000 likes or more!",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/facebook-badge.store@3x.png"
+    },
+    {
+        "id": "Mc0",
+        "rarity": "LEGENDARY",
+        "name": "Famous on Instagram",
+        "description": "This player posted about Wolvesville on Instagram and received 1000 likes or more!",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/instagram-badge.store@3x.png"
+    },
+    {
+        "id": "GRG",
+        "rarity": "LEGENDARY",
+        "name": "Famous on Reddit",
+        "description": "{unknown}",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/reddit-badge.store@3x.png"
+    },
+    {
+        "id": "7kY",
+        "rarity": "LEGENDARY",
+        "name": "Instagram",
+        "description": "This player has helped to contribute to Wolvesville on Instagram.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/socialbun-badge.store@3x.png"
+    },
+    {
+        "id": "xky",
+        "rarity": "LEGENDARY",
+        "name": "Famous on Twitter",
+        "description": "This player tweeted about Wolvesville on Twitter and received 1000 likes or more!",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/twitter-badge.store@3x.png"
+    },
+    {
+        "id": "akw",
+        "rarity": "LEGENDARY",
+        "name": "YouTuber",
+        "description": "This player is a YouTuber who has created a video about Wolvesville with a lot of views.",
+        "imageUrl": "https://cdn.wolvesville.com/avatarItems/youtubers-badge.store@3x.png"
+    }
 ]
