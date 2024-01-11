@@ -13,6 +13,7 @@
 * Officially added the Top.gg vote tracker
 * Added `-leaderboard` (Aliases: `-lb`, `-top`) and `/leaderboard`
 * Added **Format** field to `-loadingscreens`
+* Added "Badges" option to `-profile`
 
 ## 2023
 
