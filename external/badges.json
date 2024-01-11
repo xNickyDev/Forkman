@@ -2,21 +2,21 @@
     {
         "id": "hdi",
         "rarity": "EPIC",
-        "name": "Epic Bug Hunter",
+        "name": "Epic bug hunter",
         "description": "This player is an epic bug hunter. Epic bug hunters have found a lot of bugs and have helped getting them solved.",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-bug-hunter-epic.store@3x.png"
     },
     {
         "id": "ZLv",
         "rarity": "EPIC",
-        "name": "Bug Hunter",
+        "name": "Bug hunter",
         "description": "This player is a bug hunter. Bug hunters are active in the Discord Wolvesville Tester Club and/or help developers with tracking down hard to find bugs.",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-bug-hunter.store@3x.png"
     },
     {
         "id": "x1G",
         "rarity": "EPIC",
-        "name": "Epic Designer",
+        "name": "Epic designer",
         "description": "This player is an epic designer who has created a lot of different outfits for Wolvesville.",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-designer-epic.store@3x.png"
     },
@@ -30,7 +30,7 @@
     {
         "id": "Ewq",
         "rarity": "EPIC",
-        "name": "Epic Guardian",
+        "name": "Epic guardian",
         "description": "This player is an epic guardian. Epic guardians have helped the community for a long time by guarding against abusive players.",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-epic-guardians.store@3x.png"
     },
@@ -58,7 +58,7 @@
     {
         "id": "h0r",
         "rarity": "EPIC",
-        "name": "Epic Translator",
+        "name": "Epic translator",
         "description": "This player is an epic translator of Wolvesville. Epic translators have translated a very large amount of the app.",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-translator-epic.store@3x.png"
     },
@@ -79,7 +79,7 @@
     {
         "id": "sFj",
         "rarity": "LEGENDARY",
-        "name": "Early Bird",
+        "name": "Early bird",
         "description": "{unknown}",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-early-bird.store@3x.png"
     },
@@ -93,14 +93,14 @@
     {
         "id": "4pY",
         "rarity": "LEGENDARY",
-        "name": "Epic Mentor",
+        "name": "Epic mentor",
         "description": "This player is an epic mentor. Epic mentors have helped the community for a long time and have answered hundreds of questions.",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-mentor-epic.store@3x.png"
     },
     {
         "id": "7yZ",
         "rarity": "LEGENDARY",
-        "name": "Social Media Manager",
+        "name": "Social media manager",
         "description": "This player is part of the official Wolvesville social media team (Facebook, Twitter, Reddit, Instagram).",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-social-media-manager.store@3x.png"
     },
