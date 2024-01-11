@@ -1,7 +1,7 @@
 [
     {
         "id": "hdi",
-        "rarity": "EPIC",
+        "rarity": "Epic",
         "name": "Epic Bug Hunter",
         "description": "",
         "image": {
@@ -10,7 +10,7 @@
     },
     {
         "id": "ZLv",
-        "rarity": "EPIC",
+        "rarity": "Epic",
         "name": "Bug Hunter",
         "description": "",
         "image": {
@@ -19,11 +19,29 @@
     }
     {
         "id": "x1G",
-        "rarity": "EPIC",
+        "rarity": "Epic",
         "name": "Epic Designer",
         "description": "",
         "image": {
             "url": "https://cdn.wolvesville.com/avatarItems/badge-designer-epic.store@3x.png"
         }
-    }
+    },
+    {
+        "id": "t2G",
+        "rarity": "Epic",
+        "name": "Designer",
+        "description": "",
+        "image": {
+            "url": "https://cdn.wolvesville.com/avatarItems/badge-designer.store@3x.png"
+        }
+    },
+    {
+        "id": "",
+        "rarity": "Epic",
+        "name": "",
+        "description": "",
+        "image": {
+            "url": ""
+        }
+    },
 ]
