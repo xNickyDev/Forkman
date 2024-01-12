@@ -14,6 +14,7 @@
 * Added `-leaderboard` (Aliases: `-lb`, `-top`) and `/leaderboard`
 * Added **Format** field to `-loadingscreens`
 * Added "Badges" option to `-profile`
+* Added `-badges` and `/badges`
 
 ## 2023
 
