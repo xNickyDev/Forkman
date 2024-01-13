@@ -16,6 +16,7 @@
 * Added "Badges" option to `-profile`
 * Added `-badges` and `/badges`
 * Officially added `/verify`
+* Renamed `/clan` to `/clan search`
 
 ## 2023
 
