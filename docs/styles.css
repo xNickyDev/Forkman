@@ -18,6 +18,5 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--active: ;
   --sidebar-nav-pagelink-background--collapse: ;
   --sidebar-nav-pagelink-background--loaded: ;
-  --sidebar-nav-pagelink-padding: ;
-  --sidebar-nav-pagelink-transition: var(--sidebar-nav-link-transition);
+  --sidebar-nav-pagelink-padding: 1;
 }
