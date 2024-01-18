@@ -19,17 +19,14 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--loaded: ;
   --sidebar-nav-pagelink-padding: 3px;
 
-  --sidebar-nav-link-background: ;
-  --sidebar-nav-link-background--active: ;
-  --sidebar-nav-link-background--hover: ;
-  --sidebar-nav-link-border-color: ;
-  --sidebar-nav-link-border-color--active: ;
-  --sidebar-nav-link-border-color--hover: ;
-  --sidebar-nav-link-border-radius: ;
+  --sidebar-nav-link-border-color: var(--theme-color);
+  --sidebar-nav-link-border-color--active: 5;
+  --sidebar-nav-link-border-color--hover: 5;
+  --sidebar-nav-link-border-radius: 5;
   --sidebar-nav-link-border-style: solid;
-  --sidebar-nav-link-border-style--active: ;
-  --sidebar-nav-link-border-style--hover: ;
-  --sidebar-nav-link-border-width: 0;
-  --sidebar-nav-link-border-width--active: ;
-  --sidebar-nav-link-border-width--hover: ;
+  --sidebar-nav-link-border-style--active: 5;
+  --sidebar-nav-link-border-style--hover: 5;
+  --sidebar-nav-link-border-width: 5;
+  --sidebar-nav-link-border-width--active: 5;
+  --sidebar-nav-link-border-width--hover: 5;
 }
