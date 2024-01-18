@@ -15,7 +15,7 @@ img.rounded-corners {
   --link-text-decoration-color--hover: var(--theme-color);
 
   --sidebar-nav-pagelink-background: ;
-  --sidebar-nav-pagelink-background--loaded: ;
+  --sidebar-nav-pagelink-background--collapse: ;
   --sidebar-nav-pagelink-padding: 2.5px;
   --sidebar-nav-pagelink-transition: var(--sidebar-nav-link-transition);
 }
