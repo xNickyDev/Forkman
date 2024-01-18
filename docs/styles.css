@@ -19,6 +19,5 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--collapse: ;
   --sidebar-nav-pagelink-background--loaded: ;
   --sidebar-nav-pagelink-padding: 2.5px;
-  --sidebar-nav-pagelink-background-image: url(https://icongr.am/entypo/chevron-right.svg?size=16&color=c7c7c7);
-  --sidebar-nav-pagelink-background-image--active: url(https://icongr.am/entypo/chevron-down.svg?size=16&color=fc9867);
+  --sidebar-nav-link-before-color: var(--theme-color);
 }
