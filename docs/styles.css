@@ -19,6 +19,9 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--loaded: ;
   --sidebar-nav-pagelink-padding: 3px;
 
+  --sidebar-nav-link-background: ;
+  --sidebar-nav-link-background--active: ;
+  --sidebar-nav-link-background--hover: ;
   --sidebar-nav-link-border-color: var(--theme-color);
   --sidebar-nav-link-border-color--active: var(--theme-color);
   --sidebar-nav-link-border-color--hover: var(--theme-color);
