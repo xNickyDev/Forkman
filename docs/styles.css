@@ -20,8 +20,8 @@ img.rounded-corners {
   --sidebar-nav-pagelink-padding: 3px;
 
   --sidebar-nav-link-border-color: var(--theme-color);
-  --sidebar-nav-link-border-color--active: 5;
-  --sidebar-nav-link-border-color--hover: 5;
+  --sidebar-nav-link-border-color--active: var(--theme-color);
+  --sidebar-nav-link-border-color--hover: var(--theme-color);
   --sidebar-nav-link-border-radius: 5;
   --sidebar-nav-link-border-style: solid;
   --sidebar-nav-link-border-style--active: 5;
