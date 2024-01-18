@@ -24,8 +24,8 @@ img.rounded-corners {
   --sidebar-nav-link-border-color--hover: var(--theme-color);
   --sidebar-nav-link-border-radius: 5;
   --sidebar-nav-link-border-style: solid;
-  --sidebar-nav-link-border-style--active: 5;
-  --sidebar-nav-link-border-style--hover: 5;
+  --sidebar-nav-link-border-style--active: solid;
+  --sidebar-nav-link-border-style--hover: solid;
   --sidebar-nav-link-border-width: 5;
   --sidebar-nav-link-border-width--active: 5;
   --sidebar-nav-link-border-width--hover: 5;
