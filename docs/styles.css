@@ -21,6 +21,5 @@ img.rounded-corners {
   --sidebar-nav-link-font-weight--active: bold;
   --sidebar-nav-link-text-decoration--active: ;
   --sidebar-nav-link-text-decoration--hover: underline;
-  --sidebar-nav-link-border-style: solid;
-  --sidebar-nav-link-border-style--active: normal;
+  --sidebar-toggle-border-radius: 20px;
 }
