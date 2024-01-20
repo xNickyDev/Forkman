@@ -18,5 +18,5 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--collapse: ;
   --sidebar-nav-pagelink-background--loaded: ;
   --sidebar-nav-pagelink-padding: 3px;
-  --sidebar-nav-link-text-decoration--active: strong;
+  --sidebar-nav-link-text-decoration--active: italic;
 }
