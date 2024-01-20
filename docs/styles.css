@@ -20,4 +20,6 @@ img.rounded-corners {
   --sidebar-nav-pagelink-padding: 3px;
   --sidebar-nav-link-font-weight--active: bold;
   --sidebar-nav-link-font-weight--hover: underline;
+  --sidebar-nav-link-text-decoration--active: underline;
+  --sidebar-nav-link-text-decoration--hover: underline;
 }
