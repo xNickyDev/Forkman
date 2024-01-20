@@ -22,5 +22,5 @@ img.rounded-corners {
   --sidebar-nav-link-text-decoration--active: ;
   --sidebar-nav-link-text-decoration--hover: underline;
   --sidebar-nav-link-border-style: solid;
-  --sidebar-nav-link-border-style--active: solid;
+  --sidebar-nav-link-border-style--active: normal;
 }
