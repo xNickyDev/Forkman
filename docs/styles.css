@@ -21,6 +21,5 @@ img.rounded-corners {
   --sidebar-nav-link-font-weight--active: bold;
   --sidebar-nav-link-text-decoration--active: ;
   --sidebar-nav-link-border-width--active: ;
-  --sidebar-nav-link-border-color--active: var(--theme-color);
-  --sidebar-nav-link-border-style: filled;
+  --sidebar-nav-link-background--active: filled;
 }
