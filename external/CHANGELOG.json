@@ -15,7 +15,7 @@
             "Added `-badges` and `/badges`",
             "Officially added `/verify`",
             "Renamed `/clan` to `/clan search`",
-            "Added gender filter \"Neutral\" to `/items`"
+            "Added \"Neutral\" gender filter to `/items`"
         ]
     },
     "2023": {
