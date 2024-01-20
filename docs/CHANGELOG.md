@@ -17,6 +17,7 @@
 * Added `-badges` and `/badges`
 * Officially added `/verify`
 * Renamed `/clan` to `/clan search`
+* Added "Neutral" gender filter to `/items`
 
 ## 2023
 
