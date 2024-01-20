@@ -18,6 +18,7 @@
 * Officially added `/verify`
 * Renamed `/clan` to `/clan search`
 * Added "Neutral" gender filter to `/items`
+* Added year display to `-changelog`
 
 ## 2023
 
