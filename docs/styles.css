@@ -19,7 +19,6 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--loaded: ;
   --sidebar-nav-pagelink-padding: 3px;
   --sidebar-nav-link-font-weight--active: bold;
-  --sidebar-nav-link-font-weight--hover: underline;
   --sidebar-nav-link-text-decoration--active: ;
   --sidebar-nav-link-text-decoration--hover: underline;
 }
