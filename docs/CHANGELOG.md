@@ -20,6 +20,7 @@
 * Added "Neutral" gender filter to `/items`
 * Added year display to `-changelog`
 * Added "Filter" overview button to `/clan` when using filters
+* Renamed misleading filter option "full" to "not_full" at `/clan`
 
 ## 2023
 
