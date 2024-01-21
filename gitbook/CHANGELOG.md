@@ -21,6 +21,7 @@
 * Added year display to `-changelog`
 * Added "Filter" overview button to `/clan` when using filters
 * Renamed misleading filter option "full" to "not_full" at `/clan`
+* Renamed "Language" field to **Region** at `/clan`
 
 ## 2023
 
