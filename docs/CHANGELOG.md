@@ -19,6 +19,7 @@
 * Renamed `/clan` to `/clan search`
 * Added "Neutral" gender filter to `/items`
 * Added year display to `-changelog`
+* Added "Filter" overview button to `/clan` when using filters
 
 ## 2023
 
