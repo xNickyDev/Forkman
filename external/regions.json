@@ -32,257 +32,257 @@
     {
         "code": "be",
         "name": "Belgium",
-        "emoji": ":flag_be:"
+        "emoji": "🇧🇪"
     },
     {
         "code": "bg",
         "name": "Bulgaria",
-        "emoji": ":flag_bg:"
+        "emoji": "🇧🇬"
     },
     {
         "code": "bh",
         "name": "Bahrain",
-        "emoji": ":flag_bh:"
+        "emoji": "🇧🇭"
     },
     {
         "code": "bm",
         "name": "Bermuda",
-        "emoji": ":flag_bm:"
+        "emoji": "🇧🇲"
     },
     {
         "code": "bn",
         "name": "Brunei",
-        "emoji": ":flag_bn:"
+        "emoji": "🇧🇳"
     },
     {
         "code": "br",
         "name": "Brazil",
-        "emoji": ":flag_br:"
+        "emoji": "🇧🇷"
     },
     {
         "code": "bs",
         "name": "Bahamas",
-        "emoji": ":flag_bs:"
+        "emoji": "🇧🇸"
     },
     {
         "code": "bw",
         "name": "Botswana",
-        "emoji": ":flag_bw:"
+        "emoji": "🇧🇼"
     },
     {
         "code": "by",
         "name": "Belarus",
-        "emoji": ":flag_by:"
+        "emoji": "🇧🇾"
     },
     {
         "code": "ca",
         "name": "Canada",
-        "emoji": ":flag_ca:"
+        "emoji": "🇨🇦"
     },
     {
         "code": "cd",
         "name": "DR Congo",
-        "emoji": ":flag_cd:"
+        "emoji": "🇨🇩"
     },
     {
         "code": "cf",
         "name": "Central African Republic",
-        "emoji": ":flag_cf:"
+        "emoji": "🇨🇫"
     },
     {
         "code": "ch",
         "name": "Switzerland",
-        "emoji": ":flag_ch:"
+        "emoji": "🇨🇭"
     },
     {
         "code": "ck",
         "name": "Cook Islands",
-        "emoji": ":flag_ck:"
+        "emoji": "🇨🇰"
     },
     {
         "code": "cl",
         "name": "Chile",
-        "emoji": ":flag_cl:"
+        "emoji": "🇨🇱"
     },
     {
         "code": "cn",
         "name": "China",
-        "emoji": ":flag_cn:"
+        "emoji": "🇨🇳"
     },
     {
         "code": "co",
         "name": "Colombia",
-        "emoji": ":flag_co:"
+        "emoji": "🇨🇴"
     },
     {
         "code": "cr",
         "name": "Costa Rica",
-        "emoji": ":flag_cr:"
+        "emoji": "🇨🇷"
     },
     {
         "code": "cy",
         "name": "Cyprus",
-        "emoji": ":flag_cy:"
+        "emoji": "🇨🇾"
     },
     {
         "code": "cz",
-        "name": "Czechia",
-        "emoji": ":flag_cz:"
+        "name": "Czech Republic",
+        "emoji": "🇨🇿"
     },
     {
         "code": "de",
         "name": "Germany",
-        "emoji": ":flag_de:"
+        "emoji": "🇩🇪"
     },
     {
         "code": "dk",
         "name": "Denmark",
-        "emoji": ":flag_dk:"
+        "emoji": "🇩🇰"
     },
     {
         "code": "do",
         "name": "Dominican Republic",
-        "emoji": ":flag_do:"
+        "emoji": "🇩🇴"
     },
     {
         "code": "dz",
         "name": "Algeria",
-        "emoji": ":flag_dz:"
+        "emoji": "🇩🇿"
     },
     {
         "code": "ee",
         "name": "Estonia",
-        "emoji": ":flag_ee:"
+        "emoji": "🇪🇪"
     },
     {
         "code": "es",
         "name": "Spain",
-        "emoji": ":flag_es:"
+        "emoji": "🇪🇸"
     },
     {
         "code": "eu",
         "name": "European Union",
-        "emoji": ":flag_eu:"
+        "emoji": "🇪🇺"
     },
     {
         "code": "fi",
         "name": "Finland",
-        "emoji": ":flag_fi:"
+        "emoji": "🇫🇮"
     },
     {
         "code": "fj",
         "name": "Fiji",
-        "emoji": ":flag_fj:"
+        "emoji": "🇫🇯"
     },
     {
         "code": "fr",
         "name": "France",
-        "emoji": ":flag_fr:"
+        "emoji": "🇫🇷"
     },
     {
         "code": "gb",
         "name": "United Kingdom",
-        "emoji": ":flag_gb:"
+        "emoji": "🇬🇧"
     },
     {
         "code": "gn",
         "name": "Guinea",
-        "emoji": ":flag_gn:"
+        "emoji": "🇬🇳"
     },
     {
         "code": "gr",
         "name": "Greece",
-        "emoji": ":flag_gr:"
+        "emoji": "🇬🇷"
     },
     {
         "code": "gt",
         "name": "Guatemala",
-        "emoji": ":flag_gt:"
+        "emoji": "🇬🇹"
     },
     {
         "code": "hk",
         "name": "Hong Kong",
-        "emoji": ":flag_hk:"
+        "emoji": "🇭🇰"
     },
     {
         "code": "hr",
         "name": "Croatia",
-        "emoji": ":flag_hr:"
+        "emoji": "🇭🇷"
     },
     {
         "code": "hu",
         "name": "Hungary",
-        "emoji": ":flag_hu:"
+        "emoji": "🇭🇺"
     },
     {
         "code": "id",
         "name": "Indonesia",
-        "emoji": ":flag_id:"
+        "emoji": "🇮🇩"
     },
     {
         "code": "ie",
         "name": "Ireland",
-        "emoji": ":flag_ie:"
+        "emoji": "🇮🇪"
     },
     {
         "code": "il",
         "name": "Israel",
-        "emoji": ":flag_il:"
+        "emoji": "🇮🇱"
     },
     {
         "code": "im",
         "name": "Isle of Man",
-        "emoji": ":flag_im:"
+        "emoji": "🇮🇲"
     },
     {
         "code": "in",
         "name": "India",
-        "emoji": ":flag_in:"
+        "emoji": "🇮🇳"
     },
     {
         "code": "is",
         "name": "Iceland",
-        "emoji": ":flag_is:"
+        "emoji": "🇮🇸"
     },
     {
         "code": "it",
         "name": "Italy",
-        "emoji": ":flag_it:"
+        "emoji": "🇮🇹"
     },
     {
         "code": "jm",
         "name": "Jamaica",
-        "emoji": ":flag_jm:"
+        "emoji": "🇯🇲"
     },
     {
         "code": "jp",
         "name": "Japan",
-        "emoji": ":flag_jp:"
+        "emoji": "🇯🇵"
     },
     {
         "code": "kh",
         "name": "Cambodia",
-        "emoji": ":flag_kh:"
+        "emoji": "🇰🇭"
     },
     {
         "code": "kp",
         "name": "North Korea",
-        "emoji": ":flag_kp:"
+        "emoji": "🇰🇵"
     },
     {
         "code": "kr",
         "name": "South Korea",
-        "emoji": ":flag_kr:"
+        "emoji": "🇰🇷"
     },
     {
         "code": "kw",
         "name": "Kuwait",
-        "emoji": ":flag_kw:"
+        "emoji": "🇰🇼"
     },
     {
         "code": "kz",
         "name": "Kazakhstan",
-        "emoji": ":flag_kz:"
+        "emoji": "🇰🇿"
     },
     {
         "code": "la",
