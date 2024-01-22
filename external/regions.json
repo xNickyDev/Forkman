@@ -509,12 +509,12 @@
         "name": "Olympics"
     },
     {
-        "code": "un",
+        "code": "united_nations",
         "name": "United Nations",
         "emoji": ":united_nations:"
     },
     {
-        "code": "gb-wls",
+        "code": "wales",
         "name": "Wales",
         "emoji": ":wales:"
     }
