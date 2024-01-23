@@ -22,6 +22,7 @@
 * Added "Filter" overview button to `/clan` when using filters
 * Renamed misleading filter option "full" to "not_full" at `/clan`
 * Renamed "Language" field to **Region** at `/clan`
+* Added filter option "region" to `/clan`
 
 ## 2023
 
