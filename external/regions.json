@@ -307,202 +307,202 @@
     {
         "code": "ma",
         "name": "Morocco",
-        "emoji": ":flag_ma:"
+        "emoji": "🇲🇦"
     },
     {
         "code": "md",
         "name": "Moldova",
-        "emoji": ":flag_md:"
+        "emoji": "🇲🇩"
     },
     {
         "code": "mn",
         "name": "Mongolia",
-        "emoji": ":flag_mn:"
+        "emoji": "🇲🇳"
     },
     {
         "code": "mx",
         "name": "Mexico",
-        "emoji": ":flag_mx:"
+        "emoji": "🇲🇽"
     },
     {
         "code": "my",
         "name": "Malaysia",
-        "emoji": ":flag_my:"
+        "emoji": "🇲🇾"
     },
     {
         "code": "nc",
         "name": "New Caledonia",
-        "emoji": ":flag_nc:"
+        "emoji": "🇳🇨"
     },
     {
         "code": "nl",
         "name": "Netherlands",
-        "emoji": ":flag_nl:"
+        "emoji": "🇳🇱"
     },
     {
         "code": "no",
         "name": "Norway",
-        "emoji": ":flag_no:"
+        "emoji": "🇳🇴"
     },
     {
         "code": "np",
         "name": "Nepal",
-        "emoji": ":flag_np:"
+        "emoji": "🇳🇵"
     },
     {
         "code": "nz",
         "name": "New Zealand",
-        "emoji": ":flag_nz:"
+        "emoji": "🇳🇿"
     },
     {
         "code": "pa",
         "name": "Panama",
-        "emoji": ":flag_pa:"
+        "emoji": "🇵🇦"
     },
     {
         "code": "pe",
         "name": "Peru",
-        "emoji": ":flag_pe:"
+        "emoji": "🇵🇪"
     },
     {
         "code": "ph",
         "name": "Philippines",
-        "emoji": ":flag_ph:"
+        "emoji": "🇵🇭"
     },
     {
         "code": "pk",
         "name": "Pakistan",
-        "emoji": ":flag_pk:"
+        "emoji": "🇵🇰"
     },
     {
         "code": "pl",
         "name": "Poland",
-        "emoji": ":flag_pl:"
+        "emoji": "🇵🇱"
     },
     {
         "code": "ps",
         "name": "Palestine",
-        "emoji": ":flag_ps:"
+        "emoji": "🇵🇸"
     },
     {
         "code": "pt",
         "name": "Portugal",
-        "emoji": ":flag_pt:"
+        "emoji": "🇵🇹"
     },
     {
         "code": "py",
         "name": "Paraguay",
-        "emoji": ":flag_py:"
+        "emoji": "🇵🇾"
     },
     {
         "code": "ro",
         "name": "Romania",
-        "emoji": ":flag_ro:"
+        "emoji": "🇷🇴"
     },
     {
         "code": "rs",
         "name": "Serbia",
-        "emoji": ":flag_rs:"
+        "emoji": "🇷🇸"
     },
     {
         "code": "ru",
         "name": "Russia",
-        "emoji": ":flag_ru:"
+        "emoji": "🇷🇺"
     },
     {
         "code": "se",
         "name": "Sweden",
-        "emoji": ":flag_se:"
+        "emoji": "🇸🇪"
     },
     {
         "code": "sg",
         "name": "Singapore",
-        "emoji": ":flag_sg:"
+        "emoji": "🇸🇬"
     },
     {
         "code": "si",
         "name": "Slovenia",
-        "emoji": ":flag_si:"
+        "emoji": "🇸🇮"
     },
     {
         "code": "sk",
         "name": "Slovakia",
-        "emoji": ":flag_sk:"
+        "emoji": "🇸🇰"
     },
     {
         "code": "so",
         "name": "Somalia",
-        "emoji": ":flag_so:"
+        "emoji": "🇸🇴"
     },
     {
         "code": "sr",
         "name": "Suriname",
-        "emoji": ":flag_sr:"
+        "emoji": "🇸🇷"
     },
     {
         "code": "sy",
         "name": "Syria",
-        "emoji": ":flag_sy:"
+        "emoji": "🇸🇾"
     },
     {
         "code": "th",
         "name": "Thailand",
-        "emoji": ":flag_th:"
+        "emoji": "🇹🇭"
     },
     {
         "code": "tr",
         "name": "Turkey",
-        "emoji": ":flag_tr:"
+        "emoji": "🇹🇷"
     },
     {
         "code": "tw",
         "name": "Taiwan",
-        "emoji": ":flag_tw:"
+        "emoji": "🇹🇼"
     },
     {
         "code": "ua",
         "name": "Ukraine",
-        "emoji": ":flag_ua:"
+        "emoji": "🇺🇦"
     },
     {
         "code": "ug",
         "name": "Uganda",
-        "emoji": ":flag_ug:"
+        "emoji": "🇺🇬"
     },
     {
         "code": "us",
         "name": "United States",
-        "emoji": ":flag_us:"
+        "emoji": "🇺🇸"
     },
     {
         "code": "uy",
         "name": "Uruguay",
-        "emoji": ":flag_uy:"
+        "emoji": "🇺🇾"
     },
     {
         "code": "va",
         "name": "Vatican City (Holy See)",
-        "emoji": ":flag_va:"
+        "emoji": "🇻🇦"
     },
     {
         "code": "vi",
         "name": "United States Virgin Islands",
-        "emoji": ":flag_vi:"
+        "emoji": "🇻🇮"
     },
     {
         "code": "vn",
         "name": "Vietnam",
-        "emoji": ":flag_vn:"
+        "emoji": "🇻🇳"
     },
     {
         "code": "ye",
         "name": "Yemen",
-        "emoji": ":flag_ye:"
+        "emoji": "🇾🇪"
     },
     {
         "code": "za",
         "name": "South Africa",
-        "emoji": ":flag_za:"
+        "emoji": "🇿🇦"
     },
     {
         "code": "olympics",
@@ -511,11 +511,11 @@
     {
         "code": "united_nations",
         "name": "United Nations",
-        "emoji": ":united_nations:"
+        "emoji": "🇦🇶"
     },
     {
         "code": "wales",
         "name": "Wales",
-        "emoji": ":wales:"
+        "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
     }
 ]
