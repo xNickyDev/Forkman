@@ -22,8 +22,8 @@
 * Added "Filter" overview button to `/clan` when using filters
 * Renamed misleading filter option "full" to "not_full" at `/clan`
 * Renamed "Language" field to **Region** at `/clan`
-* Added filter option "region" to `/clan`
-* Renamed argument "`rolename`" to `role` at `-roleinfo`
+* Added `region` filter option to `/clan`
+* Renamed argument `rolename` to `role` at `-roleinfo`
 
 ## 2023
 
