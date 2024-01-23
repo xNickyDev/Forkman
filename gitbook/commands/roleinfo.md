@@ -7,7 +7,7 @@ description: Returns information about a single role.
 ## Usage
 
 ```
--roleinfo <rolename>
+-roleinfo <role>
 ```
 
 ### Aliases
@@ -18,12 +18,12 @@ description: Returns information about a single role.
 
 ## Arguments
 
-| Name     | Description                 | Type   | Required |
-| :------: | :-------------------------: | :----: | :------: |
-| rolename | The name or id of the role. | String | Yes      |
+| Name | Description                 | Type   | Required |
+| :--: | :-------------------------: | :----: | :------: |
+| role | The name or ID of the role. | String | Yes      |
 
 {% hint style="info" %}
-You need to provide the **exact** role <mark style="color:purple;">name</mark> or <mark style="color:purple;">id</mark>, both works. The argument `rolename` is not case sensitive.
+You need to provide the **exact** role <mark style="color:purple;">name</mark> or <mark style="color:purple;">ID</mark>, both works. The argument `role` is not case sensitive.
 {% endhint %}
 
 ## Examples
