@@ -470,6 +470,11 @@
         "emoji": "🇺🇬"
     },
     {
+        "code": "un",
+        "name": "United Nations",
+        "emoji": "🇺🇳"
+    },
+    {
         "code": "us",
         "name": "United States",
         "emoji": "🇺🇸"
