@@ -470,6 +470,11 @@
         "emoji": "🇺🇬"
     },
     {
+        "code": "un",
+        "name": "United Nations",
+        "emoji": "🇺🇳"
+    },
+    {
         "code": "us",
         "name": "United States",
         "emoji": "🇺🇸"
@@ -507,11 +512,6 @@
     {
         "code": "olympics",
         "name": "Olympics"
-    },
-    {
-        "code": "united-nations",
-        "name": "United Nations",
-        "emoji": "🇺🇳"
     },
     {
         "code": "wales",
