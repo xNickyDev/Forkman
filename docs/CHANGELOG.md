@@ -26,6 +26,7 @@
 * Renamed argument `rolename` to `role` at `-roleinfo`
 * Added `role` filter option to `/roleicons`
 * Added `-glassbridge` (Alias: `-gb`) and `/game glassbridge`
+* Added game introduction descriptions
 
 ## 2023
 
