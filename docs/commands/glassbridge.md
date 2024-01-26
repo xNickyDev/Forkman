@@ -7,3 +7,9 @@ Play the "Glass Bridge" game.
 ```
 -glassbridge
 ```
+
+### Aliases
+
+```
+-gb
+```
