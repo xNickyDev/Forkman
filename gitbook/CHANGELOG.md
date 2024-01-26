@@ -25,6 +25,7 @@
 * Added `region` filter option to `/clan`
 * Renamed argument `rolename` to `role` at `-roleinfo`
 * Added `role` filter option to `/roleicons`
+* Added `-glassbridge` (Alias: `-gb`) and `/game glassbridge`
 
 ## 2023
 
