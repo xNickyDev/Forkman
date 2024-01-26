@@ -26,6 +26,7 @@
 * [-collections](commands/collections.md)
 * [-commandinfo](commands/commandinfo.md)
 * [-emojis](commands/emojis.md)
+* [-glassbridge](commands/glassbridge.md)
 * [-hangman](commands/hangman.md)
 * [-help](commands/help.md)
 * [-id](commands/id.md)
