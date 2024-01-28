@@ -114,8 +114,8 @@
     {
         "id": "osR",
         "rarity": "LEGENDARY",
-        "name": "Tags",
-        "description": "{unknown}",
+        "name": "Tag editor",
+        "description": "This player has helped categorizing the inventory by assigning tags to items, such color and origin.",
         "imageUrl": "https://cdn.wolvesville.com/avatarItems/badge-tags.store@3x.png"
     },
     {
