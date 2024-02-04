@@ -1,7 +1,8 @@
 {
     "2024": {
         "february": [
-            "Fixed `/ask` not responding"
+            "Fixed `/ask` not responding",
+            "Partly fixed `/items` sometimes not responding"
         ],
         "january": [
             "Adapted `-challenges` to the new update",
