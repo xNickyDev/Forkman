@@ -1,5 +1,8 @@
 {
     "2024": {
+        "february": [
+            "Fixed `/ask` not responding"
+        ],
         "january": [
             "Adapted `-challenges` to the new update",
             "Added `-battlepass` (Aliases: `-bp`, `-season`) and `/battlepass`",
