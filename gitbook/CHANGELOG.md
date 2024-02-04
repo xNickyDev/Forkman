@@ -2,6 +2,9 @@
 
 ## 2024
 
+### February
+* Fixed `/ask` not responding
+
 ### January
 * Adapted `-challenges` to the new update
 * Added `-battlepass` (Aliases: `-bp`, `-season`) and `/battlepass`
