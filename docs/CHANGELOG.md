@@ -4,6 +4,7 @@
 
 ### February
 * Fixed `/ask` not responding
+* Partly fixed `/items` sometimes not responding
 
 ### January
 * Adapted `-challenges` to the new update
