@@ -6,6 +6,8 @@
 * Fixed `/ask` not responding
 * Partly fixed `/items` sometimes not responding
 * Added `-roleoffers` and `/role offers`
+* Renamed `/vote` to `/vote link`
+* Added `/vote tracker`
 
 ### January
 * Adapted `-challenges` to the new update
