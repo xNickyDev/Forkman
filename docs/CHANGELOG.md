@@ -5,6 +5,7 @@
 ### February
 * Fixed `/ask` not responding
 * Partly fixed `/items` sometimes not responding
+* Added `-roleoffers` and `/role offers`
 
 ### January
 * Adapted `-challenges` to the new update
