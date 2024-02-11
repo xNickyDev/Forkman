@@ -5,7 +5,8 @@
             "Partly fixed `/items` sometimes not responding",
             "Added `-roleoffers` and `/role offers`",
             "Renamed `/vote` to `/vote link`",
-            "Added `/vote tracker`"
+            "Added `/vote tracker`",
+            "Added `-talismans` (Alias: `-talis`) and `/talismans`"
         ],
         "january": [
             "Adapted `-challenges` to the new update",
