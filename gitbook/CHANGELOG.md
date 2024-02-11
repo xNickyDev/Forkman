@@ -8,6 +8,7 @@
 * Added `-roleoffers` and `/role offers`
 * Renamed `/vote` to `/vote link`
 * Added `/vote tracker`
+* Added `-talismans` (Alias: `-talis`) and `/talismans`
 
 ### January
 * Adapted `-challenges` to the new update
