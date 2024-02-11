@@ -18,5 +18,5 @@ description: Returns all existing talismans.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/4f49a0a5-e4ee-4c14-959f-3634a91a04ee)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/32709bdf-8fad-4da4-a178-333706d22b21)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/dfe77b28-3cce-424f-b9b3-77e99aa6f5a2)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/c5ae8daa-9955-4c44-8992-6a231020d763)
