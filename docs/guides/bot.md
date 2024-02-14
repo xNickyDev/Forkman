@@ -1,12 +1,9 @@
-# Clan Bot Setup
+# Forkman Clan Bot
 
 This guide will explain step-by-step how to add Forkman as bot to your clan.
 
 > [!NOTE]
 > Only the clan leader has the authority to add or remove bots.
-
-> [!TIP]
-> Clan bots can be used to send and receive clan chat messages, view member contributions, purchase clan quests, skip waiting time, claim additional time, and more!
 
 ## Step 1: Obtain Bot ID
 
@@ -25,13 +22,13 @@ Open Wolvesville and navigate to your clan's menu. Look for the "Bots" button an
 
 ## Step 3: Add Bot
 
-Paste the previously copied Bot ID into the "Bot ID" field within the **Clan Bots** window.
+Paste the previously copied Bot ID into the "Bot ID" field within the **Clan bots** window.
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/ffd44c9d-82cc-4536-b1cc-2875e4e517c7" width="500" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/1eebcdcb-182e-4a53-9d57-fd18a3ac7ff7" width="500" class="rounded-corners">\
 \
 Once done, click on "Add bot" on the current and following window.
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/7c387120-9eae-497b-80d2-8e0f0e0a227a" width="500" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/6b2d7d05-4a65-4bf0-896a-39a5fa9a3848" width="500" class="rounded-corners">
 
 ---
 
