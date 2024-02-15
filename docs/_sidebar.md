@@ -7,7 +7,7 @@
 
 - **Guides**
   - [Arguments](guides/arguments.md)
-  - [Forkman Clan Bot](guides/clanbot.md)
+  - [Clan Bot](guides/clanbot.md)
 
 - **Commands**
   - [-ask](commands/ask.md)
