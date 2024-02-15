@@ -7,6 +7,7 @@
 
 - **Guides**
   - [Arguments](guides/arguments.md)
+  - [Clan Bot](guides/clanbot.md)
 
 - **Commands**
   - [-ask](commands/ask.md)
