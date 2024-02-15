@@ -1,4 +1,4 @@
-# Forkman Clan Bot
+# Clan Bot
 
 This guide will explain step-by-step how to add Forkman as bot to your clan.
 
