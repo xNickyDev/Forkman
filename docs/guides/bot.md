@@ -5,7 +5,7 @@ This guide will explain step-by-step how to add Forkman as bot to your clan.
 > [!NOTE]
 > Only the clan leader has the authority to add or remove bots.
 
-## Step 1: Obtain Bot ID
+## **Step 1:** Obtain Bot ID
 
 Copy the following Bot ID. This ID identifies the bot to be added to your clan, in this case Forkman (xNicky).
 
@@ -14,13 +14,13 @@ Copy the following Bot ID. This ID identifies the bot to be added to your clan, 
 35b23e35-7fdd-48f3-80d2-c9f33fb7198d
 ```
 
-## Step 2: Access Clan Menu
+## **Step 2:** Access Clan Menu
 
 Open Wolvesville and navigate to your clan's menu. Look for the "Bots" button and click on it.
 
 <img src="https://github.com/xNickyDev/Forkman/assets/111157596/588b1478-d852-4606-994a-897aa220f0ab" width="500" class="rounded-corners">
 
-## Step 3: Add Bot
+## **Step 3:** Add Bot
 
 Paste the previously copied Bot ID into the "Bot ID" field within the **Clan bots** window.
 
