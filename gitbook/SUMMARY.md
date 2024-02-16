@@ -16,6 +16,7 @@
 
 * [-ask](commands/ask.md)
 * [-backgrounds](commands/backgrounds.md)
+* [-badges](commands/badges.md)
 * [-balance](commands/balance.md)
 * [-battlepass](commands/battlepass.md)
 * [-bomber](commands/bomber.md)
