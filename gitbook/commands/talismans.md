@@ -10,6 +10,12 @@ description: Returns all existing talismans.
 -talismans {page}
 ```
 
+### Aliases
+
+```
+-talis
+```
+
 ## Arguments
 
 | Name | Description             | Type   | Required |
