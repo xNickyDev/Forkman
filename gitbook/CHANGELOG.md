@@ -9,6 +9,7 @@
 * Renamed `/vote` to `/vote link`
 * Added `/vote tracker`
 * Added `-talismans` (Alias: `-talis`) and `/talismans`
+* Minor changes and bug fixes
 
 ### January
 * Adapted `-challenges` to the new update
