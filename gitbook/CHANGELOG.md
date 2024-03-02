@@ -2,6 +2,9 @@
 
 ## 2024
 
+### March
+* Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
+
 ### February
 * Fixed `/ask` not responding
 * Partly fixed `/items` sometimes not responding
