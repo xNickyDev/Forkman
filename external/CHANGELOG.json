@@ -1,5 +1,8 @@
 {
     "2024": {
+        "march": [
+            "Added `-rockpapersword` (Alias: `-rps`) and `/game rps`"
+        ],
         "february": [
             "Fixed `/ask` not responding",
             "Partly fixed `/items` sometimes not responding",
