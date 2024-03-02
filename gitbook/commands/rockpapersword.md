@@ -1,6 +1,8 @@
-# -rockpapersword
+---
+description: Play the "Rock Paper Sword" game.
+---
 
-Play the "Rock Paper Sword" game.
+# -rockpapersword
 
 ## Usage
 
