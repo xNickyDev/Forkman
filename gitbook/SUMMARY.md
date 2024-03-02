@@ -41,6 +41,7 @@
 * [-profile](commands/profile.md)
 * [-question](commands/question.md)
 * [-quests](commands/quests.md)
+* [-rockpapersword](commands/rockpapersword.md)
 * [-roleicons](commands/roleicons.md)
 * [-roleinfo](commands/roleinfo.md)
 * [-roleoffers](commands/roleoffers.md)
