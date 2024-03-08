@@ -4,6 +4,9 @@
 
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
+* Added `/clan announcements`
+* Added `/clan quest votes`
+* Added `/clan quest history`
 
 ### February
 * Fixed `/ask` not responding
