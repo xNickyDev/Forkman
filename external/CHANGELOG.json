@@ -1,7 +1,10 @@
 {
     "2024": {
         "march": [
-            "Added `-rockpapersword` (Alias: `-rps`) and `/game rps`"
+            "Added `-rockpapersword` (Alias: `-rps`) and `/game rps`",
+            "Added `/clan announcements`",
+            "Added `/clan quest votes`",
+            "Added `/clan quest history`"
         ],
         "february": [
             "Fixed `/ask` not responding",
