@@ -45,6 +45,7 @@
 * [-roleicons](commands/roleicons.md)
 * [-roleinfo](commands/roleinfo.md)
 * [-roleoffers](commands/roleoffers.md)
+* [-rolerotations](commands/rolerotations.md)
 * [-roles](commands/roles.md)
 * [-talismans](commands/talismans.md)
 * [-uptime](commands/uptime.md)
