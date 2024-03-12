@@ -50,7 +50,7 @@
 * [-talismans](commands/talismans.md)
 * [-uptime](commands/uptime.md)
 * [-vote](commands/vote.md)
-  
+
 ## Team
 
 * [Staff](team/staff/README.md)
