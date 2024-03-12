@@ -4,7 +4,8 @@
             "Added `-rockpapersword` (Alias: `-rps`) and `/game rps`",
             "Added `/clan announcements`",
             "Added `/clan quest votes`",
-            "Added `/clan quest history`"
+            "Added `/clan quest history`",
+            "Added `-rolerotations` (Alias: `-setups`) and `/role rotations`"
         ],
         "february": [
             "Fixed `/ask` not responding",
