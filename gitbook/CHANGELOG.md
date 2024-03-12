@@ -7,6 +7,7 @@
 * Added `/clan announcements`
 * Added `/clan quest votes`
 * Added `/clan quest history`
+* Added `-rolerotations` (Alias: `-setups`) and `/role rotations`
 
 ### February
 * Fixed `/ask` not responding
