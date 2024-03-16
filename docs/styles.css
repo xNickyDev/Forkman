@@ -13,8 +13,6 @@ img.rounded-corners {
   --link-color--hover: var(--theme-color);
   --link-text-decoration-color: var(--theme-color);
   --link-text-decoration-color--hover: var(--theme-color);
-  --sidebar-nav-link-background--active: none;
-  --sidebar-nav-link-background--hover: var(--theme-color);
   --sidebar-nav-pagelink-background: none;
   --sidebar-nav-pagelink-background--active: none;
   --sidebar-nav-pagelink-background--collapse: none;
