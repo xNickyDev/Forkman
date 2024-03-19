@@ -8,7 +8,7 @@
 * Added `/clan quest votes`
 * Added `/clan quest history`
 * Added `-rolerotations` (Alias: `-setups`) and `/role rotations`
-* Fixed `-clan` not following new navigation button style
+* Fixed `-clan` not following new page navigation button style
 
 ### February
 * Fixed `/ask` not responding
