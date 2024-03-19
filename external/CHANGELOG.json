@@ -5,7 +5,8 @@
             "Added `/clan announcements`",
             "Added `/clan quest votes`",
             "Added `/clan quest history`",
-            "Added `-rolerotations` (Alias: `-setups`) and `/role rotations`"
+            "Added `-rolerotations` (Alias: `-setups`) and `/role rotations`",
+            "Fixed `-clan` not following new navigation button style"
         ],
         "february": [
             "Fixed `/ask` not responding",
