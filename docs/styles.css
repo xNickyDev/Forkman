@@ -21,7 +21,7 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--collapse: none;
   --sidebar-nav-pagelink-background--loaded: none;
   --sidebar-nav-pagelink-padding: 3px;
-  --sidebar-nav-link-border-style: 3px solid;
+  --sidebar-nav-link-border-width: 3;
   --sidebar-nav-link-font-weight--active: bold;
   --sidebar-nav-link-text-decoration--active: none;
 }
