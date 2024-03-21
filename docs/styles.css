@@ -20,8 +20,7 @@ img.rounded-corners {
   --sidebar-nav-pagelink-background--active: none;
   --sidebar-nav-pagelink-background--collapse: none;
   --sidebar-nav-pagelink-background--loaded: none;
-  --sidebar-nav-pagelink-padding: 3px;
+ 
   --sidebar-nav-link-font-weight--active: bold;
   --sidebar-nav-link-text-decoration--active: none;
-  --sidebar-nav-link-border-color--hover: var(--theme-color);
 }
