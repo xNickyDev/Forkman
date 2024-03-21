@@ -15,7 +15,7 @@ img.rounded-corners {
   --link-text-decoration-color--hover: var(--theme-color);
   --sidebar-nav-link-background: none;
   --sidebar-nav-link-background--active: none;
-  --sidebar-nav-link-background--hover: none;
+  --sidebar-nav-link-background--hover: linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%);
   --sidebar-nav-pagelink-background: none;
   --sidebar-nav-pagelink-background--active: none;
   --sidebar-nav-pagelink-background--collapse: none;
