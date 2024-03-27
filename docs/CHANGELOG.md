@@ -9,6 +9,8 @@
 * Added `/clan quest history`
 * Added `-rolerotations` (Alias: `-setups`) and `/role rotations`
 * Fixed `-clan` not following new page navigation button style
+* Fixed `-glassbridge` not working
+* Fixed `-hangman` not working
 
 ### February
 * Fixed `/ask` not responding
