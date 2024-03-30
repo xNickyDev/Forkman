@@ -11,6 +11,7 @@
 * Fixed `-clan` not following new page navigation button style
 * Fixed `-glassbridge` not working
 * Fixed `-hangman` not working
+* Renamed `/profile` to `/player search`
 
 ### February
 * Fixed `/ask` not responding
