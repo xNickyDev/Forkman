@@ -1,18 +1,19 @@
-# -roleicons
+# /role icons
 
 Returns all existing role icons.
 
 ## Usage
 
 ```
--roleicons {page}
+/role icons {page} {role}
 ```
 
 ## Arguments
 
-| Name | Description             | Type   | Required |
-| :--: | :---------------------: | :----: | :------: |
-| page | The number of the page. | Number | No       |
+| Name | Description                 | Type   | Required |
+| :--: | :-------------------------: | :----: | :------: |
+| page | The number of the page.     | Number | No       |
+| role | The name or ID of the role. | Role   | No       |
 
 ## Examples
 

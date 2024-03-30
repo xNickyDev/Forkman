@@ -1,11 +1,11 @@
-# -challenges
+# /battlepass challenges
 
 Returns all current battle pass challenges.
 
 ## Usage
 
 ```
--challenges {page}
+/battlepass challenges {page}
 ```
 
 ## Arguments

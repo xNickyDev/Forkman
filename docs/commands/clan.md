@@ -1,21 +1,28 @@
-# -clan
+# /clan search
 
 Returns information about the given clan.
 
 ## Usage
 
 ```
--clan <name>
+/clan search <name> {join_type} {not_full} {exact_name} {min_level} {max_level} {sort} {region}
 ```
 
 ## Arguments
 
-| Name | Description                 | Type   | Required |
-| :--: | :-------------------------: | :----: | :------: |
-| name | The name or ID of the clan. | String | Yes      |
+| Name       | Description                       | Type    | Required |
+| :--------: | :-------------------------------: | :-----: | :------: |
+| name       | The name or ID of the clan.       | String  | Yes      |
+| join_type  | Select the join type of the clan. | Enum    | No       |
+| not_full   | {description}                     | Boolean | No       |
+| exact_name | {description}                     | Boolean | No       |
+| min_level  | {description}                     | Number  | No       |
+| max_level  | {description}                     | Number  | No       |
+| sort       | {description}                     | Enum    | No       |
+| region     | {description}                     | Enum    | No       |
 
 > [!TIP]
-> You can use the [`-id`](commands/id.md) command to get the ID of any clan.
+> You can use the [`/id`](commands/id.md) command to get the ID of any clan.
 
 ## Examples
 

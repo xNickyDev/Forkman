@@ -1,4 +1,4 @@
-# -ask
+# /ask
 
 Ask a question regarding Forkman.
 
@@ -8,7 +8,7 @@ Ask a question regarding Forkman.
 ## Usage
 
 ```
--ask <question>
+/ask <question>
 ```
 
 ## Arguments

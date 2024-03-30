@@ -1,18 +1,22 @@
-# -items
+# /items
 
 Returns all existing avatar items.
 
 ## Usage
 
 ```
--items {page}
+/items {page} {raity} {gender} {type} {event}
 ```
 
 ## Arguments
 
-| Name | Description             | Type   | Required |
-| :--: | :---------------------: | :----: | :------: |
-| page | The number of the page. | Number | No       |
+| Name   | Description                        | Type   | Required |
+| :----: | :--------------------------------: | :----: | :------: |
+| page   | The number of the page.            | Number | No       |
+| rarity | Filter by the rarity of the items. | Enum   | No       |
+| gender | Filter by the gender of the items. | Enum   | No       |
+| type   | Filter by the type of the items.   | Enum   | No       |
+| event  | Filter by the event of the items.  | Enum   | No       |
 
 ## Examples
 

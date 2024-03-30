@@ -1,15 +1,9 @@
-# -rockpapersword
+# /game rps
 
 Play the "Rock Paper Sword" game.
 
 ## Usage
 
 ```
--rockpapersword
-```
-
-### Aliases
-
-```
--rps
+/game rps
 ```

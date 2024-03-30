@@ -1,17 +1,11 @@
-# -talismans
+# /talismans
 
 Returns all existing talismans.
 
 ## Usage
 
 ```
--talismans {page}
-```
-
-### Aliases
-
-```
--talis
+/talismans {page}
 ```
 
 ## Arguments

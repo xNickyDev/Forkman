@@ -1,17 +1,11 @@
-# -backgrounds
+# /backgrounds
 
 Returns all existing backgrounds.
 
 ## Usage
 
 ```
--backgrounds {page}
-```
-
-### Aliases
-
-```
--bg
+/backgrounds {page}
 ```
 
 ## Arguments

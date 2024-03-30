@@ -1,25 +1,19 @@
-# -help
+# /help
 
 Returns a command help page of Forkman.
 
 ## Usage
 
 ```
--help {page/command}
-```
-
-### Aliases
-
-```
--h
--commands
+/help {page} {command}
 ```
 
 ## Arguments
 
-| Name             | Description                                          | Type               | Required |
-| :--------------: | :--------------------------------------------------: | :----------------: | :------: |
-| page <br>command | The number of the page. <br>The name of the command. | Number <br>Command | No       |
+| Name    | Description              | Type    | Required |
+| :-----: | :----------------------: | :-----: | :------: |
+| page    | The number of the page.  | Number  | No       |
+| command | The name of the command. | Command | No       |
 
 ## Examples
 

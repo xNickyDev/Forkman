@@ -1,18 +1,11 @@
-# -leaderboard
+# /leaderboard
 
 Returns a leaderboard of the specified type.
 
 ## Usage
 
 ```
--leaderboard <type (gold/votes)> {page}
-```
-
-### Aliases
-
-```
--lb
--top
+/leaderboard <type (Gold/Votes)> {page}
 ```
 
 ## Arguments
@@ -24,8 +17,8 @@ Returns a leaderboard of the specified type.
 
 ### Possibilities for <span style="color:#FA9405">type</span>
 
-- `gold` - Returns the gold leaderboard.
-- `votes` - Returns the votes leaderboard.
+- `Gold` - Returns the gold leaderboard.
+- `Votes` - Returns the votes leaderboard.
 
 ## Examples
 

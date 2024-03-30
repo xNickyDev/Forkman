@@ -1,18 +1,11 @@
-# -collections
+# /collections
 
 Returns all existing collections of the specified type.
 
 ## Usage
 
 ```
--collections <type (emojis/items)> {page}
-```
-
-### Aliases
-
-```
--col
--collection
+/collections <type (emojis/items)> {page}
 ```
 
 ## Arguments

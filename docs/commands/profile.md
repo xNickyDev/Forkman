@@ -1,18 +1,11 @@
-# -profile
+# /player search
 
 Returns profile information about the given player.
 
 ## Usage
 
 ```
--profile <username>
-```
-
-### Aliases
-
-```
--player
--playerinfo
+/player search <username>
 ```
 
 ## Arguments

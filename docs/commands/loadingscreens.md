@@ -1,17 +1,11 @@
-# -loadingscreens
+# /loadingscreens
 
 Returns all existing loading screens.
 
 ## Usage
 
 ```
--loadingscreens {page}
-```
-
-### Aliases
-
-```
--ls
+/loadingscreens {page}
 ```
 
 ## Arguments

@@ -1,11 +1,11 @@
-# -offers
+# /offers
 
 Returns all available active offers.
 
 ## Usage
 
 ```
--offers {page}
+/offers {page}
 ```
 
 ## Arguments

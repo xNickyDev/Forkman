@@ -1,11 +1,11 @@
-# -id
+# /id
 
 Gets the ID of a player or clan.
 
 ## Usage
 
 ```
--id <type (player/clan)> <name>
+/id <type (player/clan)> <name>
 ```
 
 ## Arguments

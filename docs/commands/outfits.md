@@ -1,11 +1,11 @@
-# -outfits
+# /outfits
 
 Returns all existing outfits.
 
 ## Usage
 
 ```
--outfits {page}
+/outfits {page}
 ```
 
 ## Arguments

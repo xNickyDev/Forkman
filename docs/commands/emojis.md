@@ -1,11 +1,11 @@
-# -emojis
+# /emojis
 
 Returns all existing emojis.
 
 ## Usage
 
 ```
--emojis {page}
+/emojis {page}
 ```
 
 ## Arguments

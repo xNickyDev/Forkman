@@ -1,18 +1,19 @@
-# -roleoffers
+# /role offers
 
 Returns all existing advanced role card offers.
 
 ## Usage
 
 ```
--roleoffers {page}
+/role offers {page} {role}
 ```
 
 ## Arguments
 
-| Name | Description             | Type   | Required |
-| :--: | :---------------------: | :----: | :------: |
-| page | The number of the page. | Number | No       |
+| Name | Description                 | Type   | Required |
+| :--: | :-------------------------: | :----: | :------: |
+| page | The number of the page.     | Number | No       |
+| role | The name or ID of the role. | Role   | No       |
 
 ## Examples
 

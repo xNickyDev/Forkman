@@ -1,11 +1,11 @@
-# -quests
+# /quests
 
 Returns all existing clan quests.
 
 ## Usage
 
 ```
--quests {page}
+/quests {page}
 ```
 
 ## Arguments

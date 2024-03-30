@@ -1,9 +1,9 @@
-# -question
+# /game question
 
 Play the "Question" game.
 
 ## Usage
 
 ```
--question
+/game question
 ```

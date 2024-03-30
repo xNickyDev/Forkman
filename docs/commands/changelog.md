@@ -1,11 +1,11 @@
-# -changelog
+# /changelog
 
 Returns the newest changelog entries.
 
 ## Usage
 
 ```
--changelog {month}
+/changelog {month} {year}
 ```
 
 ## Arguments
@@ -13,6 +13,7 @@ Returns the newest changelog entries.
 | Name  | Description                           | Type   | Required |
 | :---: | :-----------------------------------: | :----: | :------: |
 | month | The month of the changelog to return. | String | No       |
+| year  | The year of the changelog to return.  | String | No       |
 
 ## Examples
 

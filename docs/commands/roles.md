@@ -1,11 +1,11 @@
-# -roles
+# /roles
 
 Returns all existing roles.
 
 ## Usage
 
 ```
--roles {page}
+/roles {page}
 ```
 
 ## Arguments

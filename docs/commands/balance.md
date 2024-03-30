@@ -1,16 +1,11 @@
-# -balance
+# /balance
+
 Returns the balance of a user.
 
 ## Usage
 
 ```
--balance {user}
-```
-
-### Aliases
-
-```
--bal
+/balance {user}
 ```
 
 ## Arguments

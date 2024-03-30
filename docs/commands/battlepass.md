@@ -1,16 +1,9 @@
-# -battlepass
+# /battlepass season
 
 Returns information about the current battle pass season.
 
 ## Usage
 
 ```
--battlepass
-```
-
-### Aliases
-
-```
--bp
--season
+/battlepass season
 ```

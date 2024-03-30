@@ -1,24 +1,18 @@
-# -roleinfo
+# /role info
 
 Returns information about a single role.
 
 ## Usage
 
 ```
--roleinfo <role>
-```
-
-### Aliases
-
-```
--role
+/role info <role>
 ```
 
 ## Arguments
 
-| Name | Description                 | Type   | Required |
-| :--: | :-------------------------: | :----: | :------: |
-| role | The name or ID of the role. | String | Yes      |
+| Name | Description                 | Type | Required |
+| :--: | :-------------------------: | :--: | :------: |
+| role | The name or ID of the role. | Role | Yes      |
 
 > [!NOTE]
 > You need to provide the **exact** role _name_ or _ID_, both works. The argument `role` is not case sensitive.

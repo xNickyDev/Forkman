@@ -1,11 +1,11 @@
-# -badges
+# /badges
 
 Returns all existing badges.
 
 ## Usage
 
 ```
--badges {page}
+/badges {page}
 ```
 
 ## Arguments
