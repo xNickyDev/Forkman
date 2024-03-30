@@ -1,16 +1,18 @@
 - [Welcome](home.md)
 
 - **Resources**
-  - [<img src="_media/external.svg" alt=""> Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499&permissions=277025778753&scope=bot%20applications.commands)
-  - [<img src="_media/external.svg" alt=""> Support Server](https://discord.gg/DEEZY5cwpy)
+  - [<img src="_media/external.svg"> Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499&permissions=277025778753&scope=bot%20applications.commands)
+  - [<img src="_media/external.svg"> Support Server](https://discord.gg/DEEZY5cwpy)
   - [Changelog](CHANGELOG.md)
 
 - **Guides**
   - [Arguments](guides/arguments.md)
+  - [Clan Bot](guides/clanbot.md)
 
 - **Commands**
   - [-ask](commands/ask.md)
   - [-backgrounds](commands/backgrounds.md)
+  - [-badges](commands/badges.md)
   - [-balance](commands/balance.md)
   - [-battlepass](commands/battlepass.md)
   - [-bomber](commands/bomber.md)
@@ -34,9 +36,13 @@
   - [-profile](commands/profile.md)
   - [-question](commands/question.md)
   - [-quests](commands/quests.md)
+  - [-rockpapersword](commands/rockpapersword.md)
   - [-roleicons](commands/roleicons.md)
   - [-roleinfo](commands/roleinfo.md)
+  - [-roleoffers](commands/roleoffers.md)
+  - [-rolerotations](commands/rolerotations.md)
   - [-roles](commands/roles.md)
+  - [-talismans](commands/talismans.md)
   - [-uptime](commands/uptime.md)
   - [-vote](commands/vote.md)
 

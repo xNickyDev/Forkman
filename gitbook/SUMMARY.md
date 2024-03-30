@@ -11,11 +11,13 @@
 ## Guides
 
 * [Arguments](guides/arguments.md)
+* [Clan Bot](guides/clanbot.md)
 
 ## Commands
 
 * [-ask](commands/ask.md)
 * [-backgrounds](commands/backgrounds.md)
+* [-badges](commands/badges.md)
 * [-balance](commands/balance.md)
 * [-battlepass](commands/battlepass.md)
 * [-bomber](commands/bomber.md)
@@ -39,12 +41,16 @@
 * [-profile](commands/profile.md)
 * [-question](commands/question.md)
 * [-quests](commands/quests.md)
+* [-rockpapersword](commands/rockpapersword.md)
 * [-roleicons](commands/roleicons.md)
 * [-roleinfo](commands/roleinfo.md)
+* [-roleoffers](commands/roleoffers.md)
+* [-rolerotations](commands/rolerotations.md)
 * [-roles](commands/roles.md)
+* [-talismans](commands/talismans.md)
 * [-uptime](commands/uptime.md)
 * [-vote](commands/vote.md)
-  
+
 ## Team
 
 * [Staff](team/staff/README.md)

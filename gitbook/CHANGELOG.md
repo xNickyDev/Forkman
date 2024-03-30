@@ -2,6 +2,26 @@
 
 ## 2024
 
+### March
+* Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
+* Added `/clan announcements`
+* Added `/clan quest votes`
+* Added `/clan quest history`
+* Added `-rolerotations` (Alias: `-setups`) and `/role rotations`
+* Fixed `-clan` not following new page navigation button style
+* Fixed `-glassbridge` not working
+* Fixed `-hangman` not working
+* Renamed `/profile` to `/player search`
+
+### February
+* Fixed `/ask` not responding
+* Partly fixed `/items` sometimes not responding
+* Added `-roleoffers` and `/role offers`
+* Renamed `/vote` to `/vote link`
+* Added `/vote tracker`
+* Added `-talismans` (Alias: `-talis`) and `/talismans`
+* Minor changes and bug fixes
+
 ### January
 * Adapted `-challenges` to the new update
 * Added `-battlepass` (Aliases: `-bp`, `-season`) and `/battlepass`
