@@ -2,6 +2,10 @@
 
 ## 2024
 
+### April
+* Added `/player info`
+* Added `/clan info`
+
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
 * Added `/clan announcements`
