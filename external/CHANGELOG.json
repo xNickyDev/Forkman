@@ -1,5 +1,9 @@
 {
     "2024": {
+        "april": [
+            "Added `/player info`",
+            "Added `/clan info`"
+        ],
         "march": [
             "Added `-rockpapersword` (Alias: `-rps`) and `/game rps`",
             "Added `/clan announcements`",
