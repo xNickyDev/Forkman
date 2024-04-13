@@ -2,7 +2,8 @@
     "2024": {
         "april": [
             "Added `/player info`",
-            "Added `/clan info`"
+            "Added `/clan info`",
+            "Officially added \"Rewards\" button to `-battlepass`"
         ],
         "march": [
             "Added `-rockpapersword` (Alias: `-rps`) and `/game rps`",
