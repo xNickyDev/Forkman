@@ -5,6 +5,7 @@
 ### April
 * Added `/player info`
 * Added `/clan info`
+* Officially added "Rewards" button to `-battlepass`
 
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
