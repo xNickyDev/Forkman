@@ -18,24 +18,24 @@ Returns all existing avatar items.
 | type   | Filter by the type of the items.   | Enum   | No       |
 | event  | Filter by the event of the items.  | Enum   | No       |
 
-### Possibilities
+### Possibilities <span class="badge">New!</span>
 
 <!-- tabs:start -->
 
-#### **rarity <span class="tab-badge">New!</span>**
+#### **rarity>**
 
 - `Common` - Filters items by Common rarity.
 - `Rare` - Filters items by Rare rarity.
 - `Epic` - Filters items by Epic rarity.
 - `Legendary` - Filters items by Legendary rarity.
 
-#### **gender <span class="tab-badge">New!</span>**
+#### **gender**
 
 - `Male` - Filters items by Male gender.
 - `Female` - Filters items by Female gender.
 - `Neutral` - Filters items by Neutral gender.
 
-#### **type <span class="tab-badge">New!</span>**
+#### **type**
 
 - `Shirt` - Filters items by Shirt type.
 - `Glasses` - Filters items by Glasses type.
@@ -49,7 +49,7 @@ Returns all existing avatar items.
 - `Mouth` - Filters items by Mouth type.
 - `Badge` - Filters items by Badge type.
 
-#### **event <span class="tab-badge">New!</span>**
+#### **event**
 
 - `Easter` - Filters items by Easter event.
 - `Soccer` - Filters items by Soccer event.

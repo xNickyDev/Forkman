@@ -14,11 +14,11 @@ Returns all current live role rotations.
 | :------: | :---------------------------------------------------------: | :--: | :------: |
 | gamemode | The game mode from which role rotations should be returned. | Enum | No       |
 
-### Possibilities
+### Possibilities <span class="badge">New!</span>
 
 <!-- tabs:start -->
 
-### **gamemode** <span class="tab-badge">New!</span>
+#### **gamemode**
 
 - `Quick game` - Returns Quick game role rotations.
 - `Advanced game` - Returns Advanced game role rotations.

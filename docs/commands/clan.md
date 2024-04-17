@@ -24,17 +24,17 @@ Returns information about the given clan.
 > [!TIP]
 > You can use the [`/id`](commands/id.md) command to get the ID of any clan.
 
-### Possibilities
+### Possibilities <span class="badge">New!</span>
 
 <!-- tabs:start -->
 
-#### **join_type <span class="tab-badge">New!</span>**
+#### **join_type**
 
 - `Anyone can join` - Filters clans by "Anyone can join" join type.
 - `Invite only` - Filters clans by "Invite only" join type.
 - `Closed` - Filters clans by "Closed" join type.
 
-#### **sort <span class="tab-badge">New!</span>**
+#### **sort**
 
 - `XP` - Sorts clans by XP.
 - `Name` - Sorts clans by Name.

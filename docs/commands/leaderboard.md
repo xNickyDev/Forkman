@@ -15,11 +15,11 @@ Returns a leaderboard of the specified type.
 | type | The type of the leaderboard. | Enum   | Yes      |
 | page | The number of the page.      | Number | No       |
 
-### Possibilities
+### Possibilities <span class="badge">New!</span>
 
 <!-- tabs:start -->
 
-#### **type <span class="tab-badge">New!</span>**
+#### **type**
 
 - `Gold` - Returns the gold leaderboard.
 - `Votes` - Returns the votes leaderboard.
