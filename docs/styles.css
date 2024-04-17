@@ -9,7 +9,10 @@ img.rounded-corners {
 }
 
 .badge {
-  position: fixed;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   transform: translate(35%, -45%);
   padding: 0.25em 0.35em;
   border-radius: 3px;
