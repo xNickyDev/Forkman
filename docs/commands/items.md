@@ -22,7 +22,7 @@ Returns all existing avatar items.
 
 <!-- tabs:start -->
 
-#### **rarity>**
+#### **rarity**
 
 - `Common` - Filters items by Common rarity.
 - `Rare` - Filters items by Rare rarity.
