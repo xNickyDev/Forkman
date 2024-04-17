@@ -15,7 +15,7 @@ Gets the ID of a player or clan.
 | type | The type of which to get its ID. | Enum   | Yes      |
 | name | The name of the selected type.   | String | Yes      |
 
-### Possibilities <span class="badge">New!</span>
+### Possibilities
 
 <!-- tabs:start -->
 

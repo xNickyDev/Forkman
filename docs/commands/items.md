@@ -18,7 +18,7 @@ Returns all existing avatar items.
 | type   | Filter by the type of the items.   | Enum   | No       |
 | event  | Filter by the event of the items.  | Enum   | No       |
 
-### Possibilities <span class="badge">New!</span>
+### Possibilities
 
 <!-- tabs:start -->
 

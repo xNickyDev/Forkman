@@ -15,7 +15,7 @@ Returns all existing collections of the specified type.
 | type | The type of the collection. | Enum   | Yes      |
 | page | The number of the page.     | Number | No       |
 
-### Possibilities <span class="badge">New!</span>
+### Possibilities
 
 <!-- tabs:start -->
 

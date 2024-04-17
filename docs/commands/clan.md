@@ -24,7 +24,7 @@ Returns information about the given clan.
 > [!TIP]
 > You can use the [`/id`](commands/id.md) command to get the ID of any clan.
 
-### Possibilities <span class="badge">New!</span>
+### Possibilities
 
 <!-- tabs:start -->
 

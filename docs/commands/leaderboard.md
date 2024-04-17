@@ -15,7 +15,7 @@ Returns a leaderboard of the specified type.
 | type | The type of the leaderboard. | Enum   | Yes      |
 | page | The number of the page.      | Number | No       |
 
-### Possibilities <span class="badge">New!</span>
+### Possibilities
 
 <!-- tabs:start -->
 

@@ -14,7 +14,7 @@ Returns all current live role rotations.
 | :------: | :---------------------------------------------------------: | :--: | :------: |
 | gamemode | The game mode from which role rotations should be returned. | Enum | No       |
 
-### <div class="heading">Possibilities <span class="badge">New!</span></div>
+### Possibilities
 
 <!-- tabs:start -->
 
