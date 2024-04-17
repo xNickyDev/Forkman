@@ -11,7 +11,6 @@ img.rounded-corners {
 .badge {
   position: absolute;
   transform: translate(35%, -45%);
-  padding: 0.25em 0.35em;
   border-radius: 3px;
   background: var(--theme-color);
   color: white;
