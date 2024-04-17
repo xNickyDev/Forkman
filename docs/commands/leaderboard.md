@@ -10,15 +10,21 @@ Returns a leaderboard of the specified type.
 
 ## Arguments
 
-| Name                                     | Description                  | Type     | Required |
-| :--------------------------------------: | :--------------------------: | :------: | :------: |
-| <span style="color:#FA9405">type</span>  | The type of the leaderboard. | Enum     | Yes      |
-| page                                     | The number of the page.      | Number   | No       |
+| Name | Description                  | Type   | Required |
+| :--: | :--------------------------: | :----: | :------: |
+| type | The type of the leaderboard. | Enum   | Yes      |
+| page | The number of the page.      | Number | No       |
 
-### Possibilities for <span style="color:#FA9405">type</span>
+### Possibilities
+
+<!-- tabs:start -->
+
+#### **type <span class="tab-badge">New!</span>**
 
 - `Gold` - Returns the gold leaderboard.
 - `Votes` - Returns the votes leaderboard.
+
+<!-- tabs:end -->
 
 ## Examples
 
