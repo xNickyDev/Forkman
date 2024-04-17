@@ -18,7 +18,7 @@ Returns all current live role rotations.
 
 <!-- tabs:start -->
 
-#### **gamemode <span class="tab-badge">New!</span>**
+### **gamemode** <span class="tab-badge">New!</span>
 
 - `Quick game` - Returns Quick game role rotations.
 - `Advanced game` - Returns Advanced game role rotations.
