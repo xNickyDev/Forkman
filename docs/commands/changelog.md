@@ -10,10 +10,10 @@ Returns the newest changelog entries.
 
 ## Arguments
 
-| Name  | Description                           | Type   | Required |
-| :---: | :-----------------------------------: | :----: | :------: |
-| month | The month of the changelog to return. | String | No       |
-| year  | The year of the changelog to return.  | String | No       |
+| Name  | Description                           | Type | Required |
+| :---: | :-----------------------------------: | :--: | :------: |
+| month | The month of the changelog to return. | Enum | No       |
+| year  | The year of the changelog to return.  | Enum | No       |
 
 ## Examples
 

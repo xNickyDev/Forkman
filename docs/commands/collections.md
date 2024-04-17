@@ -10,16 +10,21 @@ Returns all existing collections of the specified type.
 
 ## Arguments
 
-| Name                                     | Description                 | Type   | Required |
-| :--------------------------------------: | :-------------------------: | :----: | :------: |
-| <span style="color:#FA9405">type</span>  | The type of the collection. | Enum   | Yes      |
-| page                                     | The number of the page.     | Number | No       |
+| Name | Description                 | Type   | Required |
+| :--: | :-------------------------: | :----: | :------: |
+| type | The type of the collection. | Enum   | Yes      |
+| page | The number of the page.     | Number | No       |
 
+### Possibilities
 
-### Possibilities for <span style="color:#FA9405">type</span>
+<!-- tabs:start -->
 
-- `emojis` / `emoji` - Returns the emoji collections.
-- `items` / `item` - Returns the item collections.
+#### **type <span class="tab-badge">New!</span>**
+
+- `Emojis` - Returns the emoji collections.
+- `Items` - Returns the item collections.
+
+<!-- tabs:end -->
 
 ## Examples
 

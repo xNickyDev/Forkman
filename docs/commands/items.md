@@ -18,6 +18,52 @@ Returns all existing avatar items.
 | type   | Filter by the type of the items.   | Enum   | No       |
 | event  | Filter by the event of the items.  | Enum   | No       |
 
+### Possibilities
+
+<!-- tabs:start -->
+
+#### **rarity <span class="tab-badge">New!</span>**
+
+- `Common` - Filters items by Common rarity.
+- `Rare` - Filters items by Rare rarity.
+- `Epic` - Filters items by Epic rarity.
+- `Legendary` - Filters items by Legendary rarity.
+
+#### **gender <span class="tab-badge">New!</span>**
+
+- `Male` - Filters items by Male gender.
+- `Female` - Filters items by Female gender.
+- `Neutral` - Filters items by Neutral gender.
+
+#### **type <span class="tab-badge">New!</span>**
+
+- `Shirt` - Filters items by Shirt type.
+- `Glasses` - Filters items by Glasses type.
+- `Hair` - Filters items by Hair type.
+- `Hat` - Filters items by Hat type.
+- `Eyes` - Filters items by Eyes type.
+- `Gravestone` - Filters items by Gravestone type.
+- `Back` - Filters items by Back type.
+- `Front` - Filters items by Front type.
+- `Mask` - Filters items by Mask type.
+- `Mouth` - Filters items by Mouth type.
+- `Badge` - Filters items by Badge type.
+
+#### **event <span class="tab-badge">New!</span>**
+
+- `Easter` - Filters items by Easter event.
+- `Soccer` - Filters items by Soccer event.
+- `Halloween` - Filters items by Halloween event.
+- `Xmas` - Filters items by Xmas event.
+- `St. Patrick` - Filters items by St. Patrick event.
+- `Wheel` - Filters items by Wheel event.
+- `Items Collection` - Filters items by Items Collection event.
+- `Early Bird` - Filters items by Early Bird event.
+- `Calendar` - Filters items by Calendar event.
+- `Battle Pass` - Filters items by Battle Pass event.
+
+<!-- tabs:end -->
+
 ## Examples
 
 <img src="https://user-images.githubusercontent.com/111157596/234332919-ece92771-a549-4858-91e1-ee4b74ab11e0.png" class="rounded-corners">\

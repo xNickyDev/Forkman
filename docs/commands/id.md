@@ -5,23 +5,26 @@ Gets the ID of a player or clan.
 ## Usage
 
 ```
-/id <type (player/clan)> <name>
+/id <type> <name>
 ```
 
 ## Arguments
 
-| Name                                    | Description                      | Type   | Required |
-| :-------------------------------------: | :------------------------------: | :----: | :------: |
-| <span style="color:#FA9405">type</span> | The type of which to get its ID. | Enum   | Yes      |
-| name                                    | The name of the selected type.   | String | Yes      |
+| Name | Description                      | Type   | Required |
+| :--: | :------------------------------: | :----: | :------: |
+| type | The type of which to get its ID. | Enum   | Yes      |
+| name | The name of the selected type.   | String | Yes      |
 
-### Possibilities for <span style="color:#FA9405">type</span>
+### Possibilities
 
-- `player` - Gets the ID of a player.
-- `clan` - Gets the ID of a clan.
+<!-- tabs:start -->
 
-> [!NOTE]
-> You need to provide the **exact** name of the player or clan. The argument `name` is case sensitive!
+#### **type <span class="tab-badge">New!</span>**
+
+- `Player` - Gets the ID of a player.
+- `Clan` - Gets the ID of a clan.
+
+<!-- tabs:end -->
 
 ## Examples
 

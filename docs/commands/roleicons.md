@@ -13,7 +13,7 @@ Returns all existing role icons.
 | Name | Description                 | Type   | Required |
 | :--: | :-------------------------: | :----: | :------: |
 | page | The number of the page.     | Number | No       |
-| role | The name or ID of the role. | Role   | No       |
+| role | The name or ID of the role. | String | No       |
 
 ## Examples
 

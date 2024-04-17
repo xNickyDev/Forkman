@@ -13,3 +13,20 @@ Returns all current live role rotations.
 | Name     | Description                                                 | Type | Required |
 | :------: | :---------------------------------------------------------: | :--: | :------: |
 | gamemode | The game mode from which role rotations should be returned. | Enum | No       |
+
+### Possibilities
+
+<!-- tabs:start -->
+
+#### **gamemode <span class="tab-badge">New!</span>**
+
+- `Quick game` - Returns Quick game role rotations.
+- `Advanced game` - Returns Advanced game role rotations.
+- `Sandbox` - Returns Sandbox role rotations.
+- `Ranked league silver` - Returns Ranked league silver role rotations.
+- `Ranked league gold` - Returns Ranked league gold role rotations.
+- `Crazy fun` - Returns Crazy fun role rotations.
+
+<!-- tabs:end -->
+
+## Examples
