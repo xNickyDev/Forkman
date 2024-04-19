@@ -6,6 +6,8 @@
 * Added `/player info`
 * Added `/clan info`
 * Officially added "Rewards" button to `-battlepass`
+* Renamed difficulty "Normal" to **Medium** at `-bomber`
+* Updated "End Game" button layout of games
 
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
