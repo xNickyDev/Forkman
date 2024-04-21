@@ -19,7 +19,7 @@
     - [/battlepass season](commands/battlepass/season.md)
   - [/botinfo](commands/botinfo.md)
   - [/changelog](commands/changelog.md)
-  - /clan
+  - [/clan](commands/clan/introduction.md)
     - [/clan info](commands/clan/info.md)
     - [/clan search](commands/clan/search.md)
   - [/collections](commands/collections.md)
