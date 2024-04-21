@@ -14,7 +14,7 @@
   - [/backgrounds](commands/backgrounds.md)
   - [/badges](commands/badges.md)
   - [/balance](commands/balance.md)
-  - /battlepass
+  - [/battlepass](commands/battlepass/introduction.md)
     - [/battlepass challenges](commands/battlepass/challenges.md)
     - [/battlepass season](commands/battlepass/season.md)
   - [/botinfo](commands/botinfo.md)
@@ -24,7 +24,7 @@
     - [/clan search](commands/clan/search.md)
   - [/collections](commands/collections.md)
   - [/emojis](commands/emojis.md)
-  - /game
+  - [/game](commands/game/introduction.md)
     - [/game bomber](commands/game/bomber.md)
     - [/game glassbridge](commands/game/glassbridge.md)
     - [/game hangman](commands/game/hangman.md)
@@ -38,12 +38,12 @@
   - [/offers](commands/offers.md)
   - [/outfits](commands/outfits.md)
   - [/ping](commands/ping.md)
-  - /player
+  - [/player](commands/player/introduction.md)
     - [/player info](commands/player/info.md)
     - [/player search](commands/player/search.md)
   - [/quests](commands/quests.md)
   - [/review](commands/review.md)
-  - /role
+  - [/role](commands/role/introduction.md)
     - [/role icons](commands/role/icons.md)
     - [/role info](commands/role/info.md)
     - [/role offers](commands/role/offers.md)
@@ -51,7 +51,7 @@
   - [/roles](commands/roles.md)
   - [/talismans](commands/talismans.md)
   - [/uptime](commands/uptime.md)
-  - /vote
+  - [/vote](commands/vote/introduction.md)
     - [/vote link](commands/vote/link.md)
     - [/vote tracker](commands/vote/tracker.md)
 
