@@ -10,22 +10,37 @@
   - [Clan Bot](guides/clanbot.md)
 
 - **Commands**
+  - /battlepass
+    - [/battlepass challenges](commands/battlepass/challenges.md)
+    - [/battlepass season](commands/battlepass/season.md)
+  - /clan
+    - [/clan info](commands/clan/info.md)
+    - [/clan search](commands/clan/search.md)
+  - /game
+    - [/game bomber](commands/game/bomber.md)
+    - [/game glassbridge](commands/game/glassbridge.md)
+    - [/game hangman](commands/game/hangman.md)
+    - [/game question](commands/game/question.md)
+    - [/game rps](commands/game/rps.md)
+  - /player
+    - [/player info](commands/player/info.md)
+    - [/player search](commands/player/search.md)
+  - /role
+    - [/role icons](commands/role/icons.md)
+    - [/role info](commands/role/info.md)
+    - [/role offers](commands/role/offers.md)
+    - [/role rotations](commands/role/rotations.md)
+  - /vote
+    - [/vote link](commands/vote/link.md)
+    - [/vote tracker](commands/vote/tracker.md)
   - [/ask](commands/ask.md)
   - [/backgrounds](commands/backgrounds.md)
   - [/badges](commands/badges.md)
   - [/balance](commands/balance.md)
-  - [/battlepass challenges](commands/challenges.md)
-  - [/battlepass season](commands/battlepass.md)
   - [/botinfo](commands/botinfo.md)
   - [/changelog](commands/changelog.md)
-  - [/clan search](commands/clan.md)
   - [/collections](commands/collections.md)
   - [/emojis](commands/emojis.md)
-  - [/game bomber](commands/bomber.md)
-  - [/game glassbridge](commands/glassbridge.md)
-  - [/game hangman](commands/hangman.md)
-  - [/game question](commands/question.md)
-  - [/game rps](commands/rockpapersword.md)
   - [/help](commands/help.md)
   - [/id](commands/id.md)
   - [/items](commands/items.md)
@@ -34,17 +49,11 @@
   - [/offers](commands/offers.md)
   - [/outfits](commands/outfits.md)
   - [/ping](commands/ping.md)
-  - [/player search](commands/profile.md)
   - [/quests](commands/quests.md)
   - [/review](commands/review.md)
-  - [/role icons](commands/roleicons.md)
-  - [/role info](commands/roleinfo.md)
-  - [/role offers](commands/roleoffers.md)
-  - [/role rotations](commands/rolerotations.md)
   - [/roles](commands/roles.md)
   - [/talismans](commands/talismans.md)
   - [/uptime](commands/uptime.md)
-  - [/vote link](commands/vote.md)
 
 - **Team**
   - [Staff](team/staff/introduction.md)
