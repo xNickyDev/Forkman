@@ -9,6 +9,7 @@
 * Renamed difficulty "Normal" to **Medium** at `-bomber`
 * Updated "End Game" button layout of games
 * Added "Balance" button to `/clan info`
+* Added "Replay" button to `/game rps` (after a match)
 
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
