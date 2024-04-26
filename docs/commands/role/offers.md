@@ -1,19 +1,22 @@
 # /role offers
 
-Returns all existing advanced role card offers.
+Returns all existing role card offers of the specified type.
 
 ## Usage
 
 ```
-/role offers {page} {role}
+/role offers <type> {page} {role}
 ```
 
 ## Arguments
 
-| Name | Description                 | Type   | Required |
-| :--: | :-------------------------: | :----: | :------: |
-| page | The number of the page.     | Number | No       |
-| role | The name or ID of the role. | String | No       |
+| Name | Description                      | Type   | Required |
+| :--: | :------------------------------: | :----: | :------: |
+| type | The type of the role card offer. | Enum   | Yes      |
+| page | The number of the page.          | Number | No       |
+| role | The name or ID of the role.      | String | No       |
+
+
 
 ## Examples
 
