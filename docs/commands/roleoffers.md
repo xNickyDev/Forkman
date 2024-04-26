@@ -1,18 +1,24 @@
 # -roleoffers
 
-Returns all existing advanced role card offers.
+Returns all existing role card offers of the specified type.
 
 ## Usage
 
 ```
--roleoffers {page}
+-roleoffers <type (base/advanced)> {page}
 ```
 
 ## Arguments
 
-| Name | Description             | Type   | Required |
-| :--: | :---------------------: | :----: | :------: |
-| page | The number of the page. | Number | No       |
+| Name                                    | Description                      | Type   | Required |
+| :-------------------------------------: | :------------------------------: | :----: | :------: |
+| <span style="color:#FA9405">type</span> | The type of the role card offer. | Enum   | Yes      |
+| page                                    | The number of the page.          | Number | No       |
+
+### Possibilities for <span style="color:#FA9405">type</span>
+
+- `base` - Returns all existing base role card offers.
+- `advanced` - Returns all existing advanced role card offers.
 
 ## Examples
 
