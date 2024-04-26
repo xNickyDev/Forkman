@@ -10,6 +10,7 @@
 * Updated "End Game" button layout of games
 * Added "Balance" button to `/clan info`
 * Added "Replay" button to `/game rps` (available after a match)
+* Added required `type` option to `/role offers`
 
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
