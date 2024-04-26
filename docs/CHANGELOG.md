@@ -5,12 +5,13 @@
 ### April
 * Added `/player info`
 * Added `/clan info`
-* Officially added "Rewards" button to `-battlepass`
-* Renamed difficulty "Normal" to **Medium** at `-bomber`
+* Officially added "Rewards" button to `/battlepass`
+* Renamed difficulty "Normal" to **Medium** at `/game bomber`
 * Updated "End Game" button layout of games
 * Added "Balance" button to `/clan info`
 * Added "Replay" button to `/game rps` (available after a match)
 * Added required `type` option to `/role offers`
+* Added "Background" button to `/battlepass`
 
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
