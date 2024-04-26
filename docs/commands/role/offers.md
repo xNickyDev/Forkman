@@ -16,7 +16,16 @@ Returns all existing role card offers of the specified type.
 | page | The number of the page.          | Number | No       |
 | role | The name or ID of the role.      | String | No       |
 
+### Possibilities
 
+<!-- tabs:start -->
+
+#### **type**
+
+- `Base` - Returns all existing base role card offers.
+- `Advanced` - Returns all existing advanced role card offers.
+
+<!-- tabs:end -->
 
 ## Examples
 
