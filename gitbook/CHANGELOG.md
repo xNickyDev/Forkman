@@ -2,6 +2,9 @@
 
 ## 2024
 
+### May
+* Fixed providing invalid game mode causes no response of `/role rotations`
+
 ### April
 * Added `/player info`
 * Added `/clan info`
