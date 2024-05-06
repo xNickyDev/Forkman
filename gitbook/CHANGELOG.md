@@ -4,6 +4,7 @@
 
 ### May
 * Fixed providing invalid game mode causes no response of `/role rotations`
+* Made it possible to use player IDs at `/player search`
 
 ### April
 * Added `/player info`
