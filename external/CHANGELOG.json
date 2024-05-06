@@ -1,5 +1,8 @@
 {
     "2024": {
+        "may": [
+            "Fixed providing invalid game mode causes no response of `/role rotations`"
+        ],
         "april": [
             "Added `/player info`",
             "Added `/clan info`",
