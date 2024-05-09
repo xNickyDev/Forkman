@@ -5,6 +5,8 @@
 ### May
 * Fixed providing invalid game mode causes no response of `/role rotations`
 * Made it possible to use player IDs at `/player search`
+* Renamed button "Participants" to **Contributed** at `/clan quest history`
+* Added info about quest XP to Contributed button of `/clan quest history`
 
 ### April
 * Added `/player info`
