@@ -2,7 +2,9 @@
     "2024": {
         "may": [
             "Fixed providing invalid game mode causes no response of `/role rotations`",
-            "Made it possible to use player IDs at `/player search`"
+            "Made it possible to use player IDs at `/player search`",
+            "Renamed button \"Participants\" to **Contributed** at `/clan quest history`",
+            "Added info about quest XP to Contributed button of `/clan quest history`"
         ],
         "april": [
             "Added `/player info`",
