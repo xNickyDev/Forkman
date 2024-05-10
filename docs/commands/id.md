@@ -28,5 +28,5 @@ Gets the ID of a player or clan.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/258177993-69b27ae6-25ab-44fa-b95b-500e9f62abc0.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/258178024-2fede23f-9a4d-481e-a3c5-87fb35b03be8.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/75a2e11e-ca4c-4b5a-a803-4137facc1053" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/668f5be1-5c74-4e5a-96bf-e263b9b2ff6b" class="rounded-corners">

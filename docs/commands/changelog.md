@@ -17,5 +17,6 @@ Returns the newest changelog entries.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/265091944-e7322f42-09cb-4087-9116-50af3eb25a94.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/265091963-c13cd38e-b668-4774-a424-2c107781b800.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/18a91c55-64fd-49c5-bda0-d49d94e1cdb6" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/1594c0f5-a118-4517-8a90-451f722f41cc" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/81103d92-4f4d-4110-8452-d3d61f4df570" class="rounded-corners">

@@ -46,5 +46,5 @@ Returns information about the given clan.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/229905324-206236fb-84bf-4c59-80d8-d6c61dccb0e7.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/262069321-6a01b945-bb17-47c0-bbf8-ff9dea2e9582.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/efc05c1e-715f-4c3e-9a8c-f7c682955795" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/21942d75-d56a-4893-9cf5-a3ce28e127c1" class="rounded-corners">

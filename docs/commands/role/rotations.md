@@ -30,3 +30,6 @@ Returns all current live role rotations.
 <!-- tabs:end -->
 
 ## Examples
+
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/09e9705f-171e-4eff-9943-e7bd368779c7" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/478dc5ba-94b4-4f4b-95db-d63c3a69cbaf" class="rounded-corners">

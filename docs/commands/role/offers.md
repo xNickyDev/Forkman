@@ -29,5 +29,6 @@ Returns all existing role card offers of the specified type.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/b7a4457f-6987-4a97-a727-cdb7b3519221" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/37fdcc0c-e338-4492-8304-425809a1427c" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/50aa49ff-e270-4013-903a-18f8a09374be" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/c66b806c-7b05-445f-9f5e-3b7a2f11cf7f" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/20909141-7c50-40f2-a38c-eec73d9e01bc" class="rounded-corners">

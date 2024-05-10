@@ -17,6 +17,6 @@ Returns a command help page of Forkman.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/235347639-969b58a5-6ece-4af9-a4b1-10120f211775.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/235347760-a3b526a2-02b8-4443-8861-517040f45cdc.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/235347650-8c74592e-5c60-4175-86ae-908a9ac97c11.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/fe263872-93ae-40ed-bfe0-59cefb126f5c" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/5c191578-fbf1-4527-9e12-f2f1b81f1a4d" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/d2861890-1958-4309-8d40-3d4dc3cf8235" class="rounded-corners">

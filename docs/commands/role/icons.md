@@ -17,5 +17,6 @@ Returns all existing role icons.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/229904608-036a6612-2797-4083-b7c3-5ad3c5674474.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/229904627-79162dfe-85ba-46f8-b3ff-469b3abd503d.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/4249f9e1-aa53-4e72-971e-fcbab560516f" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/a18fcd30-7493-490f-ab3c-afebcf6989e6" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/7bc0a0f9-8403-4bb6-a134-2dca061e2ad0" class="rounded-corners">

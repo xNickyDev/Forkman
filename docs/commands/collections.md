@@ -28,5 +28,5 @@ Returns all existing collections of the specified type.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/245515549-5b0dc79f-09c0-4000-8ec7-96f673c56aec.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/245515652-362ace77-7069-448a-a91c-5b51fc4ce43b.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/4d44a626-0807-40ed-89b6-761a7b55d6c2" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/18013153-5716-49dd-bf75-31292e0363ce" class="rounded-corners">
