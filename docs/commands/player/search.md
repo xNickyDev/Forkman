@@ -10,8 +10,8 @@ Returns profile information about the given player.
 
 ## Arguments
 
-| Name     | Description                                                 | Type   | Required |
-| :------: | :---------------------------------------------------------: | :----: | :------: |
+| Name     | Description                                                               | Type   | Required |
+| :------: | :-----------------------------------------------------------------------: | :----: | :------: |
 | username | The in-game username or ID of the player whose profile is to be returned. | String | Yes      |
 
 > [!NOTE]
