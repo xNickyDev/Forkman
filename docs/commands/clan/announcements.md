@@ -2,6 +2,9 @@
 
 Returns all announcements of your clan.
 
+> [!NOTE]
+> This command requires clan verification.
+
 ## Usage
 
 ```

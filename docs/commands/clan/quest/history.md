@@ -2,6 +2,9 @@
 
 Returns all quests your clan has done in the past.
 
+> [!NOTE]
+> This command requires clan verification.
+
 ## Usage
 
 ```

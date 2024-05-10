@@ -2,6 +2,9 @@
 
 Returns all current quest votes of your clan.
 
+> [!NOTE]
+> This command requires clan verification.
+
 ## Usage
 
 ```
