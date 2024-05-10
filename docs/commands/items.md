@@ -66,5 +66,5 @@ Returns all existing avatar items.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/234332919-ece92771-a549-4858-91e1-ee4b74ab11e0.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/234332965-fde06563-26c1-4e0e-bc6e-91509753a4b5.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/e37854e2-2d81-4799-9e04-21fcec86e237" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/29b70ee6-1e6d-4cce-bca5-c4228cd07352" class="rounded-corners">

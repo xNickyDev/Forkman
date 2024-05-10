@@ -27,5 +27,5 @@ Toggle the vote tracker system.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/ce3d832f-e44c-4ebd-ab18-844cb3ad66db" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/70fdd14b-fac8-4e27-b83c-bcd0876b275c" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/449f1231-4eba-4511-8ee9-2e48ca658b93" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/d1014147-1ef4-40a0-b9be-8c69e6477a56" class="rounded-corners">
