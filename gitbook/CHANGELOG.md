@@ -7,6 +7,8 @@
 * Made it possible to use player IDs at `/player search`
 * Renamed button "Participants" to **Contributed** at `/clan quest history`
 * Added info about quest XP to Contributed button of `/clan quest history`
+* Increased the time of `/game bomber` from 40s to **60s**
+* Added questions about role icons to `/game question`
 
 ### April
 * Added `/player info`
