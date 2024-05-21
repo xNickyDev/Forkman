@@ -9,6 +9,8 @@
 * Added info about quest XP to Contributed button of `/clan quest history`
 * Increased the time of `/game bomber` from 40s to **60s**
 * Added questions about role icons to `/game question`
+* Added `/clan quest info`
+* Added `/clan member search`
 
 ### April
 * Added `/player info`
