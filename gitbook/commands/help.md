@@ -2,39 +2,23 @@
 description: Returns a command help page of Forkman.
 ---
 
-# -help
+# /help
 
 ## Usage
 
 ```
--help {page/command}
-```
-
-### Aliases
-
-```
--h
--commands
+/help {page} {command}
 ```
 
 ## Arguments
 
-| Name             | Description                                          | Type               | Required |
-| :--------------: | :--------------------------------------------------: | :----------------: | :------: |
-| page <br>command | The number of the page. <br>The name of the command. | Number <br>Command | No       |
-
-## Prefixes
-
-```
--
-@Forkman
-```
-
-{% hint style="info" %}
-The prefix cannot be changed with any command. Only the 2 stated prefixes above are working for Forkman.
-{% endhint %}
+| Name    | Description              | Type    | Required |
+| :-----: | :----------------------: | :-----: | :------: |
+| page    | The number of the page.  | Number  | No       |
+| command | The name of the command. | Command | No       |
 
 ## Examples
-![](https://user-images.githubusercontent.com/111157596/235347639-969b58a5-6ece-4af9-a4b1-10120f211775.png)
-![](https://user-images.githubusercontent.com/111157596/235347760-a3b526a2-02b8-4443-8861-517040f45cdc.png)
-![](https://user-images.githubusercontent.com/111157596/235347650-8c74592e-5c60-4175-86ae-908a9ac97c11.png)
+
+![](https://github.com/xNickyDev/Forkman/assets/111157596/fe263872-93ae-40ed-bfe0-59cefb126f5c)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/5c191578-fbf1-4527-9e12-f2f1b81f1a4d)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/d2861890-1958-4309-8d40-3d4dc3cf8235)

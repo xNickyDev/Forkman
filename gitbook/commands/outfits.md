@@ -2,12 +2,12 @@
 description: Returns all existing outfits.
 ---
 
-# -outfits
+# /outfits
 
 ## Usage
 
 ```
--outfits {page}
+/outfits {page}
 ```
 
 ## Arguments
@@ -18,5 +18,5 @@ description: Returns all existing outfits.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/234335281-c1627c14-4bd0-4cb3-a170-ff2076f1b4b8.png)
-![](https://user-images.githubusercontent.com/111157596/234335320-9fc50dd4-843e-4142-9909-d27fda9b988c.png)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/2026d18a-70ba-4dcd-a3ae-ceed0865d0bc)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/57079738-4c6d-446e-89bf-578fae7878f3)

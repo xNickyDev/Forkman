@@ -2,12 +2,12 @@
 description: Returns all available active offers.
 ---
 
-# -offers
+# /offers
 
 ## Usage
 
 ```
--offers {page}
+/offers {page}
 ```
 
 ## Arguments
@@ -18,5 +18,5 @@ description: Returns all available active offers.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/234334612-857232cd-40cc-4537-833a-78cfce9dcb39.png)
-![](https://user-images.githubusercontent.com/111157596/234334650-c39f8066-d6d9-4639-ac37-e9fc8dc68d02.png)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/9840497a-9db0-400a-80f8-1559c4195d9c)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/8ea11b3d-5e7c-4c01-9ef6-5bada5f3c04e)
