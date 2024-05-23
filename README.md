@@ -16,7 +16,7 @@ This bot allows you to receive information about players, clans & items, interac
 
 ### Links
 - [Documentation](https://forkman.vercel.app/)
-- [Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499&permissions=277025778753&scope=bot%20applications.commands)
+- [Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499)
 - [Support Server](https://discord.gg/DEEZY5cwpy)
 - [Top.gg](https://top.gg/bot/1037396167123816499/)
 

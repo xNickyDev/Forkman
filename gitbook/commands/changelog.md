@@ -1,6 +1,8 @@
-# /changelog
+---
+description: Returns the newest changelog entries.
+---
 
-Returns the newest changelog entries.
+# /changelog
 
 ## Usage
 
@@ -17,6 +19,6 @@ Returns the newest changelog entries.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/18a91c55-64fd-49c5-bda0-d49d94e1cdb6" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/1594c0f5-a118-4517-8a90-451f722f41cc" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/81103d92-4f4d-4110-8452-d3d61f4df570" class="rounded-corners">
+![](https://github.com/xNickyDev/Forkman/assets/111157596/18a91c55-64fd-49c5-bda0-d49d94e1cdb6)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/1594c0f5-a118-4517-8a90-451f722f41cc)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/81103d92-4f4d-4110-8452-d3d61f4df570)

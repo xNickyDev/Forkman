@@ -1,6 +1,8 @@
-# /items
+---
+description: Returns all existing avatar items.
+---
 
-Returns all existing avatar items.
+# /items
 
 ## Usage
 
@@ -20,23 +22,22 @@ Returns all existing avatar items.
 
 ### Possibilities
 
-<!-- tabs:start -->
+{% tabs %}
 
-#### **rarity**
-
+{% tab title="rarity" %}
 - `Common` - Filters items by Common rarity.
 - `Rare` - Filters items by Rare rarity.
 - `Epic` - Filters items by Epic rarity.
 - `Legendary` - Filters items by Legendary rarity.
+{% endtab %}
 
-#### **gender**
-
+{% tab title="gender" %}
 - `Male` - Filters items by Male gender.
 - `Female` - Filters items by Female gender.
 - `Neutral` - Filters items by Neutral gender.
+{% endtab %}
 
-#### **type**
-
+{% tab title="type" %}
 - `Shirt` - Filters items by Shirt type.
 - `Glasses` - Filters items by Glasses type.
 - `Hair` - Filters items by Hair type.
@@ -48,9 +49,9 @@ Returns all existing avatar items.
 - `Mask` - Filters items by Mask type.
 - `Mouth` - Filters items by Mouth type.
 - `Badge` - Filters items by Badge type.
+{% endtab %}
 
-#### **event**
-
+{% tab title="event" %}
 - `Easter` - Filters items by Easter event.
 - `Soccer` - Filters items by Soccer event.
 - `Halloween` - Filters items by Halloween event.
@@ -61,10 +62,11 @@ Returns all existing avatar items.
 - `Early Bird` - Filters items by Early Bird event.
 - `Calendar` - Filters items by Calendar event.
 - `Battle Pass` - Filters items by Battle Pass event.
+{% endtab %}
 
-<!-- tabs:end -->
+{% endtabs %}
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/e37854e2-2d81-4799-9e04-21fcec86e237" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/29b70ee6-1e6d-4cce-bca5-c4228cd07352" class="rounded-corners">
+![](https://github.com/xNickyDev/Forkman/assets/111157596/e37854e2-2d81-4799-9e04-21fcec86e237)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/29b70ee6-1e6d-4cce-bca5-c4228cd07352)

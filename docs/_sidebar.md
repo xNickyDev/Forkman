@@ -1,7 +1,7 @@
 - [Welcome](home.md)
 
 - **Resources**
-  - [<img src="_media/external.svg"> Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499&permissions=277025778753&scope=bot%20applications.commands)
+  - [<img src="_media/external.svg"> Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499)
   - [<img src="_media/external.svg"> Support Server](https://discord.gg/DEEZY5cwpy)
   - [Changelog](CHANGELOG.md)
 

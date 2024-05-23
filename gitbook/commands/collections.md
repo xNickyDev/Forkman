@@ -1,6 +1,8 @@
-# /collections
+---
+description: Returns all existing collections of the specified type.
+---
 
-Returns all existing collections of the specified type.
+# /collections
 
 ## Usage
 
@@ -17,16 +19,16 @@ Returns all existing collections of the specified type.
 
 ### Possibilities
 
-<!-- tabs:start -->
+{% tabs %}
 
-#### **type**
-
+{% tab title="type" %}
 - `Emojis` - Returns the emoji collections.
 - `Items` - Returns the item collections.
+{% endtab %}
 
-<!-- tabs:end -->
+{% endtabs %}
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/4d44a626-0807-40ed-89b6-761a7b55d6c2" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/18013153-5716-49dd-bf75-31292e0363ce" class="rounded-corners">
+![](https://github.com/xNickyDev/Forkman/assets/111157596/4d44a626-0807-40ed-89b6-761a7b55d6c2)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/18013153-5716-49dd-bf75-31292e0363ce)

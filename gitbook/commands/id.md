@@ -1,6 +1,8 @@
-# /id
+---
+description: Gets the ID of a player or clan.
+---
 
-Gets the ID of a player or clan.
+# /id
 
 ## Usage
 
@@ -17,16 +19,16 @@ Gets the ID of a player or clan.
 
 ### Possibilities
 
-<!-- tabs:start -->
+{% tabs %}
 
-#### **type**
-
+{% tab title="type" %}
 - `Player` - Gets the ID of a player.
 - `Clan` - Gets the ID of a clan.
+{% endtab %}
 
-<!-- tabs:end -->
+{% endtabs %}
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/75a2e11e-ca4c-4b5a-a803-4137facc1053" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/668f5be1-5c74-4e5a-96bf-e263b9b2ff6b" class="rounded-corners">
+![](https://github.com/xNickyDev/Forkman/assets/111157596/75a2e11e-ca4c-4b5a-a803-4137facc1053)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/668f5be1-5c74-4e5a-96bf-e263b9b2ff6b)

@@ -1,6 +1,8 @@
-# /badges
+---
+description: Returns all existing badges.
+---
 
-Returns all existing badges.
+# /badges
 
 ## Usage
 
@@ -16,5 +18,5 @@ Returns all existing badges.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/b3345ab3-9428-42c9-b5c6-3134d83f0057" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/8a2065d6-2359-4375-a7fb-7e4fb22a0393" class="rounded-corners">
+![](https://github.com/xNickyDev/Forkman/assets/111157596/b3345ab3-9428-42c9-b5c6-3134d83f0057)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/8a2065d6-2359-4375-a7fb-7e4fb22a0393)
