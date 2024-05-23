@@ -1,6 +1,5 @@
 ---
-description:
-Returns information about a member of your clan.
+description: Returns information about a member of your clan.
 ---
 
 # /clan member search
