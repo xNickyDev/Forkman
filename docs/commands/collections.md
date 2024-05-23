@@ -1,34 +1,32 @@
-# -collections
+# /collections
 
 Returns all existing collections of the specified type.
 
 ## Usage
 
 ```
--collections <type (emojis/items)> {page}
-```
-
-### Aliases
-
-```
--col
--collection
+/collections <type (emojis/items)> {page}
 ```
 
 ## Arguments
 
-| Name                                     | Description                 | Type   | Required |
-| :--------------------------------------: | :-------------------------: | :----: | :------: |
-| <span style="color:#FA9405">type</span>  | The type of the collection. | Enum   | Yes      |
-| page                                     | The number of the page.     | Number | No       |
+| Name | Description                 | Type   | Required |
+| :--: | :-------------------------: | :----: | :------: |
+| type | The type of the collection. | Enum   | Yes      |
+| page | The number of the page.     | Number | No       |
 
+### Possibilities
 
-### Possibilities for <span style="color:#FA9405">type</span>
+<!-- tabs:start -->
 
-- `emojis` / `emoji` - Returns the emoji collections.
-- `items` / `item` - Returns the item collections.
+#### **type**
+
+- `Emojis` - Returns the emoji collections.
+- `Items` - Returns the item collections.
+
+<!-- tabs:end -->
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/245515549-5b0dc79f-09c0-4000-8ec7-96f673c56aec.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/245515652-362ace77-7069-448a-a91c-5b51fc4ce43b.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/4d44a626-0807-40ed-89b6-761a7b55d6c2" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/18013153-5716-49dd-bf75-31292e0363ce" class="rounded-corners">

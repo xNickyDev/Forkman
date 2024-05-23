@@ -1,17 +1,11 @@
-# -talismans
+# /talismans
 
 Returns all existing talismans.
 
 ## Usage
 
 ```
--talismans {page}
-```
-
-### Aliases
-
-```
--talis
+/talismans {page}
 ```
 
 ## Arguments
@@ -22,5 +16,5 @@ Returns all existing talismans.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/dfe77b28-3cce-424f-b9b3-77e99aa6f5a2" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/c5ae8daa-9955-4c44-8992-6a231020d763" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/af4890c7-2662-48f3-bea4-e1fb8f76c940" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/4f37b040-c893-4d90-8779-fade701acaf3" class="rounded-corners">

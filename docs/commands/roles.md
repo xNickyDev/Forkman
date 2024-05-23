@@ -1,11 +1,11 @@
-# -roles
+# /roles
 
 Returns all existing roles.
 
 ## Usage
 
 ```
--roles {page}
+/roles {page}
 ```
 
 ## Arguments
@@ -16,5 +16,5 @@ Returns all existing roles.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/111157596/234335856-9e8a7a46-e094-446c-9e89-57a1996c7fb1.png" class="rounded-corners">\
-<img src="https://user-images.githubusercontent.com/111157596/234335894-ad09eaa0-e716-4961-98d6-dab48f0992f9.png" class="rounded-corners">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/07fe40a2-0c69-4d5a-adcf-c5817c5601c7" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/984cc048-2fa5-4940-b924-929b0817aa5f" class="rounded-corners">
