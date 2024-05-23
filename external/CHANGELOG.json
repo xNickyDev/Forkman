@@ -8,7 +8,8 @@
             "Increased the time of `/game bomber` from 40s to **60s**",
             "Added questions about role icons to `/game question`",
             "Added `/clan quest info`",
-            "Added `/clan member search`"
+            "Added `/clan member search`",
+            "Switched documentation to slash commands"
         ],
         "april": [
             "Added `/player info`",
