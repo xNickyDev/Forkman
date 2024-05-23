@@ -1,13 +1,11 @@
----
-description: Returns all existing emojis.
----
+# /emojis
 
-# -emojis
+Returns all existing emojis.
 
 ## Usage
 
 ```
--emojis {page}
+/emojis {page}
 ```
 
 ## Arguments
@@ -18,5 +16,5 @@ description: Returns all existing emojis.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/229903621-bfe64f50-a5ab-4a75-8e1a-5d939aca5b27.png)
-![](https://user-images.githubusercontent.com/111157596/229903637-dcf65e65-b6d8-4796-9031-ad6aacd314c8.png)
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/4aacd024-4aaf-4984-a378-bdd5a8ce1af2" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/d7a486a7-8e74-48b8-8b5e-f2d046b64741" class="rounded-corners">

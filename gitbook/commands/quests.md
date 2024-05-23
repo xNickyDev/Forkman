@@ -1,13 +1,11 @@
----
-description: Returns all existing clan quests.
----
+# /quests
 
-# -quests
+Returns all existing clan quests.
 
 ## Usage
 
 ```
--quests {page}
+/quests {page}
 ```
 
 ## Arguments
@@ -18,5 +16,5 @@ description: Returns all existing clan quests.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/281818156-15f21f76-cbf1-4d89-9880-b8a5bf46f05c.png)
-![](https://user-images.githubusercontent.com/111157596/281818239-f3cf3c64-cec3-4ebb-b35b-186c87e3f9be.png)
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/fcad52e8-bc44-4ac6-baa9-909c45f0ba92" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/7b7d28f9-7d20-4321-bbf0-3fc61fe09e05" class="rounded-corners">

@@ -1,19 +1,11 @@
----
-description: Returns the balance of a user.
----
+# /balance
 
-# -balance
+Returns the balance of a user.
 
 ## Usage
 
 ```
--balance {user}
-```
-
-### Aliases
-
-```
--bal
+/balance {user}
 ```
 
 ## Arguments
@@ -24,5 +16,5 @@ description: Returns the balance of a user.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/289312290-62a4ac73-c9b2-42b4-b802-8c28cd227c3f.png)
-![](https://user-images.githubusercontent.com/111157596/289312295-39ff0581-82da-4de5-9dfc-e7bf54d8e099.png)
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/936be71a-55df-4603-b7d5-ca2225d9c8e0" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/d99466e6-f02b-49eb-b208-50a069b73b7e" class="rounded-corners">

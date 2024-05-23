@@ -2,12 +2,12 @@
 description: Returns all current battle pass challenges.
 ---
 
-# -challenges
+# /battlepass challenges
 
 ## Usage
 
 ```
--challenges {page}
+/battlepass challenges {page}
 ```
 
 ## Arguments
@@ -18,5 +18,5 @@ description: Returns all current battle pass challenges.
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/229904264-1fe006ab-f5a5-4905-b969-bdcc2c8fc9b6.png)
-![](https://user-images.githubusercontent.com/111157596/229904275-33c90c92-653c-4e54-a89f-3b78ba4a2982.png)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/64fdef54-2e6a-4de9-954e-4d5f3982b030)
+![](https://github.com/xNickyDev/Forkman/assets/111157596/b9fbacff-c180-4326-b477-01688d7d852e)

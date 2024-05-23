@@ -1,17 +1,14 @@
----
-description: Ask a question regarding Forkman.
----
+# /ask
 
-# -ask
+Ask a question regarding Forkman.
 
-{% hint style="info" %}
-This is a **Beta** command. Results may return incorrect or misleading information. If you encounter any problems, please consider reporting them to us immediately on our [Support Server](https://discord.gg/DEEZY5cwpy).
-{% endhint %}
+> [!NOTE]
+> This is a **Beta** command. Results may return incorrect or misleading information. If you encounter any problems, please consider reporting them to us immediately on our [Support Server](https://discord.gg/DEEZY5cwpy).
 
 ## Usage
 
 ```
--ask <question>
+/ask <question>
 ```
 
 ## Arguments
@@ -22,5 +19,4 @@ This is a **Beta** command. Results may return incorrect or misleading informati
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/261823721-1783c675-4f4a-4577-bb34-b69209aa7d37.png)
-![](https://user-images.githubusercontent.com/111157596/261823725-87265de6-5ba4-4724-bd74-ce71b4af5b8c.png)
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/a5230d1c-6677-47a9-ad8f-44aeadd0e904" class="rounded-corners">

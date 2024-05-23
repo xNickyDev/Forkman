@@ -1,13 +1,11 @@
----
-description: Returns all existing badges.
----
+# /badges
 
-# -badges
+Returns all existing badges.
 
 ## Usage
 
 ```
--badges {page}
+/badges {page}
 ```
 
 ## Arguments
@@ -18,5 +16,5 @@ description: Returns all existing badges.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/17dc874c-e6a9-443e-ac80-79c9aef42c12)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/c0dd48e4-bcbe-4bfc-90fe-203816e523e4)
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/b3345ab3-9428-42c9-b5c6-3134d83f0057" class="rounded-corners">\
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/8a2065d6-2359-4375-a7fb-7e4fb22a0393" class="rounded-corners">
