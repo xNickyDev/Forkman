@@ -2,6 +2,27 @@
 
 ## 2024
 
+### May
+* Fixed providing invalid game mode causes no response of `/role rotations`
+* Made it possible to use player IDs at `/player search`
+* Renamed button "Participants" to **Contributed** at `/clan quest history`
+* Added info about quest XP to Contributed button of `/clan quest history`
+* Increased the time of `/game bomber` from 40s to **60s**
+* Added questions about role icons to `/game question`
+* Added `/clan quest info`
+* Added `/clan member search`
+
+### April
+* Added `/player info`
+* Added `/clan info`
+* Officially added "Rewards" button to `/battlepass season`
+* Renamed difficulty "Normal" to **Medium** at `/game bomber`
+* Updated "End Game" button layout of games
+* Added "Balance" button to `/clan info`
+* Added "Replay" button to `/game rps` (available after a match)
+* Added required `type` option to `/role offers`
+* Added "Background" button to `/battlepass season`
+
 ### March
 * Added `-rockpapersword` (Alias: `-rps`) and `/game rps`
 * Added `/clan announcements`

@@ -70,4 +70,4 @@
 
 - **Legal**
   - [Privacy Policy](legal/privacy.md)
-  - [Terms of Service](legal/tos.md)
+  - [Terms of Service](legal/terms.md)
