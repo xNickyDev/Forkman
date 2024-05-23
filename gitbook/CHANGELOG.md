@@ -11,6 +11,7 @@
 * Added questions about role icons to `/game question`
 * Added `/clan quest info`
 * Added `/clan member search`
+* Switched documentation to slash commands
 
 ### April
 * Added `/player info`
