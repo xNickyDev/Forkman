@@ -12,6 +12,7 @@
 * Added `/clan quest info`
 * Added `/clan member search`
 * Switched documentation to slash commands
+* Updated `/help`
 
 ### April
 * Added `/player info`
