@@ -13,6 +13,7 @@
 * Added `/clan member search`
 * Switched documentation to slash commands
 * Updated `/help`
+* Added `/game memory`
 
 ### April
 * Added `/player info`
