@@ -10,7 +10,8 @@
             "Added `/clan quest info`",
             "Added `/clan member search`",
             "Switched documentation to slash commands",
-            "Updated `/help`"
+            "Updated `/help`",
+            "Added `/game memory`"
         ],
         "april": [
             "Added `/player info`",
