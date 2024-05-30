@@ -14,6 +14,7 @@
 * Switched documentation to slash commands
 * Updated `/help`
 * Added `/game memory`
+* Updated `command` option of `/help`
 
 ### April
 * Added `/player info`
