@@ -43,12 +43,12 @@
   - [/offers](commands/offers.md)
   - [/outfits](commands/outfits.md)
   - [/ping](commands/ping.md)
-  - [/player](commands/player/introduction.md)
+  - /player
     - [/player info](commands/player/info.md)
     - [/player search](commands/player/search.md)
   - [/quests](commands/quests.md)
   - [/review](commands/review.md)
-  - [/role](commands/role/introduction.md)
+  - /role
     - [/role icons](commands/role/icons.md)
     - [/role info](commands/role/info.md)
     - [/role offers](commands/role/offers.md)
@@ -56,10 +56,10 @@
   - [/roles](commands/roles.md)
   - [/talismans](commands/talismans.md)
   - [/uptime](commands/uptime.md)
-  - [/verify](commands/verify/introduction.md)
+  - /verify
     - [/verify account](commands/verify/account.md)
     - [/verify clan](commands/verify/clan.md)
-  - [/vote](commands/vote/introduction.md)
+  - /vote
     - [/vote link](commands/vote/link.md)
     - [/vote tracker](commands/vote/tracker.md)
 
