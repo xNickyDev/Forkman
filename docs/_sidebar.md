@@ -19,7 +19,7 @@
     - [/battlepass season](commands/battlepass/season.md)
   - [/botinfo](commands/botinfo.md)
   - [/changelog](commands/changelog.md)
-  - /clan
+  - &nbsp;/clan
     - [/clan announcements](commands/clan/announcements.md)
     - [/clan info](commands/clan/info.md)
     - [/clan member search](commands/clan/member/search.md)
@@ -29,7 +29,7 @@
     - [/clan search](commands/clan/search.md)
   - [/collections](commands/collections.md)
   - [/emojis](commands/emojis.md)
-  - /game
+  - &nbsp;/game
     - [/game bomber](commands/game/bomber.md)
     - [/game glassbridge](commands/game/glassbridge.md)
     - [/game hangman](commands/game/hangman.md)
@@ -43,12 +43,12 @@
   - [/offers](commands/offers.md)
   - [/outfits](commands/outfits.md)
   - [/ping](commands/ping.md)
-  - /player
+  - &nbsp;/player
     - [/player info](commands/player/info.md)
     - [/player search](commands/player/search.md)
   - [/quests](commands/quests.md)
   - [/review](commands/review.md)
-  - /role
+  - &nbsp;/role
     - [/role icons](commands/role/icons.md)
     - [/role info](commands/role/info.md)
     - [/role offers](commands/role/offers.md)
@@ -56,10 +56,10 @@
   - [/roles](commands/roles.md)
   - [/talismans](commands/talismans.md)
   - [/uptime](commands/uptime.md)
-  - /verify
+  - &nbsp;/verify
     - [/verify account](commands/verify/account.md)
     - [/verify clan](commands/verify/clan.md)
-  - /vote
+  - &nbsp;/vote
     - [/vote link](commands/vote/link.md)
     - [/vote tracker](commands/vote/tracker.md)
 
