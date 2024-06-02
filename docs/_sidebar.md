@@ -14,12 +14,12 @@
   - [/backgrounds](commands/backgrounds.md)
   - [/badges](commands/badges.md)
   - [/balance](commands/balance.md)
-  - [/battlepass](commands/battlepass/introduction.md)
+  - /battlepass
     - [/battlepass challenges](commands/battlepass/challenges.md)
     - [/battlepass season](commands/battlepass/season.md)
   - [/botinfo](commands/botinfo.md)
   - [/changelog](commands/changelog.md)
-  - [/clan](commands/clan/introduction.md)
+  - /clan
     - [/clan announcements](commands/clan/announcements.md)
     - [/clan info](commands/clan/info.md)
     - [/clan member search](commands/clan/member/search.md)
@@ -29,7 +29,7 @@
     - [/clan search](commands/clan/search.md)
   - [/collections](commands/collections.md)
   - [/emojis](commands/emojis.md)
-  - [/game](commands/game/introduction.md)
+  - /game
     - [/game bomber](commands/game/bomber.md)
     - [/game glassbridge](commands/game/glassbridge.md)
     - [/game hangman](commands/game/hangman.md)
