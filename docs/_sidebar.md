@@ -14,7 +14,7 @@
   - [/backgrounds](commands/backgrounds.md)
   - [/badges](commands/badges.md)
   - [/balance](commands/balance.md)
-  - /battlepass
+  - &nbsp;/battlepass
     - [/battlepass challenges](commands/battlepass/challenges.md)
     - [/battlepass season](commands/battlepass/season.md)
   - [/botinfo](commands/botinfo.md)
