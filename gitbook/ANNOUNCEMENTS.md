@@ -4,6 +4,8 @@ description: The most important news and updates about Forkman are announced her
 
 # Announcements
 
+---
+
 ## Upcoming Deprecation of Prefix Commands
 
 We will deprecate and remove the use of prefix commands once Forkman is officially verified by Discord and reached a total of **100** servers. We're already posting this announcement as a friendly message to slowly start migrating to the fancy slash commands 🤙 If you prefer to use the prefix commands, that's totally fine! Everything continues running smoothly until we are forced to switch to slash commands only ✨
