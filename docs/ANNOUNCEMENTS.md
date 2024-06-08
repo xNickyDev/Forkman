@@ -3,6 +3,11 @@ The most important news and updates about Forkman are announced here.
 
 ---
 
+### Maintenance Completed
+The maintenance of Forkman is now completed and we had a small data loss but overall everything else went smoothly. Users who played games with Forkman after the date of 06/06/2024 9:05 PM might have their new game progress not saved. Affected users are welcome to contact me to get their game data updated. I'm very sorry for the small inconvenience and happy to announce upcoming updates! 👀
+
+---
+
 ### Upcoming Maintenance
 Forkman will be undergoing maintenance during the upcoming weekend to change some important database stuff. The bot remains locked or even offline during this process until all data has been successfully transferred. This means that you will not be able to use any commands or features of Forkman until maintenance is completed.\
 We will announce when maintenance has started and finished!
