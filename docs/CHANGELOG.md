@@ -4,6 +4,7 @@
 
 ### June
 * Updated `/items`
+* Updated `/leaderboard` and added page navigation buttons
 
 ### May
 * Fixed providing invalid game mode causes no response of `/role rotations`
