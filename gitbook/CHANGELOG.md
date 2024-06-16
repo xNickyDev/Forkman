@@ -5,8 +5,7 @@
 ### June
 * Updated `/items`
 * Updated `/leaderboard` and added page navigation buttons
-* Updated `/collections`
-* Added "Preview collection" select menu to `/collections`
+* Updated `/collections` and added "Preview collection" select menu
 
 ### May
 * Fixed providing invalid game mode causes no response of `/role rotations`
