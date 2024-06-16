@@ -2,7 +2,9 @@
     "2024": {
         "june": [
             "Updated `/items`",
-            "Updated `/leaderboard` and added page navigation buttons"
+            "Updated `/leaderboard` and added page navigation buttons",
+            "Updated `/collections`",
+            "Added \"Preview collection\" select menu to `/collections`"
         ],
         "may": [
             "Fixed providing invalid game mode causes no response of `/role rotations`",
