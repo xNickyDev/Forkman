@@ -6,7 +6,8 @@
 * Updated `/items`
 * Updated `/leaderboard` and added page navigation buttons
 * Updated `/collections` and added "Preview collection" select menu
-* Updated `/quests`
+* Added new page navigation buttons to `/quests`
+* Updated `/outfits` and added new buttons
 
 ### May
 * Fixed providing invalid game mode causes no response of `/role rotations`
