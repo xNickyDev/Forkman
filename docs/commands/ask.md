@@ -19,4 +19,4 @@ Ask a question regarding Forkman.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/a5230d1c-6677-47a9-ad8f-44aeadd0e904">
+<img src="https://github.com/xNickyDev/Forkman/assets/111157596/a5230d1c-6677-47a9-ad8f-44aeadd0e904" class="rounded-corners">
