@@ -2,6 +2,9 @@
 
 ## 2024
 
+### July
+* Added "Role Cards" option to player profiles
+
 ### June
 * Updated `/items`
 * Updated `/leaderboard` and added page navigation buttons
