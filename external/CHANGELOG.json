@@ -1,5 +1,8 @@
 {
     "2024": {
+        "july": [
+            "Added \"Role Cards\" option to player profiles"
+        ],
         "june": [
             "Updated `/items`",
             "Updated `/leaderboard` and added page navigation buttons",
