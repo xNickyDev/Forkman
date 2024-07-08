@@ -6,4 +6,4 @@ Credits go to people who have immensely supported the development of Forkman.
 
 ## <div class="heading"><img src="https://cdn.discordapp.com/avatars/775418953723805717/0da7564e28ccfd18058ed62aee5aca0c.png" width="30" height="30" class="rounded-corners">&nbsp;btaesuga</div>
 
-## <div class="heading"><img src="https://cdn.discordapp.com/avatars/300548556874579969/95605f5d1246384048db4f58be760b81.png" width="30" height="30" class="rounded-corners">&nbsp;meowpthh</div>
+## <div class="heading"><img src="https://cdn.discordapp.com/avatars/300548556874579969/d6975411149bd8cff591750c261d042c.png" width="30" height="30" class="rounded-corners">&nbsp;meowpthh</div>
