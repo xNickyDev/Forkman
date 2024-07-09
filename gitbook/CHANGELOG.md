@@ -4,6 +4,7 @@
 
 ### July
 * Added "Role Cards" option to player profiles
+* Added `/suggest`
 
 ### June
 * Updated `/items`
