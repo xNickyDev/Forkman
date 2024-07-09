@@ -61,6 +61,7 @@
   * [/role offers](commands/role/offers.md)
   * [/role rotations](commands/role/rotations.md)
 * [/roles](commands/roles.md)
+* [/suggest](commands/suggest.md)
 * [/talismans](commands/talismans.md)
 * [/uptime](commands/uptime.md)
 * [/verify](commands/verify/introduction.md)
