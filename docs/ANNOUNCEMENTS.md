@@ -3,6 +3,14 @@ The most important news and updates about Forkman are announced here.
 
 ---
 
+### Deprecation of Prefix Commands
+
+We have officially deprecated and removed the use of prefix commands as Forkman has reached a total of **100** servers!! 🥳
+
+From now on please enjoy using Forkman with our fancy slash commands 🤙
+
+---
+
 ### Maintenance Completed
 The maintenance of Forkman is now completed and we had a small data loss but overall everything else went smoothly. Users who played games with Forkman after the date of 06/06/2024 9:05 PM might have their new game progress not saved. Affected users are welcome to contact me to get their game data updated. I'm very sorry for the small inconvenience and happy to announce upcoming updates! 👀
 
