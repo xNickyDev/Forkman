@@ -1,5 +1,4 @@
 ---
-title: /ask NEW
 description: Ask a question regarding Forkman.
 ---
 
