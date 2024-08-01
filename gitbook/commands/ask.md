@@ -1,9 +1,8 @@
 ---
 description: Ask a question regarding Forkman.
-date: 2022-10-06
 ---
 
-# /ask
+# /ask NEW
 
 {% hint style="info" %}
 This is a **Beta** command. Results may return incorrect or misleading information. If you encounter any problems, please consider reporting them to us immediately on our [Support Server](https://discord.gg/DEEZY5cwpy).
