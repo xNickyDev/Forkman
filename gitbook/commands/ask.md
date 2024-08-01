@@ -1,5 +1,6 @@
 ---
 description: Ask a question regarding Forkman.
+date: 2022-10-06
 ---
 
 # /ask
