@@ -9,7 +9,7 @@ This command requires clan verification.
 {% endhint %}
 
 {% hint style="success" %}
-This command allows verified (Co-)Leaders to buy quests for their clan.
+This command allows verified **(Co-)Leaders** to buy quests for their clan.
 {% endhint %}
 
 ## Usage
