@@ -6,7 +6,7 @@ Returns the shop with all available quests of your clan.
 > This command requires clan verification.
 
 > [!TIP]
-> This command allows verified (Co-)Leaders to buy quests for their clan.
+> This command allows verified **(Co-)Leaders** to buy quests for their clan.
 
 ## Usage
 
