@@ -4,9 +4,6 @@ This section will explain the various bracket and argument types used for comman
 
 ## Bracket Types
 
-> [!WARNING]
-> This section is **deprecated** due to the official removal of prefix commands.
-
 The bracket around an argument indicates whether the argument is required (must be included) or optional (can be included, but not required). There are three types of brackets that we use for Forkman:
 
 * `<>` - This argument is required, it **must** be included.
