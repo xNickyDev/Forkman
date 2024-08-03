@@ -10,7 +10,7 @@ The bracket around an argument indicates whether the argument is required (must 
 * `{}` - This argument is optional, it **can** be included but not required.
 * `()` - This holds enum values for the argument, **one** option must be picked and specified.
 
-> [!NOTE]
+> [!WARNING]
 > **Do not include** the brackets (`<>`, `{}` and `()`) when using a command.
 
 ## Argument Types
