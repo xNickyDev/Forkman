@@ -11,7 +11,7 @@ Buys a new quest for your clan.
 ## Usage
 
 ```
-/clan quest buy
+/clan quest buy <quest>
 ```
 
 ## Arguments
