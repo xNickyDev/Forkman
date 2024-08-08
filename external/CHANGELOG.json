@@ -1,5 +1,10 @@
 {
     "2024": {
+        "august": [
+            "Added `/clan quest buy`",
+            "Added `/clan quest shop`",
+            "Added `/clan quest shuffle`"
+        ],
         "july": [
             "Added \"Role Cards\" option to player profiles",
             "Added `/suggest`"
