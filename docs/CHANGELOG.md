@@ -2,6 +2,11 @@
 
 ## 2024
 
+### August
+* Added `/clan quest buy`
+* Added `/clan quest shop`
+* Added `/clan quest shuffle`
+
 ### July
 * Added "Role Cards" option to player profiles
 * Added `/suggest`
