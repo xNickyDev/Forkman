@@ -15,7 +15,7 @@ This command allows verified **(Co-)Leaders** to buy quests for their clan.
 ## Usage
 
 ```
-/clan quest buy
+/clan quest buy <quest>
 ```
 
 ## Arguments
