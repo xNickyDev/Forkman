@@ -7,6 +7,7 @@
 * Added `/clan quest shop`
 * Added `/clan quest shuffle`
 * Added "Arguments" select menu to `command` option of `/help`
+* Added `/game lightsout`
 
 ### July
 * Added "Role Cards" option to player profiles
