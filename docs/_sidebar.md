@@ -37,6 +37,7 @@
     - [/game bomber](commands/game/bomber.md)
     - [/game glassbridge](commands/game/glassbridge.md)
     - [/game hangman](commands/game/hangman.md)
+    - [/game lightsout](commands/game/lightsout.md)
     - [/game memory](commands/game/memory.md)
     - [/game question](commands/game/question.md)
     - [/game rps](commands/game/rps.md)
