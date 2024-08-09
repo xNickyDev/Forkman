@@ -2,8 +2,23 @@
 
 ## 2024
 
+### August
+* Added `/clan quest buy`
+* Added `/clan quest shop`
+* Added `/clan quest shuffle`
+* Added "Arguments" select menu to `command` option of `/help`
+* Added `/game lightsout`
+
+### July
+* Added "Role Cards" option to player profiles
+* Added `/suggest`
+
 ### June
 * Updated `/items`
+* Updated `/leaderboard` and added page navigation buttons
+* Updated `/collections` and added "Preview collection" select menu
+* Added new page navigation buttons to `/quests`
+* Updated `/outfits` and added new buttons
 
 ### May
 * Fixed providing invalid game mode causes no response of `/role rotations`

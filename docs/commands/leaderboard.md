@@ -5,7 +5,7 @@ Returns a leaderboard of the specified type.
 ## Usage
 
 ```
-/leaderboard <type (Gold/Votes)> {page}
+/leaderboard <type> {page}
 ```
 
 ## Arguments
