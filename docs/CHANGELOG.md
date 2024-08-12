@@ -8,6 +8,7 @@
 * Added `/clan quest shuffle`
 * Added "Arguments" select menu to `command` option of `/help`
 * Added `/game lightsout`
+* Added `/game flood`
 
 ### July
 * Added "Role Cards" option to player profiles
