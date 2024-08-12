@@ -35,6 +35,7 @@
   - [/emojis](commands/emojis.md)
   - &nbsp;/game
     - [/game bomber](commands/game/bomber.md)
+    - [/game flood](commands/game/flood.md)
     - [/game glassbridge](commands/game/glassbridge.md)
     - [/game hangman](commands/game/hangman.md)
     - [/game lightsout](commands/game/lightsout.md)
