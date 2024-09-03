@@ -2,6 +2,9 @@
 
 ## 2024
 
+### September
+* Added user-install support for non-sub commands
+
 ### August
 * Added `/clan quest buy`
 * Added `/clan quest shop`
