@@ -1,7 +1,8 @@
 {
     "2024": {
         "september": [
-            "Added user-install support for non-sub commands"
+            "Added user-install support for non-sub commands",
+            "Added full user-install support"
         ],
         "august": [
             "Added `/clan quest buy`",
