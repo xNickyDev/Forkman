@@ -2,6 +2,9 @@
 
 ## 2024
 
+### October
+* Added new page navigation buttons to `/offers`
+
 ### September
 * Added user-install support for non-sub commands
 * Added full user-install support
