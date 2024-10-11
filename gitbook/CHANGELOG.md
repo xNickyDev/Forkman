@@ -4,6 +4,7 @@
 
 ### September
 * Added user-install support for non-sub commands
+* Added full user-install support
 
 ### August
 * Added `/clan quest buy`
