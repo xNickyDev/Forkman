@@ -12,7 +12,7 @@ Official GitHub documentation of Forkman Discord-Bot
 ## Who is Forkman?
 Forkman; the best role of the game Wolvesville!
 
-This bot allows you to receive information about players, clans & items, interact with clans, play games and much more!
+This app allows you to receive information about players, clans & items, interact with clans, play games and much more!
 
 ### Links
 - [Documentation](https://forkman.vercel.app/)
@@ -23,6 +23,6 @@ This bot allows you to receive information about players, clans & items, interac
 ---
 <div align="center">
 <footer>
-  <p>This is an unofficial bot, which is not affiliated with <a href="https://www.wolvesville.com">Wolvesville GmbH & Co. KG</a> in any way.</p>
+  <p>This is an unofficial app, which is not affiliated with <a href="https://www.wolvesville.com">Wolvesville GmbH & Co. KG</a> in any way.</p>
 </footer>
 </div>

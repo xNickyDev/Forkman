@@ -1,7 +1,30 @@
 {
     "2024": {
+        "october": [
+            "Added new page navigation buttons to `/offers`"
+        ],
+        "september": [
+            "Added user-install support for non-sub commands",
+            "Added full user-install support"
+        ],
+        "august": [
+            "Added `/clan quest buy`",
+            "Added `/clan quest shop`",
+            "Added `/clan quest shuffle`",
+            "Added \"Arguments\" select menu to `command` option of `/help`",
+            "Added `/game lightsout`",
+            "Added `/game flood`"
+        ],
+        "july": [
+            "Added \"Role Cards\" option to player profiles",
+            "Added `/suggest`"
+        ],
         "june": [
-            "Updated `/items`"
+            "Updated `/items`",
+            "Updated `/leaderboard` and added page navigation buttons",
+            "Updated `/collections` and added \"Preview collection\" select menu",
+            "Added new page navigation buttons to `/quests`",
+            "Updated `/outfits` and added new buttons"
         ],
         "may": [
             "Fixed providing invalid game mode causes no response of `/role rotations`",

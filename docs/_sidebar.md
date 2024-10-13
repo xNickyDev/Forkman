@@ -1,8 +1,8 @@
 - [Welcome](home.md)
 
 - **Resources**
-  - [<img src="_media/external.svg"> Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499)
-  - [<img src="_media/external.svg"> Support Server](https://discord.gg/DEEZY5cwpy)
+  - [<img src="_media/external.svg">Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499)
+  - [<img src="_media/external.svg">Support Server](https://discord.gg/DEEZY5cwpy)
   - [Announcements](ANNOUNCEMENTS.md)
   - [Changelog](CHANGELOG.md)
 
@@ -24,16 +24,21 @@
     - [/clan announcements](commands/clan/announcements.md)
     - [/clan info](commands/clan/info.md)
     - [/clan member search](commands/clan/member/search.md)
+    - [/clan quest buy](commands/clan/quest/buy.md)
     - [/clan quest history](commands/clan/quest/history.md)
     - [/clan quest info](commands/clan/quest/info.md)
+    - [/clan quest shop](commands/clan/quest/shop.md)
+    - [/clan quest shuffle](commands/clan/quest/shuffle.md)
     - [/clan quest votes](commands/clan/quest/votes.md)
     - [/clan search](commands/clan/search.md)
   - [/collections](commands/collections.md)
   - [/emojis](commands/emojis.md)
   - &nbsp;/game
     - [/game bomber](commands/game/bomber.md)
+    - [/game flood](commands/game/flood.md)
     - [/game glassbridge](commands/game/glassbridge.md)
     - [/game hangman](commands/game/hangman.md)
+    - [/game lightsout](commands/game/lightsout.md)
     - [/game memory](commands/game/memory.md)
     - [/game question](commands/game/question.md)
     - [/game rps](commands/game/rps.md)
@@ -56,6 +61,7 @@
     - [/role offers](commands/role/offers.md)
     - [/role rotations](commands/role/rotations.md)
   - [/roles](commands/roles.md)
+  - [/suggest](commands/suggest.md)
   - [/talismans](commands/talismans.md)
   - [/uptime](commands/uptime.md)
   - &nbsp;/verify
