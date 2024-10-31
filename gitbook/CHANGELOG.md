@@ -4,6 +4,7 @@
 
 ### October
 * Added new page navigation buttons to `/offers`
+* New hidden parts (avatars/roses) of player profiles are now flagged as hidden
 
 ### September
 * Added user-install support for non-sub commands
