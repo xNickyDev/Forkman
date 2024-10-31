@@ -1,7 +1,8 @@
 {
     "2024": {
         "october": [
-            "Added new page navigation buttons to `/offers`"
+            "Added new page navigation buttons to `/offers`",
+            "New hidden parts (avatars/roses) of player profiles are now flagged as hidden"
         ],
         "september": [
             "Added user-install support for non-sub commands",
