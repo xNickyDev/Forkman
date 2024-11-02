@@ -1,5 +1,8 @@
 {
     "2024": {
+        "november": [
+            "Added `/announcements`"
+        ],
         "october": [
             "Added new page navigation buttons to `/offers`",
             "New hidden parts (avatars/roses) of player profiles are now flagged as hidden"
