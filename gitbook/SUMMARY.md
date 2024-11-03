@@ -16,6 +16,7 @@
 
 ## Commands
 
+* [/announcements](commands/announcements.md)
 * [/ask](commands/ask.md)
 * [/backgrounds](commands/backgrounds.md)
 * [/badges](commands/badges.md)
