@@ -1,4 +1,4 @@
-- [**Invite**](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499)
+- [**Invite**](https://discord.com/oauth2/authorize?client_id=1037396167123816499)
 
 - [**Support**](https://discord.gg/DEEZY5cwpy)
 
