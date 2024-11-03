@@ -19,7 +19,7 @@ This app allows you to receive information about players, clans & items, interac
 ### Links
 
 * [Documentation](https://forkman.vercel.app/)
-* [Invite Forkman](https://discord.com/api/oauth2/authorize?client_id=1037396167123816499)
+* [Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499)
 * [Support Server](https://discord.gg/DEEZY5cwpy)
 * [Top.gg](https://top.gg/bot/1037396167123816499/)
 
