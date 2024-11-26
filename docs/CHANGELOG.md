@@ -4,6 +4,11 @@
 
 ### November
 * Added `/announcements`
+* Made improvements to `/game question`:
+  * Excluded all "Random" roles from aura questions
+  * Excluded "Assassin" role from aura and team questions
+  * Added multiple team answers for all "Random" roles
+  * If a question was answered incorrectly, all possible answers are now listed instead of just one
 
 ### October
 * Added new page navigation buttons to `/offers`
