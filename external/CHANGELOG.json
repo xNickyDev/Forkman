@@ -1,7 +1,8 @@
 {
     "2024": {
         "november": [
-            "Added `/announcements`"
+            "Added `/announcements`",
+            "Made improvements to `/game question`:\n    - Excluded all \"Random\" roles from aura questions\n    - Excluded \"Assassin\" role from aura and team questions\n    - Added multiple team answers for all \"Random\" roles\n    - If a question was answered incorrectly, all possible answers are now listed instead of just one"
         ],
         "october": [
             "Added new page navigation buttons to `/offers`",
