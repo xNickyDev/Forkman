@@ -5,6 +5,7 @@
   - [<img src="_media/external.svg">Support Server](https://discord.gg/DEEZY5cwpy)
   - [Announcements](ANNOUNCEMENTS.md)
   - [Changelog](CHANGELOG.md)
+  - [Status](STATUS.md)
 
 - **Guides**
   - [Arguments](guides/arguments.md)
