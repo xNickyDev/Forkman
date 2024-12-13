@@ -2,6 +2,9 @@
 
 ## 2024
 
+### December
+* Removed support of all games for the user-installed app due to certain issues
+
 ### November
 * Added `/announcements`
 * Made improvements to `/game question`:
