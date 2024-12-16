@@ -4,6 +4,7 @@
 
 ### December
 * Removed support of all games for the user-installed app due to certain issues
+* Added **Event** field to `/role icons`
 
 ### November
 * Added `/announcements`
