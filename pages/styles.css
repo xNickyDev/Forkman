@@ -1,0 +1,40 @@
+img.rounded-corners {
+  border-radius: 5px;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tab-badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(35%, -45%);
+  padding: 0.25em 0.35em;
+  border-radius: 3px;
+  background: var(--theme-color);
+  color: white;
+  font-family: sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+:root {
+  --link-color: var(--theme-color);
+  --link-color--hover: var(--theme-color);
+  --link-text-decoration-color: var(--theme-color);
+  --link-text-decoration-color--hover: var(--theme-color);
+  --sidebar-nav-link-background: none;
+  --sidebar-nav-link-background--active: none;
+  --sidebar-nav-link-background--hover: none;
+  --sidebar-nav-pagelink-background: none;
+  --sidebar-nav-pagelink-background--active: none;
+  --sidebar-nav-pagelink-background--collapse: none;
+  --sidebar-nav-pagelink-background--loaded: none;
+  --sidebar-nav-pagelink-padding: 3px;
+  --sidebar-nav-link-font-weight--active: bold;
+  --sidebar-nav-link-text-decoration--active: none;
+}

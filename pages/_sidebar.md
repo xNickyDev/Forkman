@@ -1,0 +1,83 @@
+- [Welcome](home.md)
+
+- **Resources**
+  - [<img src="_media/external.svg">Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499)
+  - [<img src="_media/external.svg">Support Server](https://discord.gg/DEEZY5cwpy)
+  - [Announcements](ANNOUNCEMENTS.md)
+  - [Changelog](CHANGELOG.md)
+  - [Status](STATUS.md)
+
+- **Guides**
+  - [Arguments](guides/arguments.md)
+  - [Clan Bot](guides/clanbot.md)
+
+- **Commands**
+  - [/announcements](commands/announcements.md)
+  - [/ask](commands/ask.md)
+  - [/backgrounds](commands/backgrounds.md)
+  - [/badges](commands/badges.md)
+  - [/balance](commands/balance.md)
+  - &nbsp;/battlepass
+    - [/battlepass challenges](commands/battlepass/challenges.md)
+    - [/battlepass season](commands/battlepass/season.md)
+  - [/botinfo](commands/botinfo.md)
+  - [/changelog](commands/changelog.md)
+  - &nbsp;/clan
+    - [/clan announcements](commands/clan/announcements.md)
+    - [/clan info](commands/clan/info.md)
+    - [/clan member search](commands/clan/member/search.md)
+    - [/clan quest buy](commands/clan/quest/buy.md)
+    - [/clan quest history](commands/clan/quest/history.md)
+    - [/clan quest info](commands/clan/quest/info.md)
+    - [/clan quest shop](commands/clan/quest/shop.md)
+    - [/clan quest shuffle](commands/clan/quest/shuffle.md)
+    - [/clan quest votes](commands/clan/quest/votes.md)
+    - [/clan search](commands/clan/search.md)
+  - [/collections](commands/collections.md)
+  - [/emojis](commands/emojis.md)
+  - &nbsp;/game
+    - [/game bomber](commands/game/bomber.md)
+    - [/game flood](commands/game/flood.md)
+    - [/game glassbridge](commands/game/glassbridge.md)
+    - [/game hangman](commands/game/hangman.md)
+    - [/game lightsout](commands/game/lightsout.md)
+    - [/game memory](commands/game/memory.md)
+    - [/game question](commands/game/question.md)
+    - [/game rps](commands/game/rps.md)
+  - [/help](commands/help.md)
+  - [/id](commands/id.md)
+  - [/items](commands/items.md)
+  - [/leaderboard](commands/leaderboard.md)
+  - [/loadingscreens](commands/loadingscreens.md)
+  - [/offers](commands/offers.md)
+  - [/outfits](commands/outfits.md)
+  - [/ping](commands/ping.md)
+  - &nbsp;/player
+    - [/player info](commands/player/info.md)
+    - [/player search](commands/player/search.md)
+  - [/quests](commands/quests.md)
+  - [/review](commands/review.md)
+  - &nbsp;/role
+    - [/role icons](commands/role/icons.md)
+    - [/role info](commands/role/info.md)
+    - [/role offers](commands/role/offers.md)
+    - [/role rotations](commands/role/rotations.md)
+  - [/roles](commands/roles.md)
+  - [/suggest](commands/suggest.md)
+  - [/talismans](commands/talismans.md)
+  - [/uptime](commands/uptime.md)
+  - &nbsp;/verify
+    - [/verify account](commands/verify/account.md)
+    - [/verify clan](commands/verify/clan.md)
+  - &nbsp;/vote
+    - [/vote link](commands/vote/link.md)
+    - [/vote tracker](commands/vote/tracker.md)
+
+- **Team**
+  - [Staff](team/staff/introduction.md)
+    - [Developers](team/staff/developers.md)
+  - [Contributors](team/contributors.md)
+
+- **Legal**
+  - [Privacy Policy](legal/privacy.md)
+  - [Terms of Service](legal/terms.md)
