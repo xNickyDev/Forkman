@@ -1,4 +1,9 @@
 {
+    "2025": {
+        "january": [
+            "Added `/bodypaints`"
+        ]
+    },
     "2024": {
         "december": [
             "Removed support of all games for the user-installed app due to certain issues",
