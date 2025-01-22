@@ -1,5 +1,10 @@
 # Changelog
 
+## 2025
+
+### January
+* Added `/bodypaints`
+
 ## 2024
 
 ### December
