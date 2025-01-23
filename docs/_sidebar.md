@@ -20,6 +20,7 @@
   - &nbsp;/battlepass
     - [/battlepass challenges](commands/battlepass/challenges.md)
     - [/battlepass season](commands/battlepass/season.md)
+  - [/bodypaints](commands/bodypaints.md)
   - [/botinfo](commands/botinfo.md)
   - [/changelog](commands/changelog.md)
   - &nbsp;/clan
