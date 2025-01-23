@@ -24,6 +24,7 @@
 * [/battlepass](commands/battlepass/introduction.md)
   * [/battlepass challenges](commands/battlepass/challenges.md)
   * [/battlepass season](commands/battlepass/season.md)
+* [/bodypaints](commands/bodypaints.md)
 * [/botinfo](commands/botinfo.md)
 * [/changelog](commands/changelog.md)
 * [/clan](commands/clan/introduction.md)
