@@ -1,5 +1,5 @@
 ---
-description: Returns all available body paints.
+description: Returns all existing body paints.
 ---
 
 # /bodypaints
