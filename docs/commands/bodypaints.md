@@ -1,6 +1,6 @@
 # /bodypaints
 
-Returns all available body paints.
+Returns all existing body paints.
 
 ## Usage
 
