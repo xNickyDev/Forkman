@@ -2,6 +2,9 @@
 
 ## 2025
 
+### February
+* Fixed vote tracker can't be enabled
+
 ### January
 * Added `/bodypaints`
 
