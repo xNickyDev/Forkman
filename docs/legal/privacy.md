@@ -77,5 +77,5 @@ We will attempt to resolve complaints and disputes and make every reasonable eff
 
 ---
 
-**Copyright © 2024 Forkman**\
+**Copyright © 2025 Forkman**\
 *-- This document was last updated on January 10, 2024 --*
