@@ -1,7 +1,8 @@
 {
     "2025": {
         "february": [
-            "Fixed vote tracker can't be enabled"
+            "Fixed vote tracker can't be enabled",
+            "Added `/clan message`"
         ],
         "january": [
             "Added `/bodypaints`"
