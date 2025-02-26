@@ -4,6 +4,7 @@
 
 ### February
 * Fixed vote tracker can't be enabled
+* Added `/clan message`
 
 ### January
 * Added `/bodypaints`
