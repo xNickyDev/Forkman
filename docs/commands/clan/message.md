@@ -5,6 +5,9 @@ Sends a message to the chat of your clan.
 > [!NOTE]
 > This command requires clan verification.
 
+> [!TIP]
+> This command allows sending messages directly to your clan chat via Discord!
+
 ## Usage
 
 ```
