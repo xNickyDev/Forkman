@@ -27,6 +27,7 @@
     - [/clan announcements](commands/clan/announcements.md)
     - [/clan info](commands/clan/info.md)
     - [/clan member search](commands/clan/member/search.md)
+    - [/clan message](commands/clan/message.md)
     - [/clan quest buy](commands/clan/quest/buy.md)
     - [/clan quest history](commands/clan/quest/history.md)
     - [/clan quest info](commands/clan/quest/info.md)
