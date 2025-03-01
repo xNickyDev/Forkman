@@ -46,6 +46,7 @@
     - [/game memory](commands/game/memory.md)
     - [/game question](commands/game/question.md)
     - [/game rps](commands/game/rps.md)
+    - [/game tictactoe](commands/game/tictactoe.md)
   - [/help](commands/help.md)
   - [/id](commands/id.md)
   - [/items](commands/items.md)
