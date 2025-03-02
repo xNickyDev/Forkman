@@ -2,6 +2,9 @@
 
 ## 2025
 
+### March
+* Added `/game tictactoe`
+
 ### February
 * Fixed vote tracker can't be enabled
 * Added `/clan message`
