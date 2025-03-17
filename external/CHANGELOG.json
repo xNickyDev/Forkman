@@ -1,7 +1,8 @@
 {
     "2025": {
         "march": [
-            "Added `/game tictactoe`"
+            "Added `/game tictactoe`",
+            "Added \"Members\" button to `/clan search` and `/clan info`"
         ],
         "february": [
             "Fixed vote tracker can't be enabled",
