@@ -4,6 +4,7 @@
 
 ### March
 * Added `/game tictactoe`
+* Added "Members" button to `/clan search` and `/clan info`
 
 ### February
 * Fixed vote tracker can't be enabled
