@@ -1,7 +1,52 @@
 {
+    "2025": {
+        "march": [
+            "Added `/game tictactoe`",
+            "Added \"Members\" button to `/clan search` and `/clan info`"
+        ],
+        "february": [
+            "Fixed vote tracker can't be enabled",
+            "Added `/clan message`"
+        ],
+        "january": [
+            "Added `/bodypaints`"
+        ]
+    },
     "2024": {
+        "december": [
+            "Removed support of all games for the user-installed app due to certain issues",
+            "Added **Event** field to `/role icons`"
+        ],
+        "november": [
+            "Added `/announcements`",
+            "Made improvements to `/game question`:\n  - Excluded all \"Random\" roles from aura questions\n  - Excluded \"Assassin\" role from aura and team questions\n  - Added multiple team answers for all \"Random\" roles\n  - If a question was answered incorrectly, all possible answers are now listed instead of just one"
+        ],
+        "october": [
+            "Added new page navigation buttons to `/offers`",
+            "New hidden parts (avatars/roses) of player profiles are now flagged as hidden"
+        ],
+        "september": [
+            "Added user-install support for non-sub commands",
+            "Added full user-install support"
+        ],
+        "august": [
+            "Added `/clan quest buy`",
+            "Added `/clan quest shop`",
+            "Added `/clan quest shuffle`",
+            "Added \"Arguments\" select menu to `command` option of `/help`",
+            "Added `/game lightsout`",
+            "Added `/game flood`"
+        ],
+        "july": [
+            "Added \"Role Cards\" option to player profiles",
+            "Added `/suggest`"
+        ],
         "june": [
-            "Updated `/items`"
+            "Updated `/items`",
+            "Updated `/leaderboard` and added page navigation buttons",
+            "Updated `/collections` and added \"Preview collection\" select menu",
+            "Added new page navigation buttons to `/quests`",
+            "Updated `/outfits` and added new buttons"
         ],
         "may": [
             "Fixed providing invalid game mode causes no response of `/role rotations`",
