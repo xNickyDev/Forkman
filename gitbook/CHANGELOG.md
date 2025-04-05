@@ -1,9 +1,58 @@
 # Changelog
 
+## 2025
+
+### March
+* Added `/game tictactoe`
+* Added "Members" button to `/clan search` and `/clan info`
+
+### February
+* Fixed vote tracker can't be enabled
+* Added `/clan message`
+
+### January
+* Added `/bodypaints`
+
 ## 2024
+
+### December
+* Removed support of all games for the user-installed app due to certain issues
+* Added **Event** field to `/role icons`
+
+### November
+* Added `/announcements`
+* Made improvements to `/game question`:
+  * Excluded all "Random" roles from aura questions
+  * Excluded "Assassin" role from aura and team questions
+  * Added multiple team answers for all "Random" roles
+  * If a question was answered incorrectly, all possible answers are now listed instead of just one
+
+### October
+* Added new page navigation buttons to `/offers`
+* New hidden parts (avatars/roses) of player profiles are now flagged as hidden
+
+### September
+* Added user-install support for non-sub commands
+* Added full user-install support
+
+### August
+* Added `/clan quest buy`
+* Added `/clan quest shop`
+* Added `/clan quest shuffle`
+* Added "Arguments" select menu to `command` option of `/help`
+* Added `/game lightsout`
+* Added `/game flood`
+
+### July
+* Added "Role Cards" option to player profiles
+* Added `/suggest`
 
 ### June
 * Updated `/items`
+* Updated `/leaderboard` and added page navigation buttons
+* Updated `/collections` and added "Preview collection" select menu
+* Added new page navigation buttons to `/quests`
+* Updated `/outfits` and added new buttons
 
 ### May
 * Fixed providing invalid game mode causes no response of `/role rotations`

@@ -7,7 +7,7 @@ description: Returns all existing collections of the specified type.
 ## Usage
 
 ```
-/collections <type (emojis/items)> {page}
+/collections <type> {page}
 ```
 
 ## Arguments
