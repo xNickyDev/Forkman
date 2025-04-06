@@ -1,5 +1,8 @@
 {
     "2025": {
+        "april": [
+            "Fixed `/ask` returns internal server error"
+        ],
         "march": [
             "Added `/game tictactoe`",
             "Added \"Members\" button to `/clan search` and `/clan info`"
