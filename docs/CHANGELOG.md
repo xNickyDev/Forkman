@@ -2,6 +2,9 @@
 
 ## 2025
 
+### April
+* Fixed `/ask` returns internal server error
+
 ### March
 * Added `/game tictactoe`
 * Added "Members" button to `/clan search` and `/clan info`
