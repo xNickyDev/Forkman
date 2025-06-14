@@ -9,6 +9,7 @@
 * Added `/profile borders`
 * Added `/rose skins`
 * Added `/clan blocklist`
+* Added `/battlepass shop`
 
 ### April
 * Fixed `/ask` returns internal server error
