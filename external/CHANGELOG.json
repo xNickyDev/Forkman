@@ -1,5 +1,9 @@
 {
     "2025": {
+        "june": [
+            "Grouped info-related bot commands under `/bot`",
+            "Added `/announcements` (for wov announcements)"
+        ],
         "april": [
             "Fixed `/ask` returns internal server error"
         ],
