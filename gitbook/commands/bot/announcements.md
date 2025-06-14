@@ -2,12 +2,12 @@
 description: Returns the announcements of the bot.
 ---
 
-# /announcements
+# /bot announcements
 
 ## Usage
 
 ```
-/announcements {page}
+/bot announcements {page}
 ```
 
 ## Arguments

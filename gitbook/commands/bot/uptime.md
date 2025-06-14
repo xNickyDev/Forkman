@@ -2,12 +2,12 @@
 description: Returns the uptime of the bot.
 ---
 
-# /uptime
+# /bot uptime
 
 ## Usage
 
 ```
-/uptime
+/bot uptime
 ```
 
 ## Examples

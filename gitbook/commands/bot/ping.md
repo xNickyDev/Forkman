@@ -2,12 +2,12 @@
 description: Returns the ping of the bot in milliseconds.
 ---
 
-# /ping
+# /bot ping
 
 ## Usage
 
 ```
-/ping
+/bot ping
 ```
 
 ## Examples

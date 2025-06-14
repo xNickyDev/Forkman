@@ -20,9 +20,15 @@
   - &nbsp;/battlepass
     - [/battlepass challenges](commands/battlepass/challenges.md)
     - [/battlepass season](commands/battlepass/season.md)
+    - [/battlepass shop](commands/battlepass/shop.md)
   - [/bodypaints](commands/bodypaints.md)
-  - [/botinfo](commands/botinfo.md)
-  - [/changelog](commands/changelog.md)
+  - &nbsp;/bot
+    - [/bot announcements](commands/bot/announcements.md)
+    - [/bot changelog](commands/bot/changelog.md)
+    - [/bot info](commands/bot/info.md)
+    - [/bot ping](commands/bot/ping.md)
+    - [/bot uptime](commands/bot/uptime.md)
+  - [/changelogs](commands/changelogs.md)
   - &nbsp;/clan
     - [/clan announcements](commands/clan/announcements.md)
     - [/clan info](commands/clan/info.md)
@@ -54,7 +60,6 @@
   - [/loadingscreens](commands/loadingscreens.md)
   - [/offers](commands/offers.md)
   - [/outfits](commands/outfits.md)
-  - [/ping](commands/ping.md)
   - &nbsp;/player
     - [/player info](commands/player/info.md)
     - [/player search](commands/player/search.md)
@@ -68,7 +73,6 @@
   - [/roles](commands/roles.md)
   - [/suggest](commands/suggest.md)
   - [/talismans](commands/talismans.md)
-  - [/uptime](commands/uptime.md)
   - &nbsp;/verify
     - [/verify account](commands/verify/account.md)
     - [/verify clan](commands/verify/clan.md)

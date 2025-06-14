@@ -1,11 +1,11 @@
-# /uptime
+# /bot uptime
 
 Returns the uptime of the bot.
 
 ## Usage
 
 ```
-/uptime
+/bot uptime
 ```
 
 ## Examples

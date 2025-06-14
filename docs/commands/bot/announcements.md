@@ -1,11 +1,11 @@
-# /announcements
+# /bot announcements
 
 Returns the announcements of the bot.
 
 ## Usage
 
 ```
-/announcements {page}
+/bot announcements {page}
 ```
 
 ## Arguments

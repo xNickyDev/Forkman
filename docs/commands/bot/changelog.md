@@ -1,11 +1,11 @@
-# /changelog
+# /bot changelog
 
-Returns the newest changelog entries.
+Returns the newest changelog entries of the bot.
 
 ## Usage
 
 ```
-/changelog {month} {year}
+/bot changelog {month} {year}
 ```
 
 ## Arguments

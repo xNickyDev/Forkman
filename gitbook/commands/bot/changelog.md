@@ -1,13 +1,13 @@
 ---
-description: Returns the newest changelog entries.
+description: Returns the newest changelog entries of the bot.
 ---
 
-# /changelog
+# /bot changelog
 
 ## Usage
 
 ```
-/changelog {month} {year}
+/bot changelog {month} {year}
 ```
 
 ## Arguments

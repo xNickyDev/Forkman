@@ -2,12 +2,12 @@
 description: Returns information about Forkman.
 ---
 
-# /botinfo
+# /bot info
 
 ## Usage
 
 ```
-/botinfo
+/bot info
 ```
 
 ## Examples

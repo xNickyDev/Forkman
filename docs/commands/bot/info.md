@@ -1,11 +1,11 @@
-# /botinfo
+# /bot info
 
 Returns information about Forkman.
 
 ## Usage
 
 ```
-/botinfo
+/bot info
 ```
 
 ## Examples
