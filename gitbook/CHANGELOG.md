@@ -5,6 +5,7 @@
 ### June
 * Grouped info-related bot commands under `/bot`
 * Added `/announcements` (for wov announcements)
+* Added `/changelogs` (for wov changelogs)
 
 ### April
 * Fixed `/ask` returns internal server error
