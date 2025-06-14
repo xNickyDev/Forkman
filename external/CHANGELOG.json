@@ -6,7 +6,8 @@
             "Added `/changelogs` (for wov changelogs)",
             "Added `/profile borders`",
             "Added `/rose skins`",
-            "Added `/clan blocklist`"
+            "Added `/clan blocklist`",
+            "Added `/battlepass shop`"
         ],
         "april": [
             "Fixed `/ask` returns internal server error"
