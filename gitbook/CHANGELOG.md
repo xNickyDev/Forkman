@@ -2,6 +2,10 @@
 
 ## 2025
 
+### June
+* Grouped info-related bot commands under `/bot`
+* Added `/announcements` (for wov announcements)
+
 ### April
 * Fixed `/ask` returns internal server error
 
