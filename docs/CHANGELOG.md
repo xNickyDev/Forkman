@@ -6,6 +6,8 @@
 * Grouped info-related bot commands under `/bot`
 * Added `/announcements` (for wov announcements)
 * Added `/changelogs` (for wov changelogs)
+* Added `/profile borders`
+* Added `/rose skins`
 
 ### April
 * Fixed `/ask` returns internal server error
