@@ -8,6 +8,7 @@
 * Added `/changelogs` (for wov changelogs)
 * Added `/profile borders`
 * Added `/rose skins`
+* Added `/clan blocklist`
 
 ### April
 * Fixed `/ask` returns internal server error
