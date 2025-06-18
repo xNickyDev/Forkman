@@ -19,6 +19,6 @@ description: Returns the newest changelog entries of the bot.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/18a91c55-64fd-49c5-bda0-d49d94e1cdb6)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/1594c0f5-a118-4517-8a90-451f722f41cc)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/81103d92-4f4d-4110-8452-d3d61f4df570)
+![](https://github.com/user-attachments/assets/1d38fddf-1b8f-4fc7-9e34-9f26e9c252fb)
+![](https://github.com/user-attachments/assets/05cdeb8b-34df-4923-a1e1-b0e8a95e3dc7)
+![](https://github.com/user-attachments/assets/700f74a3-e344-48a8-b4db-0d5d6ab9f429)

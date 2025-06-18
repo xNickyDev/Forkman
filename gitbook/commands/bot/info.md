@@ -12,4 +12,4 @@ description: Returns information about Forkman.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/62ed1451-8c54-4e70-9ce2-ab790b1521de)
+![](https://github.com/user-attachments/assets/fb85d315-d653-4158-b24f-b765fbbf077b)

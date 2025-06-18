@@ -18,5 +18,5 @@ description: Returns the announcements of the bot.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/ae2254b8-53ce-4c2a-a0a0-b2abc31267ca)
-![](https://github.com/user-attachments/assets/e6fe16c7-f120-4231-b26e-eb1133aaa4f2)
+![](https://github.com/user-attachments/assets/4e6fb0dd-e6a9-4e58-bd4e-f03847732a66)
+![](https://github.com/user-attachments/assets/af0a54aa-a38e-4a58-a407-6a8caed3ae01)

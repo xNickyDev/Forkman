@@ -10,4 +10,4 @@ Returns the uptime of the bot.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/b19468fa-54cd-4346-8323-af6100dda2b3" class="rounded-corners">
+<img src="https://github.com/user-attachments/assets/09450e19-71f9-4af8-99e3-57fc084fe2d2" class="rounded-corners">

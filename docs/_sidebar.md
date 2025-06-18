@@ -31,6 +31,7 @@
   - [/changelogs](commands/changelogs.md)
   - &nbsp;/clan
     - [/clan announcements](commands/clan/announcements.md)
+    - [/clan blocklist](commands/clan/blocklist.md)
     - [/clan info](commands/clan/info.md)
     - [/clan member search](commands/clan/member/search.md)
     - [/clan message](commands/clan/message.md)
@@ -63,6 +64,8 @@
   - &nbsp;/player
     - [/player info](commands/player/info.md)
     - [/player search](commands/player/search.md)
+  - &nbsp;/profile
+    - [/profile borders](commands/profile/borders.md)
   - [/quests](commands/quests.md)
   - [/review](commands/review.md)
   - &nbsp;/role
@@ -71,6 +74,8 @@
     - [/role offers](commands/role/offers.md)
     - [/role rotations](commands/role/rotations.md)
   - [/roles](commands/roles.md)
+  - &nbsp;/rose
+    - [/rose skins](commands/rose/skins.md)
   - [/suggest](commands/suggest.md)
   - [/talismans](commands/talismans.md)
   - &nbsp;/verify
