@@ -10,6 +10,7 @@
 * Added `/rose skins`
 * Added `/clan blocklist`
 * Added `/battlepass shop`
+* Fixed `/help` sometimes failing
 
 ### April
 * Fixed `/ask` returns internal server error
