@@ -10,4 +10,4 @@ Play the "Memory" game.
 
 ## Examples
 
-<img src="../../_media/examples/game/memory-0.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/game/memory-0.png" class="prettier" draggable="false">

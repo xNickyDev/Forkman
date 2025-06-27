@@ -10,4 +10,4 @@ Play the "Lights Out" game.
 
 ## Examples
 
-<img src="../../_media/examples/game/lightsout-0.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/game/lightsout-0.png" class="prettier" draggable="false">

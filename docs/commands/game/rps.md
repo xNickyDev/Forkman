@@ -10,4 +10,4 @@ Play the "Rock Paper Sword" game.
 
 ## Examples
 
-<img src="../../_media/examples/game/rps-0.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/game/rps-0.png" class="prettier" draggable="false">

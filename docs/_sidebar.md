@@ -1,8 +1,8 @@
 - [Welcome](home.md)
 
 - **Resources**
-  - [<img src="_media/external.svg">Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499)
-  - [<img src="_media/external.svg">Support Server](https://discord.gg/DEEZY5cwpy)
+  - [<img src="_media/external.svg" draggable="false">Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499)
+  - [<img src="_media/external.svg" draggable="false">Support Server](https://discord.gg/DEEZY5cwpy)
   - [Announcements](ANNOUNCEMENTS.md)
   - [Changelog](CHANGELOG.md)
   - [Status](STATUS.md)

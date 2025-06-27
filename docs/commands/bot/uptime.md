@@ -10,4 +10,4 @@ Returns the uptime of the bot.
 
 ## Examples
 
-<img src="../../_media/examples/bot/uptime-0.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/bot/uptime-0.png" class="prettier" draggable="false">

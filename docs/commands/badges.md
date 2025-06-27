@@ -16,5 +16,5 @@ Returns all existing badges.
 
 ## Examples
 
-<img src="../_media/examples/badges-0.png" class="rounded-corners" draggable="false">\
-<img src="../_media/examples/badges-1.png" class="rounded-corners" draggable="false">
+<img src="../_media/examples/badges-0.png" class="prettier" draggable="false">\
+<img src="../_media/examples/badges-1.png" class="prettier" draggable="false">

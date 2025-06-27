@@ -17,6 +17,6 @@ Returns the newest changelog entries of the bot.
 
 ## Examples
 
-<img src="../../_media/examples/bot/changelog-0.png" class="rounded-corners" draggable="false">\
-<img src="../../_media/examples/bot/changelog-1.png" class="rounded-corners" draggable="false">\
-<img src="../../_media/examples/bot/changelog-2.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/bot/changelog-0.png" class="prettier" draggable="false">\
+<img src="../../_media/examples/bot/changelog-1.png" class="prettier" draggable="false">\
+<img src="../../_media/examples/bot/changelog-2.png" class="prettier" draggable="false">

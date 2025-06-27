@@ -16,5 +16,5 @@ Returns all current battle pass challenges.
 
 ## Examples
 
-<img src="../../_media/examples/battlepass/challenges-0.png" class="rounded-corners" draggable="false">\
-<img src="../../_media/examples/battlepass/challenges-1.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/battlepass/challenges-0.png" class="prettier" draggable="false">\
+<img src="../../_media/examples/battlepass/challenges-1.png" class="prettier" draggable="false">

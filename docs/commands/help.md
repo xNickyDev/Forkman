@@ -17,6 +17,6 @@ Returns a command help page of Forkman.
 
 ## Examples
 
-<img src="../_media/examples/help-0.png" class="rounded-corners" draggable="false">\
-<img src="../_media/examples/help-1.png" class="rounded-corners" draggable="false">\
-<img src="../_media/examples/help-2.png" class="rounded-corners" draggable="false">
+<img src="../_media/examples/help-0.png" class="prettier" draggable="false">\
+<img src="../_media/examples/help-1.png" class="prettier" draggable="false">\
+<img src="../_media/examples/help-2.png" class="prettier" draggable="false">

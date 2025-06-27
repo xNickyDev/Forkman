@@ -19,5 +19,5 @@ Returns profile information about the given player.
 
 ## Examples
 
-<img src="../../_media/examples/player/search-0.png" class="rounded-corners" draggable="false">\
-<img src="../../_media/examples/player/search-1.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/player/search-0.png" class="prettier" draggable="false">\
+<img src="../../_media/examples/player/search-1.png" class="prettier" draggable="false">

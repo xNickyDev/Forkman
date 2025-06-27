@@ -10,4 +10,4 @@ Suggest features or commands for the bot.
 
 ## Examples
 
-<img src="../_media/examples/suggest-0.png" class="rounded-corners" draggable="false">
+<img src="../_media/examples/suggest-0.png" class="prettier" draggable="false">

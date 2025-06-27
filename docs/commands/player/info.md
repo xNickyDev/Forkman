@@ -13,4 +13,4 @@ Returns profile information about your verified account.
 
 ## Examples
 
-<img src="../../_media/examples/player/info-0.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/player/info-0.png" class="prettier" draggable="false">

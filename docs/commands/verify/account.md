@@ -16,4 +16,4 @@ Verify your Wolvesville account.
 
 ## Examples
 
-<img src="../../_media/examples/verify/account-0.png" class="rounded-corners" draggable="false">
+<img src="../../_media/examples/verify/account-0.png" class="prettier" draggable="false">

@@ -16,5 +16,5 @@ Returns all available active offers.
 
 ## Examples
 
-<img src="../_media/examples/offers-0.png" class="rounded-corners" draggable="false">\
-<img src="../_media/examples/offers-1.png" class="rounded-corners" draggable="false">
+<img src="../_media/examples/offers-0.png" class="prettier" draggable="false">\
+<img src="../_media/examples/offers-1.png" class="prettier" draggable="false">
