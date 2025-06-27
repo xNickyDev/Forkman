@@ -22,7 +22,7 @@ Sends a message to the chat of your clan.
 
 ## Examples
 
-<img src="https://github.com/user-attachments/assets/e26fcb5d-9e38-4c6d-a3d1-8462b5eb19b9" class="rounded-corners">
+<img src="../../_media/examples/clan/message-0.png" class="rounded-corners">
 
 ## Preview
 

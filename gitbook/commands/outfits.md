@@ -18,5 +18,5 @@ description: Returns all existing outfits.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/2026d18a-70ba-4dcd-a3ae-ceed0865d0bc)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/57079738-4c6d-446e-89bf-578fae7878f3)
+![](https://forkman.vercel.app/_media/examples/outfits-0.png)
+![](https://forkman.vercel.app/_media/examples/outfits-1.png)

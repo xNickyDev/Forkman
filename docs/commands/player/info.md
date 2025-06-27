@@ -13,4 +13,4 @@ Returns profile information about your verified account.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/5e1716c7-cfd5-48f5-a23e-c6b2d8afd56d" class="rounded-corners">
+<img src="../../_media/examples/player/info-0.png" class="rounded-corners">

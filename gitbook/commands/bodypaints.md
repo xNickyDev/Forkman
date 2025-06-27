@@ -18,5 +18,5 @@ description: Returns all existing body paints.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/a9b2b751-606f-49d0-a35e-516342ded599)
-![](https://github.com/user-attachments/assets/8a5077ca-31fc-4ccb-bb6c-39cd865954c2)
+![](https://forkman.vercel.app/_media/examples/bodypaints-0.png)
+![](https://forkman.vercel.app/_media/examples/bodypaints-1.png)

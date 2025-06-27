@@ -22,4 +22,4 @@ This is a **Beta** command. Results may return incorrect or misleading informati
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/a5230d1c-6677-47a9-ad8f-44aeadd0e904)
+![](https://forkman.vercel.app/_media/examples/ask-0.png)

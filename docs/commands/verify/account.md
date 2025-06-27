@@ -16,4 +16,4 @@ Verify your Wolvesville account.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/48d07a7d-cb7d-4600-b614-7498cef2463b" class="rounded-corners">
+<img src="../../_media/examples/verify/account-0.png" class="rounded-corners">

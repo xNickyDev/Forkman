@@ -12,4 +12,4 @@ description: Returns the uptime of the bot.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/09450e19-71f9-4af8-99e3-57fc084fe2d2)
+![](https://forkman.vercel.app/_media/examples/bot/uptime-0.png)

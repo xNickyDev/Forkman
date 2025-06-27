@@ -30,5 +30,5 @@ description: Returns all existing collections of the specified type.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/4d44a626-0807-40ed-89b6-761a7b55d6c2)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/18013153-5716-49dd-bf75-31292e0363ce)
+![](https://forkman.vercel.app/_media/examples/collections-0.png)
+![](https://forkman.vercel.app/_media/examples/collections-1.png)

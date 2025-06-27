@@ -30,5 +30,5 @@ description: Gets the ID of a player or clan.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/75a2e11e-ca4c-4b5a-a803-4137facc1053)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/668f5be1-5c74-4e5a-96bf-e263b9b2ff6b)
+![](https://forkman.vercel.app/_media/examples/id-0.png)
+![](https://forkman.vercel.app/_media/examples/id-1.png)

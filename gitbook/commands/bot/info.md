@@ -12,4 +12,4 @@ description: Returns information about Forkman.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/fb85d315-d653-4158-b24f-b765fbbf077b)
+![](https://forkman.vercel.app/_media/examples/bot/info-0.png)

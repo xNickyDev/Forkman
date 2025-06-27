@@ -10,4 +10,4 @@ Returns information about the current battle pass season.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/8a3f5d14-a681-4331-af60-a3dc3bcc6eda" class="rounded-corners">
+<img src="../../_media/examples/battlepass/season-0.png" class="rounded-corners">

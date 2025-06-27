@@ -19,4 +19,4 @@ Verify your Wolvesville clan.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/1c6ff71e-d018-45b3-90e8-41bb3a219005" class="rounded-corners">
+<img src="../../_media/examples/verify/clan-0.png" class="rounded-corners">

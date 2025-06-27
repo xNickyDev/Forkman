@@ -18,5 +18,5 @@ description: Returns all current battle pass shop rewards.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/84405b28-e7d4-4da0-b0a8-348dc527e31a)
-![](https://github.com/user-attachments/assets/b74db1bd-d1d0-499c-87f2-f701702f5d31)
+![](https://forkman.vercel.app/_media/examples/battlepass/shop-0.png)
+![](https://forkman.vercel.app/_media/examples/battlepass/shop-1.png)

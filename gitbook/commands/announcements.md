@@ -18,5 +18,5 @@ description: Returns all announcements of Wolvesville.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/d5019094-7805-4311-9735-8c2af8c52048)
-![](https://github.com/user-attachments/assets/639d7343-b2c7-43f5-a82e-51e370420b3b)
+![](https://forkman.vercel.app/_media/examples/announcements-0.png)
+![](https://forkman.vercel.app/_media/examples/announcements-1.png)

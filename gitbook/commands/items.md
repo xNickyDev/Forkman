@@ -68,5 +68,5 @@ description: Returns all existing avatar items.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/e37854e2-2d81-4799-9e04-21fcec86e237)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/29b70ee6-1e6d-4cce-bca5-c4228cd07352)
+![](https://forkman.vercel.app/_media/examples/items-0.png)
+![](https://forkman.vercel.app/_media/examples/items-1.png)

@@ -19,6 +19,6 @@ description: Returns a command help page of Forkman.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/fe263872-93ae-40ed-bfe0-59cefb126f5c)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/5c191578-fbf1-4527-9e12-f2f1b81f1a4d)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/d2861890-1958-4309-8d40-3d4dc3cf8235)
+![](https://forkman.vercel.app/_media/examples/help-0.png)
+![](https://forkman.vercel.app/_media/examples/help-1.png)
+![](https://forkman.vercel.app/_media/examples/help-2.png)
