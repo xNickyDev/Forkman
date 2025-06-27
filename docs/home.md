@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Forkman](https://cdn.discordapp.com/emojis/1092882485291003954.png?size=4096\&quality=high)](https://discord.gg/DEEZY5cwpy)
+<a href="https://discord.gg/DEEZY5cwpy" target="_blank" rel="noopener noreferrer">
+  <img src="./docs/_media/icon.png" alt="Forkman" width=130 height=130 draggable="false">
+</a>
 
 # Forkman
 
