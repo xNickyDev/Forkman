@@ -16,5 +16,5 @@ Returns the announcements of the bot.
 
 ## Examples
 
-<img src="../../_media/examples/bot/announcements-0.png" class="rounded-corners">\
-<img src="../../_media/examples/bot/announcements-1.png" class="rounded-corners">
+<img src="../../_media/examples/bot/announcements-0.png" class="rounded-corners" draggable="false">\
+<img src="../../_media/examples/bot/announcements-1.png" class="rounded-corners" draggable="false">

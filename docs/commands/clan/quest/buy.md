@@ -22,4 +22,4 @@ Buys a new quest for your clan.
 
 ## Examples
 
-<img src="../../../_media/examples/clan/quest/buy-0.png" class="rounded-corners">
+<img src="../../../_media/examples/clan/quest/buy-0.png" class="rounded-corners" draggable="false">

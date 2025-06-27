@@ -17,6 +17,6 @@ Returns all existing role icons.
 
 ## Examples
 
-<img src="../../_media/examples/role/icons-0.png" class="rounded-corners">\
-<img src="../../_media/examples/role/icons-1.png" class="rounded-corners">\
-<img src="../../_media/examples/role/icons-2.png" class="rounded-corners">
+<img src="../../_media/examples/role/icons-0.png" class="rounded-corners" draggable="false">\
+<img src="../../_media/examples/role/icons-1.png" class="rounded-corners" draggable="false">\
+<img src="../../_media/examples/role/icons-2.png" class="rounded-corners" draggable="false">

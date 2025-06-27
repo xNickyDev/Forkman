@@ -19,5 +19,5 @@ Returns information about a single role.
 
 ## Examples
 
-<img src="../../_media/examples/role/info-0.png" class="rounded-corners">\
-<img src="../../_media/examples/role/info-1.png" class="rounded-corners">
+<img src="../../_media/examples/role/info-0.png" class="rounded-corners" draggable="false">\
+<img src="../../_media/examples/role/info-1.png" class="rounded-corners" draggable="false">

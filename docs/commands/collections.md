@@ -28,5 +28,5 @@ Returns all existing collections of the specified type.
 
 ## Examples
 
-<img src="../_media/examples/collections-0.png" class="rounded-corners">\
-<img src="../_media/examples/collections-1.png" class="rounded-corners">
+<img src="../_media/examples/collections-0.png" class="rounded-corners" draggable="false">\
+<img src="../_media/examples/collections-1.png" class="rounded-corners" draggable="false">

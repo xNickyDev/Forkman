@@ -19,4 +19,4 @@ Ask a question regarding Forkman.
 
 ## Examples
 
-<img src="../_media/examples/ask-0.png" class="rounded-corners">
+<img src="../_media/examples/ask-0.png" class="rounded-corners" draggable="false">

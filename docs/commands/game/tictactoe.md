@@ -10,4 +10,4 @@ Play the "TicTacToe" game.
 
 ## Examples
 
-<img src="../../_media/examples/game/tictactoe-0.png" class="rounded-corners">
+<img src="../../_media/examples/game/tictactoe-0.png" class="rounded-corners" draggable="false">

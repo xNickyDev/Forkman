@@ -29,6 +29,6 @@ Returns all existing role card offers of the specified type.
 
 ## Examples
 
-<img src="../../_media/examples/role/offers-0.png" class="rounded-corners">\
-<img src="../../_media/examples/role/offers-1.png" class="rounded-corners">\
-<img src="../../_media/examples/role/offers-2.png" class="rounded-corners">
+<img src="../../_media/examples/role/offers-0.png" class="rounded-corners" draggable="false">\
+<img src="../../_media/examples/role/offers-1.png" class="rounded-corners" draggable="false">\
+<img src="../../_media/examples/role/offers-2.png" class="rounded-corners" draggable="false">

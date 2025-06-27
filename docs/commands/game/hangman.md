@@ -10,4 +10,4 @@ Play the "Hangman" game.
 
 ## Examples
 
-<img src="../../_media/examples/game/hangman-0.png" class="rounded-corners">
+<img src="../../_media/examples/game/hangman-0.png" class="rounded-corners" draggable="false">

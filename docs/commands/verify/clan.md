@@ -19,4 +19,4 @@ Verify your Wolvesville clan.
 
 ## Examples
 
-<img src="../../_media/examples/verify/clan-0.png" class="rounded-corners">
+<img src="../../_media/examples/verify/clan-0.png" class="rounded-corners" draggable="false">

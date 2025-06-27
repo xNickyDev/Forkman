@@ -10,4 +10,4 @@ Returns information about Forkman.
 
 ## Examples
 
-<img src="../../_media/examples/bot/info-0.png" class="rounded-corners">
+<img src="../../_media/examples/bot/info-0.png" class="rounded-corners" draggable="false">

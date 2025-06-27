@@ -16,4 +16,4 @@ Shuffles the currently available quests for your clan.
 
 ## Examples
 
-<img src="../../../_media/examples/clan/quest/shuffle-0.png" class="rounded-corners">
+<img src="../../../_media/examples/clan/quest/shuffle-0.png" class="rounded-corners" draggable="false">

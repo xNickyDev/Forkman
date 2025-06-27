@@ -66,5 +66,5 @@ Returns all existing avatar items.
 
 ## Examples
 
-<img src="../_media/examples/items-0.png" class="rounded-corners">\
-<img src="../_media/examples/items-1.png" class="rounded-corners">
+<img src="../_media/examples/items-0.png" class="rounded-corners" draggable="false">\
+<img src="../_media/examples/items-1.png" class="rounded-corners" draggable="false">

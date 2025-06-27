@@ -16,5 +16,5 @@ Returns all existing roles.
 
 ## Examples
 
-<img src="../_media/examples/roles-0.png" class="rounded-corners">\
-<img src="../_media/examples/roles-1.png" class="rounded-corners">
+<img src="../_media/examples/roles-0.png" class="rounded-corners" draggable="false">\
+<img src="../_media/examples/roles-1.png" class="rounded-corners" draggable="false">

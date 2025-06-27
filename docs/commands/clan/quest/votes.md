@@ -19,5 +19,5 @@ Returns all current quest votes of your clan.
 
 ## Examples
 
-<img src="../../../_media/examples/clan/quest/votes-0.png" class="rounded-corners">\
-<img src="../../../_media/examples/clan/quest/votes-1.png" class="rounded-corners">
+<img src="../../../_media/examples/clan/quest/votes-0.png" class="rounded-corners" draggable="false">\
+<img src="../../../_media/examples/clan/quest/votes-1.png" class="rounded-corners" draggable="false">

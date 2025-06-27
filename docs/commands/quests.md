@@ -16,5 +16,5 @@ Returns all existing clan quests.
 
 ## Examples
 
-<img src="../_media/examples/quests-0.png" class="rounded-corners">\
-<img src="../_media/examples/quests-1.png" class="rounded-corners">
+<img src="../_media/examples/quests-0.png" class="rounded-corners" draggable="false">\
+<img src="../_media/examples/quests-1.png" class="rounded-corners" draggable="false">

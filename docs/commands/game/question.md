@@ -10,4 +10,4 @@ Play the "Question" game.
 
 ## Examples
 
-<img src="../../_media/examples/game/question-0.png" class="rounded-corners">
+<img src="../../_media/examples/game/question-0.png" class="rounded-corners" draggable="false">

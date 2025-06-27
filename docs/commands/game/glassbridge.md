@@ -10,4 +10,4 @@ Play the "Glass Bridge" game.
 
 ## Examples
 
-<img src="../../_media/examples/game/glassbridge-0.png" class="rounded-corners">
+<img src="../../_media/examples/game/glassbridge-0.png" class="rounded-corners" draggable="false">
