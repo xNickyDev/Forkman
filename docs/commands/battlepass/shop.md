@@ -16,5 +16,5 @@ Returns all current battle pass shop rewards.
 
 ## Examples
 
-<img src="https://github.com/user-attachments/assets/84405b28-e7d4-4da0-b0a8-348dc527e31a" class="rounded-corners">\
-<img src="https://github.com/user-attachments/assets/b74db1bd-d1d0-499c-87f2-f701702f5d31" class="rounded-corners">
+<img src="../../_media/examples/battlepass/shop-0.png" class="rounded-corners">\
+<img src="../../_media/examples/battlepass/shop-1.png" class="rounded-corners">

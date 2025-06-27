@@ -19,5 +19,5 @@ Returns the blocklist of your clan.
 
 ## Examples
 
-<img src="https://github.com/user-attachments/assets/0624c51f-5bb5-4895-8a67-14d293651ec6" class="rounded-corners">\
-<img src="https://github.com/user-attachments/assets/3b1e01df-2d9e-4d90-aca6-dbb2879e1288" class="rounded-corners">
+<img src="../../_media/examples/clan/blocklist-0.png" class="rounded-corners">\
+<img src="../../_media/examples/clan/blocklist-1.png" class="rounded-corners">

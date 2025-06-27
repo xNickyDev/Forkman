@@ -10,4 +10,4 @@ Returns the ping of the bot in milliseconds.
 
 ## Examples
 
-<img src="https://github.com/user-attachments/assets/3c52e18e-86dc-46a5-a158-9169c3d4a618" class="rounded-corners">
+<img src="../../_media/examples/bot/ping-0.png" class="rounded-corners">

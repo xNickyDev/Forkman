@@ -16,5 +16,5 @@ Returns all announcements of Wolvesville.
 
 ## Examples
 
-<img src="https://github.com/user-attachments/assets/d5019094-7805-4311-9735-8c2af8c52048" class="rounded-corners">\
-<img src="https://github.com/user-attachments/assets/639d7343-b2c7-43f5-a82e-51e370420b3b" class="rounded-corners">
+<img src="../_media/examples/announcements-0.png" class="rounded-corners">\
+<img src="../_media/examples/announcements-1.png" class="rounded-corners">
