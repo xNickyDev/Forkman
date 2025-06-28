@@ -5,6 +5,11 @@ img.prettier {
   pointer-events: auto;
 }
 
+.vote img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 .heading {
   display: flex;
   align-items: center;
