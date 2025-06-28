@@ -11,6 +11,7 @@
 * Added `/clan blocklist`
 * Added `/battlepass shop`
 * Fixed `/help` sometimes failing
+* Added back Vote Tracker system
 
 ### April
 * Fixed `/ask` returns internal server error
