@@ -22,5 +22,5 @@ You need to provide the **exact** username or ID of the player. The argument `us
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/b0b96bed-28c7-47b8-9023-57f1ec44adb5)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/936bc0c0-4180-40a3-aca7-1dfd9880de4b)
+![](https://forkman.vercel.app/_media/examples/player/search-0.png)
+![](https://forkman.vercel.app/_media/examples/player/search-1.png)

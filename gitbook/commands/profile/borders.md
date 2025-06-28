@@ -18,5 +18,5 @@ description: Returns all existing profile icon borders.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/31e1b800-9d3c-4acc-95bb-3372ccfbca0d)
-![](https://github.com/user-attachments/assets/6c26f70f-396b-4774-b86a-d63023c77b8a)
+![](https://forkman.vercel.app/_media/examples/profile/borders-0.png)
+![](https://forkman.vercel.app/_media/examples/profile/borders-1.png)

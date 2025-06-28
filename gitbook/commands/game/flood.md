@@ -12,4 +12,4 @@ description: Play the "Flood" game.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/5d64425b-694d-4c54-a506-2d0e6e3ad4a0)
+![](https://forkman.vercel.app/_media/examples/game/flood-0.png)

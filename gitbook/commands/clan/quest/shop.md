@@ -20,4 +20,4 @@ This command allows verified **(Co-)Leaders** to buy quests for their clan.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/40341d9d-d58f-45e7-9c9a-209060242364)
+![](https://forkman.vercel.app/_media/examples/clan/quest/shop-0.png)

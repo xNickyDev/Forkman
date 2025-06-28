@@ -12,4 +12,4 @@ description: Play the "Glass Bridge" game.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/5f2423e5-e040-40c3-b1a2-7cbbfd67f2b1)
+![](https://forkman.vercel.app/_media/examples/game/glassbridge-0.png)
