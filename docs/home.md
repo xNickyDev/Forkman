@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://discord.gg/DEEZY5cwpy" target="_blank" rel="noopener noreferrer">
-  <img src="./docs/_media/icon.png" alt="Forkman" width=130 height=130 draggable="false">
+  <img src="./_media/icon.png" alt="Forkman" width=130 height=130 draggable="false">
 </a>
 
 # Forkman
