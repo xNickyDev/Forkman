@@ -58,6 +58,7 @@ Returns all existing avatar items.
 - `St. Patrick` - Filters items by St. Patrick event.
 - `Wheel` - Filters items by Wheel event.
 - `Items Collection` - Filters items by Items Collection event.
+- `Subscription` - Filters items by Subscription event.
 - `Early Bird` - Filters items by Early Bird event.
 - `Calendar` - Filters items by Calendar event.
 - `Battle Pass` - Filters items by Battle Pass event.
