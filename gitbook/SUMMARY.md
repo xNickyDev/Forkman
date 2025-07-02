@@ -70,6 +70,7 @@
   * [/player search](commands/player/search.md)
 * [/profile](commands/profile/introduction.md)
   * [/profile borders](commands/profile/borders.md)
+  * [/profile icons](commands/profile/icons.md)
 * [/quests](commands/quests.md)
 * [/review](commands/review.md)
 * [/role](commands/role/introduction.md)

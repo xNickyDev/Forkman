@@ -66,6 +66,7 @@
     - [/player search](commands/player/search.md)
   - &nbsp;/profile
     - [/profile borders](commands/profile/borders.md)
+    - [/profile icons](commands/profile/icons.md)
   - [/quests](commands/quests.md)
   - [/review](commands/review.md)
   - &nbsp;/role
