@@ -1,5 +1,8 @@
 {
     "2025": {
+        "july": [
+            "Added `/profile icons`"
+        ],
         "june": [
             "Grouped info-related bot commands under `/bot`",
             "Added `/announcements` (for wov announcements)",
@@ -9,8 +12,7 @@
             "Added `/clan blocklist`",
             "Added `/battlepass shop`",
             "Fixed `/help` sometimes failing",
-            "Added back Vote Tracker system",
-            "Added `/profile icons`"
+            "Added back Vote Tracker system"
         ],
         "april": [
             "Fixed `/ask` returns internal server error"
