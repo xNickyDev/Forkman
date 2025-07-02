@@ -14,6 +14,8 @@
 - **Commands**
   - [/announcements](commands/announcements.md)
   - [/ask](commands/ask.md)
+  - &nbsp;/avatar
+    - [/avatar info](commands/avatar/info.md)
   - [/backgrounds](commands/backgrounds.md)
   - [/badges](commands/badges.md)
   - [/balance](commands/balance.md)

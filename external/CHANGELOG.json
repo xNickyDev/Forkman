@@ -1,7 +1,8 @@
 {
     "2025": {
         "july": [
-            "Added `/profile icons`"
+            "Added `/profile icons`",
+            "Added `/avatar info`"
         ],
         "june": [
             "Grouped info-related bot commands under `/bot`",

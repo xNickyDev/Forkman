@@ -18,6 +18,8 @@
 
 * [/announcements](commands/announcements.md)
 * [/ask](commands/ask.md)
+* [/avatar](commands/avatar/introduction.md)
+  * [/avatar info](commands/avatar/info.md)
 * [/backgrounds](commands/backgrounds.md)
 * [/badges](commands/badges.md)
 * [/balance](commands/balance.md)
