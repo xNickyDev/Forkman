@@ -2,6 +2,9 @@
 
 ## 2025
 
+### July
+* Added `/profile icons`
+
 ### June
 * Grouped info-related bot commands under `/bot`
 * Added `/announcements` (for wov announcements)
