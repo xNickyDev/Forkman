@@ -22,4 +22,4 @@ This command requires clan verification.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/0424f449-5749-4f39-b5bf-3ebb6d1432f3)
+![](https://forkman.vercel.app/_media/examples/clan/member/search-0.png)

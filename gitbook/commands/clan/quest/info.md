@@ -16,4 +16,4 @@ This command requires clan verification.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/c4853b95-8018-4805-9f7c-9c25ef81e288)
+![](https://forkman.vercel.app/_media/examples/clan/quest/info-0.png)

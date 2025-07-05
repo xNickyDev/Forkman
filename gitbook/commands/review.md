@@ -20,4 +20,4 @@ description: Rate the bot.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/9e12c2a2-44c7-4bae-826f-8ebe1013c421)
+![](https://forkman.vercel.app/_media/examples/review-0.png)

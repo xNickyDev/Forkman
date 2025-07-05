@@ -19,6 +19,6 @@ description: Returns all existing role icons.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/4249f9e1-aa53-4e72-971e-fcbab560516f)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/a18fcd30-7493-490f-ab3c-afebcf6989e6)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/7bc0a0f9-8403-4bb6-a134-2dca061e2ad0)
+![](https://forkman.vercel.app/_media/examples/role/icons-0.png)
+![](https://forkman.vercel.app/_media/examples/role/icons-1.png)
+![](https://forkman.vercel.app/_media/examples/role/icons-2.png)

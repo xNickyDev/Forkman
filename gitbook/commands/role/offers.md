@@ -31,6 +31,6 @@ description: Returns all existing role card offers of the specified type.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/50aa49ff-e270-4013-903a-18f8a09374be)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/c66b806c-7b05-445f-9f5e-3b7a2f11cf7f)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/20909141-7c50-40f2-a38c-eec73d9e01bc)
+![](https://forkman.vercel.app/_media/examples/role/offers-0.png)
+![](https://forkman.vercel.app/_media/examples/role/offers-1.png)
+![](https://forkman.vercel.app/_media/examples/role/offers-2.png)

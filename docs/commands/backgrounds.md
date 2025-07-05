@@ -16,5 +16,5 @@ Returns all existing backgrounds.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/70d54cfc-a68e-4e4a-8d83-9c1748744f86" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/077a6b9f-5f88-45d1-9bc1-411aaf2ad39d" class="rounded-corners">
+<img src="../_media/examples/backgrounds-0.png" class="prettier" draggable="false">\
+<img src="../_media/examples/backgrounds-1.png" class="prettier" draggable="false">

@@ -49,5 +49,5 @@ You can use the [`/id`](commands/id.md) command to get the ID of any clan.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/efc05c1e-715f-4c3e-9a8c-f7c682955795)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/21942d75-d56a-4893-9cf5-a3ce28e127c1)
+![](https://forkman.vercel.app/_media/examples/clan/search-0.png)
+![](https://forkman.vercel.app/_media/examples/clan/search-1.png)

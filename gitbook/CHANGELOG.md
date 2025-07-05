@@ -2,6 +2,24 @@
 
 ## 2025
 
+### July
+* Added `/profile icons`
+* Added `/avatar info`
+
+### June
+* Grouped info-related bot commands under `/bot`
+* Added `/announcements` (for wov announcements)
+* Added `/changelogs` (for wov changelogs)
+* Added `/profile borders`
+* Added `/rose skins`
+* Added `/clan blocklist`
+* Added `/battlepass shop`
+* Fixed `/help` sometimes failing
+* Added back Vote Tracker system
+
+### April
+* Fixed `/ask` returns internal server error
+
 ### March
 * Added `/game tictactoe`
 * Added "Members" button to `/clan search` and `/clan info`

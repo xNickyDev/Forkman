@@ -1,8 +1,8 @@
 - [Welcome](home.md)
 
 - **Resources**
-  - [<img src="_media/external.svg">Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499)
-  - [<img src="_media/external.svg">Support Server](https://discord.gg/DEEZY5cwpy)
+  - [<img src="_media/external.svg" draggable="false">Invite Forkman](https://discord.com/oauth2/authorize?client_id=1037396167123816499)
+  - [<img src="_media/external.svg" draggable="false">Support Server](https://discord.gg/DEEZY5cwpy)
   - [Announcements](ANNOUNCEMENTS.md)
   - [Changelog](CHANGELOG.md)
   - [Status](STATUS.md)
@@ -14,17 +14,26 @@
 - **Commands**
   - [/announcements](commands/announcements.md)
   - [/ask](commands/ask.md)
+  - &nbsp;/avatar
+    - [/avatar info](commands/avatar/info.md)
   - [/backgrounds](commands/backgrounds.md)
   - [/badges](commands/badges.md)
   - [/balance](commands/balance.md)
   - &nbsp;/battlepass
     - [/battlepass challenges](commands/battlepass/challenges.md)
     - [/battlepass season](commands/battlepass/season.md)
+    - [/battlepass shop](commands/battlepass/shop.md)
   - [/bodypaints](commands/bodypaints.md)
-  - [/botinfo](commands/botinfo.md)
-  - [/changelog](commands/changelog.md)
+  - &nbsp;/bot
+    - [/bot announcements](commands/bot/announcements.md)
+    - [/bot changelog](commands/bot/changelog.md)
+    - [/bot info](commands/bot/info.md)
+    - [/bot ping](commands/bot/ping.md)
+    - [/bot uptime](commands/bot/uptime.md)
+  - [/changelogs](commands/changelogs.md)
   - &nbsp;/clan
     - [/clan announcements](commands/clan/announcements.md)
+    - [/clan blocklist](commands/clan/blocklist.md)
     - [/clan info](commands/clan/info.md)
     - [/clan member search](commands/clan/member/search.md)
     - [/clan message](commands/clan/message.md)
@@ -54,10 +63,12 @@
   - [/loadingscreens](commands/loadingscreens.md)
   - [/offers](commands/offers.md)
   - [/outfits](commands/outfits.md)
-  - [/ping](commands/ping.md)
   - &nbsp;/player
     - [/player info](commands/player/info.md)
     - [/player search](commands/player/search.md)
+  - &nbsp;/profile
+    - [/profile borders](commands/profile/borders.md)
+    - [/profile icons](commands/profile/icons.md)
   - [/quests](commands/quests.md)
   - [/review](commands/review.md)
   - &nbsp;/role
@@ -66,9 +77,10 @@
     - [/role offers](commands/role/offers.md)
     - [/role rotations](commands/role/rotations.md)
   - [/roles](commands/roles.md)
+  - &nbsp;/rose
+    - [/rose skins](commands/rose/skins.md)
   - [/suggest](commands/suggest.md)
   - [/talismans](commands/talismans.md)
-  - [/uptime](commands/uptime.md)
   - &nbsp;/verify
     - [/verify account](commands/verify/account.md)
     - [/verify clan](commands/verify/clan.md)

@@ -22,5 +22,5 @@ This command requires clan verification.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/45999ce7-b9c3-404a-96d3-d0e9f7712d62)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/badf1163-583c-44ce-86e7-cf83b52e1596)
+![](https://forkman.vercel.app/_media/examples/clan/quest/history-0.png)
+![](https://forkman.vercel.app/_media/examples/clan/quest/history-1.png)

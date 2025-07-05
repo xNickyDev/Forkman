@@ -18,4 +18,4 @@ Rate the bot.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/9e12c2a2-44c7-4bae-826f-8ebe1013c421" class="rounded-corners">
+<img src="../_media/examples/review-0.png" class="prettier" draggable="false">

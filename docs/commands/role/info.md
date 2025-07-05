@@ -19,5 +19,5 @@ Returns information about a single role.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/d0083c80-9819-420b-8fc6-5a0b7614ad1d" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/508c18bd-f4c1-4dcb-86fc-900f7b918a6c" class="rounded-corners">
+<img src="../../_media/examples/role/info-0.png" class="prettier" draggable="false">\
+<img src="../../_media/examples/role/info-1.png" class="prettier" draggable="false">

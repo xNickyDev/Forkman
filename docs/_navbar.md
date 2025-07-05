@@ -2,6 +2,6 @@
 
 - [**Support**](https://discord.gg/DEEZY5cwpy)
 
-- [**Vote**](https://top.gg/bot/1037396167123816499/vote)
+- <a href="https://top.gg/bot/1037396167123816499/vote" target="_blank" class="vote"><strong>Vote</strong></a>
 
 - [**Credits**](credits.md)

@@ -19,4 +19,4 @@ Returns information about a member of your clan.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/0424f449-5749-4f39-b5bf-3ebb6d1432f3" class="rounded-corners">
+<img src="../../../_media/examples/clan/member/search-0.png" class="prettier" draggable="false">

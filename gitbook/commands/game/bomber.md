@@ -12,4 +12,4 @@ description: Play the "Bomber" game.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/05d5366b-03f4-4608-9299-f2efc4746c0d)
+![](https://forkman.vercel.app/_media/examples/game/bomber-0.png)

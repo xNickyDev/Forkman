@@ -12,4 +12,4 @@ description: Play the "Question" game.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/dcbf9a6b-358e-4ea1-9fc0-b418fca6c3ba)
+![](https://forkman.vercel.app/_media/examples/game/question-0.png)

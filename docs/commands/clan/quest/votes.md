@@ -19,5 +19,5 @@ Returns all current quest votes of your clan.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/191ec586-3ec7-45ae-966c-1008d085f6bd" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/12342783-0661-4ef8-be60-0b9b9491da21" class="rounded-corners">
+<img src="../../../_media/examples/clan/quest/votes-0.png" class="prettier" draggable="false">\
+<img src="../../../_media/examples/clan/quest/votes-1.png" class="prettier" draggable="false">

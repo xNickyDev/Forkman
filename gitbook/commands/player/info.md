@@ -16,4 +16,4 @@ This command requires account verification.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/5e1716c7-cfd5-48f5-a23e-c6b2d8afd56d)
+![](https://forkman.vercel.app/_media/examples/player/info-0.png)

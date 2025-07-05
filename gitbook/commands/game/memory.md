@@ -12,4 +12,4 @@ description: Play the "Memory" game.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/ef6875a6-3f7d-485c-af9d-dd23e1e3e837)
+![](https://forkman.vercel.app/_media/examples/game/memory-0.png)

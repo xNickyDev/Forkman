@@ -22,5 +22,5 @@ You need to provide the **exact** role name or ID, both works. The argument `rol
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/d0083c80-9819-420b-8fc6-5a0b7614ad1d)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/508c18bd-f4c1-4dcb-86fc-900f7b918a6c)
+![](https://forkman.vercel.app/_media/examples/role/info-0.png)
+![](https://forkman.vercel.app/_media/examples/role/info-1.png)

@@ -20,4 +20,4 @@ This command allows verified **(Co-)Leaders** to shuffle quests for their clan.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/c26abb57-b1d1-47a2-9102-d2c88e49dd2c)
+![](https://forkman.vercel.app/_media/examples/clan/quest/shuffle-0.png)

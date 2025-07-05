@@ -16,5 +16,5 @@ Returns all existing roles.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/07fe40a2-0c69-4d5a-adcf-c5817c5601c7" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/984cc048-2fa5-4940-b924-929b0817aa5f" class="rounded-corners">
+<img src="../_media/examples/roles-0.png" class="prettier" draggable="false">\
+<img src="../_media/examples/roles-1.png" class="prettier" draggable="false">

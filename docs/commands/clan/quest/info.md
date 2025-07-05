@@ -13,4 +13,4 @@ Returns information about your clan's current active quest.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/c4853b95-8018-4805-9f7c-9c25ef81e288" class="rounded-corners">
+<img src="../../../_media/examples/clan/quest/info-0.png" class="prettier" draggable="false">

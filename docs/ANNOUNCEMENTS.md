@@ -11,7 +11,7 @@ Forkman does now support installing the app directly on your Discord account wit
 
 *For now, only normal slash commands and context menus are supported as user-installable commands, this will change in the future. Use the app on a server to gain access to all of Forkman's features.*
 
-<img src="https://github.com/user-attachments/assets/e53c9371-aef5-499e-b786-7a8543003a56" width="450" height="450">
+<img src="https://github.com/user-attachments/assets/e53c9371-aef5-499e-b786-7a8543003a56" width="450" height="450" class="prettier" draggable="false">
 
 ---
 

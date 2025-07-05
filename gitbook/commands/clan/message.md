@@ -26,7 +26,7 @@ This command allows sending messages directly to your clan chat via Discord!
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/e26fcb5d-9e38-4c6d-a3d1-8462b5eb19b9)
+![](https://forkman.vercel.app/_media/examples/clan/message-0.png)
 
 ## Preview
 

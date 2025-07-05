@@ -1,5 +1,13 @@
-img.rounded-corners {
+img.prettier {
   border-radius: 5px;
+  -webkit-user-drag: none;
+  user-select: none;
+  pointer-events: auto;
+}
+
+.vote img {
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .heading {

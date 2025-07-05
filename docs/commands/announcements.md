@@ -1,6 +1,6 @@
 # /announcements
 
-Returns the announcements of the bot.
+Returns all announcements of Wolvesville.
 
 ## Usage
 
@@ -16,5 +16,5 @@ Returns the announcements of the bot.
 
 ## Examples
 
-<img src="https://github.com/user-attachments/assets/ae2254b8-53ce-4c2a-a0a0-b2abc31267ca" class="rounded-corners">\
-<img src="https://github.com/user-attachments/assets/e6fe16c7-f120-4231-b26e-eb1133aaa4f2" class="rounded-corners">
+<img src="../_media/examples/announcements-0.png" class="prettier" draggable="false">\
+<img src="../_media/examples/announcements-1.png" class="prettier" draggable="false">

@@ -18,5 +18,5 @@ description: Returns all existing clan quests.
 
 ## Examples
 
-![](https://github.com/xNickyDev/Forkman/assets/111157596/fcad52e8-bc44-4ac6-baa9-909c45f0ba92)
-![](https://github.com/xNickyDev/Forkman/assets/111157596/7b7d28f9-7d20-4321-bbf0-3fc61fe09e05)
+![](https://forkman.vercel.app/_media/examples/quests-0.png)
+![](https://forkman.vercel.app/_media/examples/quests-1.png)

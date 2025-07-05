@@ -16,4 +16,4 @@ Returns the shop with all available quests of your clan.
 
 ## Examples
 
-<img src="https://github.com/user-attachments/assets/40341d9d-d58f-45e7-9c9a-209060242364" class="rounded-corners">
+<img src="../../../_media/examples/clan/quest/shop-0.png" class="prettier" draggable="false">

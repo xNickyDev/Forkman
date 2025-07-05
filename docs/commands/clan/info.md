@@ -13,4 +13,4 @@ Returns information about your verified clan.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/c1ce8a36-328b-46bf-81b5-130dfb0bb50e" class="rounded-corners">
+<img src="../../_media/examples/clan/info-0.png" class="prettier" draggable="false">

@@ -12,4 +12,4 @@ description: Play the "Lights Out" game.
 
 ## Examples
 
-![](https://github.com/user-attachments/assets/e06dafb2-d38a-4126-888b-13c0d37b333b)
+![](https://forkman.vercel.app/_media/examples/game/lightsout-0.png)

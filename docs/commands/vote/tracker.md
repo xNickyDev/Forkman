@@ -27,5 +27,5 @@ Toggle the vote tracker system.
 
 ## Examples
 
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/449f1231-4eba-4511-8ee9-2e48ca658b93" class="rounded-corners">\
-<img src="https://github.com/xNickyDev/Forkman/assets/111157596/d1014147-1ef4-40a0-b9be-8c69e6477a56" class="rounded-corners">
+<img src="../../_media/examples/vote/tracker-0.png" class="prettier" draggable="false">\
+<img src="../../_media/examples/vote/tracker-1.png" class="prettier" draggable="false">
