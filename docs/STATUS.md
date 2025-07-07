@@ -3,6 +3,10 @@ All important status updates of Forkman will be posted here.
 
 ___
 
+> ### <div class="heading"><img src="_media/offline.png" width="40" height="40" draggable="false"> Offline</div>
+> Our hosting service is currently down, affecting Forkman. There is currently no further information regarding this downtime but we try our best to bring the bot back as soon as possible.\
+> <sub>July 07, 2025 – 13:46:50 PM (UTC)</sub>
+
 > ### <div class="heading"><img src="_media/online.png" width="40" height="40" draggable="false"> Online</div>
 > Forkman is finally back online and operational after a week-long break 🥳\
 > <sub>February 14, 2025 – 17:23:45 PM (UTC)</sub>
