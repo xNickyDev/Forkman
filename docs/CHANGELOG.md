@@ -5,6 +5,7 @@
 ### July
 * Added `/profile icons`
 * Added `/avatar info`
+* Added `/player highscores`
 
 ### June
 * Grouped info-related bot commands under `/bot`
