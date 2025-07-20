@@ -7,7 +7,7 @@ description: Returns all current player highscores.
 ## Usage
 
 ```
-/player highscores
+/player highscores {page} {period}
 ```
 
 ## Arguments
