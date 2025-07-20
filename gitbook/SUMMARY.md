@@ -68,6 +68,7 @@
 * [/offers](commands/offers.md)
 * [/outfits](commands/outfits.md)
 * [/player](commands/player/introduction.md)
+  * [/player highscores](commands/player/highscores.md)
   * [/player info](commands/player/info.md)
   * [/player search](commands/player/search.md)
 * [/profile](commands/profile/introduction.md)
