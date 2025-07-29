@@ -3,7 +3,8 @@
         "july": [
             "Added `/profile icons`",
             "Added `/avatar info`",
-            "Added `/player highscores`"
+            "Added `/player highscores`",
+            "Fixed `/avatar info` for second item layers"
         ],
         "june": [
             "Grouped info-related bot commands under `/bot`",

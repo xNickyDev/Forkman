@@ -6,6 +6,7 @@
 * Added `/profile icons`
 * Added `/avatar info`
 * Added `/player highscores`
+* Fixed `/avatar info` for second item layers
 
 ### June
 * Grouped info-related bot commands under `/bot`
