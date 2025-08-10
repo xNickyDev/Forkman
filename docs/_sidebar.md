@@ -30,6 +30,7 @@
     - [/bot info](commands/bot/info.md)
     - [/bot ping](commands/bot/ping.md)
     - [/bot uptime](commands/bot/uptime.md)
+  - [/calendars](commands/calendars.md)
   - [/changelogs](commands/changelogs.md)
   - &nbsp;/clan
     - [/clan announcements](commands/clan/announcements.md)

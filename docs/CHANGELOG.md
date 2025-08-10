@@ -2,6 +2,9 @@
 
 ## 2025
 
+### August
+* Added `/calendars`
+
 ### July
 * Added `/profile icons`
 * Added `/avatar info`

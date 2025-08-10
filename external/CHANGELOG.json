@@ -1,5 +1,8 @@
 {
     "2025": {
+        "august": [
+            "Added `/calendars`"
+        ],
         "july": [
             "Added `/profile icons`",
             "Added `/avatar info`",
