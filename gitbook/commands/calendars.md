@@ -1,5 +1,5 @@
 ---
-desc: Returns all existing calendars.
+description: Returns all existing calendars.
 ---
 
 # /calendars
