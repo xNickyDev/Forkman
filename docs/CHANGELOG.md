@@ -4,6 +4,7 @@
 
 ### August
 * Added `/calendars`
+* Added `/bundles`
 
 ### July
 * Added `/profile icons`

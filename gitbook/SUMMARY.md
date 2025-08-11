@@ -34,6 +34,7 @@
   * [/bot info](commands/bot/info.md)
   * [/bot ping](commands/bot/ping.md)
   * [/bot uptime](commands/bot/uptime.md)
+* [/bundles](commands/bundles.md)
 * [/calendars](commands/calendars.md)
 * [/changelogs](commands/changelogs.md)
 * [/clan](commands/clan/introduction.md)
