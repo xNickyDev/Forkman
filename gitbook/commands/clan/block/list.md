@@ -2,7 +2,7 @@
 description: Returns the blocklist of your clan.
 ---
 
-# /clan blocklist
+# /clan block list
 
 {% hint style="info" %}
 This command requires clan verification.
@@ -11,7 +11,7 @@ This command requires clan verification.
 ## Usage
 
 ```
-/clan blocklist {page}
+/clan block list {page}
 ```
 
 ## Arguments
@@ -22,5 +22,5 @@ This command requires clan verification.
 
 ## Examples
 
-![](https://forkman.vercel.app/_media/examples/clan/blocklist-0.png)
-![](https://forkman.vercel.app/_media/examples/clan/blocklist-1.png)
+![](https://forkman.vercel.app/_media/examples/clan/block/list-0.png)
+![](https://forkman.vercel.app/_media/examples/clan/block/list-1.png)

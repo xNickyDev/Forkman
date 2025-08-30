@@ -5,6 +5,7 @@
 ### August
 * Added `/calendars`
 * Added `/bundles`
+* Renamed `/clan blocklist` to `/clan block list`
 
 ### July
 * Added `/profile icons`

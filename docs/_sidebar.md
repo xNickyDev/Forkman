@@ -35,7 +35,7 @@
   - [/changelogs](commands/changelogs.md)
   - &nbsp;/clan
     - [/clan announcements](commands/clan/announcements.md)
-    - [/clan blocklist](commands/clan/blocklist.md)
+    - [/clan block list](commands/clan/block/list.md)
     - [/clan info](commands/clan/info.md)
     - [/clan member search](commands/clan/member/search.md)
     - [/clan message](commands/clan/message.md)

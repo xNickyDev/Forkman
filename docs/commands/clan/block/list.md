@@ -1,4 +1,4 @@
-# /clan blocklist
+# /clan block list
 
 Returns the blocklist of your clan.
 
@@ -8,7 +8,7 @@ Returns the blocklist of your clan.
 ## Usage
 
 ```
-/clan blocklist {page}
+/clan block list {page}
 ```
 
 ## Arguments
@@ -19,5 +19,5 @@ Returns the blocklist of your clan.
 
 ## Examples
 
-<img src="../../_media/examples/clan/blocklist-0.png" class="prettier" draggable="false">\
-<img src="../../_media/examples/clan/blocklist-1.png" class="prettier" draggable="false">
+<img src="../../_media/examples/clan/block/list-0.png" class="prettier" draggable="false">\
+<img src="../../_media/examples/clan/block/list-1.png" class="prettier" draggable="false">

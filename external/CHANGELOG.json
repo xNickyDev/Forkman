@@ -2,7 +2,8 @@
     "2025": {
         "august": [
             "Added `/calendars`",
-            "Added `/bundles`"
+            "Added `/bundles`",
+            "Renamed `/clan blocklist` to `/clan block list`"
         ],
         "july": [
             "Added `/profile icons`",
