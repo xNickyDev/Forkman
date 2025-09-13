@@ -1,5 +1,8 @@
 {
     "2025": {
+        "september": [
+            "Fixed components of `/player highscores`"
+        ],
         "august": [
             "Added `/calendars`",
             "Added `/bundles`",

@@ -2,6 +2,9 @@
 
 ## 2025
 
+### September
+* Fixed components of `/player highscores`
+
 ### August
 * Added `/calendars`
 * Added `/bundles`
