@@ -4,6 +4,8 @@
 
 ### September
 * Fixed components of `/player highscores`
+* Added `/ranked season`
+* Added `/ranked leaderboard`
 
 ### August
 * Added `/calendars`

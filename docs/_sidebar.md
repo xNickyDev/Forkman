@@ -73,6 +73,9 @@
     - [/profile borders](commands/profile/borders.md)
     - [/profile icons](commands/profile/icons.md)
   - [/quests](commands/quests.md)
+  - &nbsp;/ranked
+    - [/ranked leaderboard](commands/ranked/leaderboard.md)
+    - [/ranked season](commands/ranked/season.md)
   - [/review](commands/review.md)
   - &nbsp;/role
     - [/role icons](commands/role/icons.md)

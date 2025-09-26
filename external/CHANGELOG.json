@@ -1,7 +1,9 @@
 {
     "2025": {
         "september": [
-            "Fixed components of `/player highscores`"
+            "Fixed components of `/player highscores`",
+            "Added `/ranked season`",
+            "Added `/ranked leaderboard`"
         ],
         "august": [
             "Added `/calendars`",
