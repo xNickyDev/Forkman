@@ -6,6 +6,7 @@
 * Fixed components of `/player highscores`
 * Added `/ranked season`
 * Added `/ranked leaderboard`
+* Added "Manage Member" select menu to `/clan member search`
 
 ### August
 * Added `/calendars`
