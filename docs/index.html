@@ -35,15 +35,6 @@
     <div id="app"></div>
     <script src="config.js"></script>
 
-    <script src="//embed.sdk.discordcdn.com/1.0.0/discord-embed.min.js"></script>
-    <script>
-      const SDK = new DiscordSDK("864960105077276762")
-      async function initActivity() {
-        await SDK.ready()
-      }
-      initActivity()
-    </script>
-
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//unpkg.com/docsify-copy-code@2"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
@@ -55,5 +46,27 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js" type="text/javascript"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js" type="text/javascript"></script>
+    <script src="//embed.sdk.discordcdn.com/1.0.0/discord-embed.min.js"></script>
+
+    <script>
+      function init() {
+        const appDiv = document.getElementById("app")
+        if (!appDiv) return
+
+        const observer = new MutationObserver(async (mutations, obs) => {
+          if (appDiv.innerHTML.trim().length > 0) {
+            if (!window.discordInitialized) {
+              const SDK = new DiscordSDK("864960105077276762")
+              await SDK.ready()
+              window.discordInitialized = true
+            }
+            obs.disconnect()
+          }
+        })
+        observer.observe(appDiv, { childList: true, subtree: true })
+      }
+
+      window.addEventListener("DOMContentLoaded", init)
+    </script>
   </body>
 </html>

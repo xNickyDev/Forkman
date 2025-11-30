@@ -7,6 +7,7 @@ window.$docsify = {
     loadNavbar: true,
     loadFooter: true,
     notFoundPage: true,
+    executeScript: true,
     maxLevel: 2,
     alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
