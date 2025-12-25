@@ -3,6 +3,10 @@ All important status updates of Forkman will be posted here.
 
 ___
 
+> ### <div class="heading"><img src="_media/online.png" width="40" height="40" draggable="false"> Online</div>
+> The issue has been resolved and Forkman is back online using a new hosting provider.\
+> <sub>December 25, 2025 – 02:21:49 AM (UTC)</sub>
+
 > ### <div class="heading"><img src="_media/offline.png" width="40" height="40" draggable="false"> Offline</div>
 > Forkman is currently experiencing a downtime due to major issues with our hosting service. At this time, we cannot provide an estimated time for the issue to be resolved. We will keep you updated.\
 > <sub>December 22, 2025 – 11:54:11 AM (UTC)</sub>
