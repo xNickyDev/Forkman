@@ -1,1 +1,1 @@
-<div align="center">© 2022–2025 &nbsp; Forkman</div>
+<div align="center">© 2022–2026 &nbsp; Forkman</div>

@@ -22,5 +22,5 @@ If you have any questions, concerns, or complaints regarding this Agreement, we 
 
 ---
 
-**Copyright © 2025 Forkman**\
+**Copyright © 2026 Forkman**\
 *-- This document was last updated on January 10, 2024 --*
