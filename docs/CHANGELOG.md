@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026
+
+### January
+* Added emojis to player info select menu
+* Added tags to clan name autocomplete search
+
 ## 2025
 
 ### September

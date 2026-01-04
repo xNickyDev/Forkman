@@ -1,4 +1,10 @@
 {
+    "2026": {
+        "january": [
+            "Added emojis to player info select menu",
+            "Added tags to clan name autocomplete search"
+        ]
+    },
     "2025": {
         "september": [
             "Fixed components of `/player highscores`",
