@@ -5,6 +5,7 @@
 ### January
 * Added emojis to player info select menu
 * Added tags to clan name autocomplete search
+* Hidden profile parts are no longer shown in select menu
 
 ## 2025
 
