@@ -2,6 +2,9 @@
 
 ## 2026
 
+### February
+* Added advanced page navigation buttons to `/role icons`
+
 ### January
 * Added emojis to player info select menu
 * Added tags to clan name autocomplete search

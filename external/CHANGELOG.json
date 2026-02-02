@@ -1,5 +1,8 @@
 {
     "2026": {
+        "february": [
+            "Added advanced page navigation buttons to `/role icons`"
+        ],
         "january": [
             "Added emojis to player info select menu",
             "Added tags to clan name autocomplete search",
