@@ -3,6 +3,10 @@ All important status updates of Forkman will be posted here.
 
 ___
 
+> ### <div class="heading"><img src="_media/online.png" width="40" height="40" draggable="false"> Online</div>
+> Forkman is now back online, we are sorry for the inconveniences!\
+> <sub>February 17, 2026 – 05:01:25 PM (UTC)</sub>
+
 > ### <div class="heading"><img src="_media/offline.png" width="40" height="40" draggable="false"> Offline</div>
 > Due to issues with hosting our services, Forkman is currently offline. We should be back soon though!\
 > <sub>February 13, 2026 – 06:27:19 PM (UTC)</sub>
