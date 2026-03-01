@@ -21,7 +21,7 @@
   - [/balance](commands/balance.md)
   - &nbsp;/battlepass
     - [/battlepass challenges](commands/battlepass/challenges.md)
-    - [/battlepass season](commands/battlepass/season.md)
+    - [/battlepass info](commands/battlepass/info.md)
     - [/battlepass shop](commands/battlepass/shop.md)
   - [/bodypaints](commands/bodypaints.md)
   - &nbsp;/bot

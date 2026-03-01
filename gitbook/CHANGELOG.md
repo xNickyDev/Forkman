@@ -2,6 +2,10 @@
 
 ## 2026
 
+### March
+* Renamed `/battlepass season` to `/battlepass info`
+* Added `season` option to `/battlepass info`
+
 ### February
 * Added advanced page navigation buttons to `/role icons`
 
