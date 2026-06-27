@@ -48,6 +48,7 @@
     - [/clan search](commands/clan/search.md)
   - [/collections](commands/collections.md)
   - [/emojis](commands/emojis.md)
+  - [/events](commands/events.md)
   - &nbsp;/game
     - [/game bomber](commands/game/bomber.md)
     - [/game flood](commands/game/flood.md)

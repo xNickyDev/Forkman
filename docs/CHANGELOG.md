@@ -6,6 +6,7 @@
 * Added `/moonlight`
 * Added "Profile Icon" option to player profiles
 * Added profile image to player profiles
+* Added `/events`
 
 ### March
 * Renamed `/battlepass season` to `/battlepass info`
