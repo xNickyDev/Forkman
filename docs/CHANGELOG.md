@@ -2,6 +2,11 @@
 
 ## 2026
 
+### June
+* Added `/moonlight`
+* Added "Profile Icon" option to player profiles
+* Added profile image to player profiles
+
 ### March
 * Renamed `/battlepass season` to `/battlepass info`
 * Added `season` option to `/battlepass info`
