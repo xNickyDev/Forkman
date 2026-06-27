@@ -63,6 +63,7 @@
   - [/items](commands/items.md)
   - [/leaderboard](commands/leaderboard.md)
   - [/loadingscreens](commands/loadingscreens.md)
+  - [/moonlight](commands/moonlight.md)
   - [/offers](commands/offers.md)
   - [/outfits](commands/outfits.md)
   - &nbsp;/player
