@@ -1,5 +1,8 @@
 {
     "2026": {
+        "july": [
+            "Added **Event** field to `/roles` and `/role info`"
+        ],
         "june": [
             "Added `/moonlight`",
             "Added \"Profile Icon\" option to player profiles",

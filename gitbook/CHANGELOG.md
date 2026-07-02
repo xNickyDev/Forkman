@@ -2,6 +2,9 @@
 
 ## 2026
 
+### July
+* Added **Event** field to `/roles` and `/role info`
+
 ### June
 * Added `/moonlight`
 * Added "Profile Icon" option to player profiles
