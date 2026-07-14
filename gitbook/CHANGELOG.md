@@ -4,6 +4,8 @@
 
 ### July
 * Added **Event** field to `/roles` and `/role info`
+* Added **Min Level** field to `/items`
+* Replaced number buttons with advanced page navigation buttons at `/role rotations`
 
 ### June
 * Added `/moonlight`

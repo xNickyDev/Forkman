@@ -1,7 +1,9 @@
 {
     "2026": {
         "july": [
-            "Added **Event** field to `/roles` and `/role info`"
+            "Added **Event** field to `/roles` and `/role info`",
+            "Added **Min Level** field to `/items`",
+            "Replaced number buttons with advanced page navigation buttons at `/role rotations`"
         ],
         "june": [
             "Added `/moonlight`",
