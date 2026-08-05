@@ -2,6 +2,9 @@
 
 ## 2026
 
+### August
+* Fixed rejection errors for Wolvesville static media assets
+
 ### July
 * Added **Event** field to `/roles` and `/role info`
 * Added **Min Level** field to `/items`

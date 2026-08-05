@@ -1,5 +1,8 @@
 {
     "2026": {
+        "august": [
+            "Fixed rejection errors for Wolvesville static media assets"
+        ],
         "july": [
             "Added **Event** field to `/roles` and `/role info`",
             "Added **Min Level** field to `/items`",
