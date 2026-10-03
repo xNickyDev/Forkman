@@ -38,30 +38,39 @@ Returns all existing avatar items.
 #### **type**
 
 - `Shirt` - Filters items by Shirt type.
-- `Glasses` - Filters items by Glasses type.
 - `Hair` - Filters items by Hair type.
 - `Hat` - Filters items by Hat type.
-- `Eyes` - Filters items by Eyes type.
+- `Glasses` - Filters items by Glasses type.
 - `Gravestone` - Filters items by Gravestone type.
-- `Back` - Filters items by Back type.
 - `Front` - Filters items by Front type.
+- `Back` - Filters items by Back type.
+- `Eyes` - Filters items by Eyes type.
+- `Badge` - Filters items by Badge type.
 - `Mask` - Filters items by Mask type.
 - `Mouth` - Filters items by Mouth type.
-- `Badge` - Filters items by Badge type.
+- `Legs` - Filters items by Legs type.
 
 #### **event**
 
+- `Christmas` - Filters items by Christmas event.
 - `Easter` - Filters items by Easter event.
-- `Soccer` - Filters items by Soccer event.
 - `Halloween` - Filters items by Halloween event.
-- `Xmas` - Filters items by Xmas event.
+- `Early Bird` - Filters items by Early Bird event.
 - `St. Patrick` - Filters items by St. Patrick event.
+- `Battle Pass` - Filters items by Battle Pass event.
 - `Wheel` - Filters items by Wheel event.
 - `Items Collection` - Filters items by Items Collection event.
-- `Subscription` - Filters items by Subscription event.
-- `Early Bird` - Filters items by Early Bird event.
+- `Soccer` - Filters items by Soccer event.
 - `Calendar` - Filters items by Calendar event.
-- `Battle Pass` - Filters items by Battle Pass event.
+- `Subscription` - Filters items by Subscription event.
+- `Role Cards` - Filters items by Role Cards event.
+- `Level Up Card` - Filters items by Level Up Card event.
+- `Emojis Collection` - Filters items by Emojis Collection event.
+- `Bundle Offer` - Filters items by Bundle Offer event.
+- `Honor Reward` - Filters items by Honor Reward event.
+- `Twitch` - Filters items by Twitch event.
+- `Black Friday` - Filters items by Black Friday event.
+- `Football 2026` - Filters items by Football 2026 event.
 
 <!-- tabs:end -->
 

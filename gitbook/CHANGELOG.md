@@ -2,6 +2,11 @@
 
 ## 2026
 
+### October
+* Added missing events to `/items` event filter
+* Added `event` filter option to `/role icons`
+* Added `event` filter option to `/roles`
+
 ### August
 * Fixed rejection errors for Wolvesville static media assets
 
